@@ -56,20 +56,20 @@
             <div class="elementor-element elementor-element-7458a4ec elementor-widget elementor-widget-image" data-id="7458a4ec" data-element_type="widget" data-widget_type="image.default">
             <div class="elementor-widget-container">
                             <div class="elementor-image">
-                                            <img width="300" height="38" src="https://www.republictitle.com/wp-content/uploads/2018/11/Subsidiary-Footer.png" class="attachment-medium size-medium" alt="subsidiary footer republic title" loading="lazy">														</div>
+                                            <img width="300" height="38" src="https://www.republictitle.com/wp-content/uploads/2018/11/Subsidiary-Footer.png" class="attachment-medium size-medium" alt="subsidiary footer AVANZA IMPLEMENTS LLC" loading="lazy">														</div>
                     </div>
             </div>
             <div class="elementor-element elementor-element-3a27d379 elementor-widget elementor-widget-text-editor" data-id="3a27d379" data-element_type="widget" data-widget_type="text-editor.default">
             <div class="elementor-widget-container">
                             <div class="elementor-text-editor elementor-clearfix">
-            <p style="text-align: center;">© COPYRIGHT 2021 REPUBLIC TITLE</p>					</div>
+            <p style="text-align: center;">© COPYRIGHT 2021 AVANZA IMPLEMENTS USA LLC</p>					</div>
                     </div>
             </div>
             <div class="elementor-element elementor-element-35e308b elementor-icon-list--layout-inline elementor-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="35e308b" data-element_type="widget" data-widget_type="icon-list.default">
             <div class="elementor-widget-container">
                 <ul class="elementor-icon-list-items elementor-inline-items">
                         <li class="elementor-icon-list-item elementor-inline-item">
-                                        <a href="https://www.facebook.com/RepublicTitle/" target="_blank">
+                                        <a href="https://www.facebook.com/" target="_blank">
 
                                             <span class="elementor-icon-list-icon">
                         <i aria-hidden="true" class="fab fa-facebook-f"></i>						</span>
@@ -77,7 +77,7 @@
                                         </a>
                                 </li>
                             <li class="elementor-icon-list-item elementor-inline-item">
-                                        <a href="https://www.instagram.com/republictitle/" target="_blank">
+                                        <a href="https://www.instagram.com/" target="_blank">
 
                                             <span class="elementor-icon-list-icon">
                         <i aria-hidden="true" class="fab fa-instagram"></i>						</span>
@@ -85,7 +85,7 @@
                                         </a>
                                 </li>
                             <li class="elementor-icon-list-item elementor-inline-item">
-                                        <a href="https://www.linkedin.com/company/republic-title/" target="_blank">
+                                        <a href="https://www.linkedin.com/" target="_blank">
 
                                             <span class="elementor-icon-list-icon">
                         <i aria-hidden="true" class="fab fa-linkedin-in"></i>						</span>
@@ -93,7 +93,7 @@
                                         </a>
                                 </li>
                             <li class="elementor-icon-list-item elementor-inline-item">
-                                        <a href="https://www.youtube.com/channel/UC_gDHPSCJlUCZ1jWvpoHFcw" target="_blank">
+                                        <a href="https://www.youtube.com/" target="_blank">
 
                                             <span class="elementor-icon-list-icon">
                         <i aria-hidden="true" class="fab fa-youtube"></i>						</span>
@@ -106,7 +106,7 @@
             <div class="elementor-element elementor-element-851b2f2 elementor-widget elementor-widget-text-editor" data-id="851b2f2" data-element_type="widget" data-widget_type="text-editor.default">
             <div class="elementor-widget-container">
                             <div class="elementor-text-editor elementor-clearfix">
-            <p style="text-align: center;">CORPORATE OFFICE – 2701 W. PLANO PARKWAY, SUITE 100 – PLANO, TEXAS 75075</p><p style="text-align: center;">(972) 578-8611</p><p style="text-align: center;">&nbsp;</p>					</div>
+            <p style="text-align: center;">CORPORATE OFFICE – 433 NORTH LOOP W. – HOUSTON, TEXAS 77008-2029</p><p style="text-align: center;">(972) 578-8611</p><p style="text-align: center;">&nbsp;</p>					</div>
                     </div>
             </div>
                     </div>

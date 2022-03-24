@@ -19,21 +19,21 @@
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Residential Title Insurance Calculator | REPUBLIC TITLE</title>
-	<meta name="description" content="Calculate your residential policy using our title insurance calculator. Connect with a Republic Title expert to learn more about your calculation." />
+	<title>Residential Title Insurance Calculator | AVANZA IMPLEMENTS LLC</title>
+	<meta name="description" content="Calculate your residential policy using our title insurance calculator. Connect with a AVANZA IMPLEMENTS LLC expert to learn more about your calculation." />
 	<link rel="canonical" href="https://www.republictitle.com/residential-calculator/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Residential Title Insurance Calculator | REPUBLIC TITLE" />
-	<meta property="og:description" content="Calculate your residential policy using our title insurance calculator. Connect with a Republic Title expert to learn more about your calculation." />
+	<meta property="og:title" content="Residential Title Insurance Calculator | AVANZA IMPLEMENTS LLC" />
+	<meta property="og:description" content="Calculate your residential policy using our title insurance calculator. Connect with a AVANZA IMPLEMENTS LLC expert to learn more about your calculation." />
 	<meta property="og:url" content="https://www.republictitle.com/residential-calculator/" />
-	<meta property="og:site_name" content="Republic Title" />
+	<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC" />
 	<meta property="article:modified_time" content="2021-06-01T16:55:44+00:00" />
 	<meta property="og:image" content="https://rttprod.wpengine.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="6 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/residential-calculator/#primaryimage","inLanguage":"en-US","url":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png","contentUrl":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png"},{"@type":"WebPage","@id":"https://www.republictitle.com/residential-calculator/#webpage","url":"https://www.republictitle.com/residential-calculator/","name":"Residential Title Insurance Calculator | REPUBLIC TITLE","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/residential-calculator/#primaryimage"},"datePublished":"2019-01-28T18:37:44+00:00","dateModified":"2021-06-01T16:55:44+00:00","description":"Calculate your residential policy using our title insurance calculator. Connect with a Republic Title expert to learn more about your calculation.","breadcrumb":{"@id":"https://www.republictitle.com/residential-calculator/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/residential-calculator/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/residential-calculator/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Residential Calculator"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/residential-calculator/#primaryimage","inLanguage":"en-US","url":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png","contentUrl":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png"},{"@type":"WebPage","@id":"https://www.republictitle.com/residential-calculator/#webpage","url":"https://www.republictitle.com/residential-calculator/","name":"Residential Title Insurance Calculator | AVANZA IMPLEMENTS LLC","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/residential-calculator/#primaryimage"},"datePublished":"2019-01-28T18:37:44+00:00","dateModified":"2021-06-01T16:55:44+00:00","description":"Calculate your residential policy using our title insurance calculator. Connect with a AVANZA IMPLEMENTS LLC expert to learn more about your calculation.","breadcrumb":{"@id":"https://www.republictitle.com/residential-calculator/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/residential-calculator/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/residential-calculator/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Residential Calculator"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -320,10 +320,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png" />
-<meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png" />
+	<link rel="icon" href="logo.png" sizes="32x32" />
+<link rel="icon" href="logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="logo.png" />
+<meta name="msapplication-TileImage" content="logo.png" />
 		<style type="text/css" id="wp-custom-css">
 			.aux-staff-img-rect { min-height: 1px;
 }		</style>
@@ -1897,7 +1897,7 @@ if( !validateNumeric(value))
         </form>
         </div>
         <div class="title-content" style="padding:25px 35px;">
-<p>This calculator is intended as an estimate only and may not show all available credits. Republic Title makes no express or implied warranty or representation respecting the information presented and assumes no responsibility for errors or omissions.</p>
+<p>This calculator is intended as an estimate only and may not show all available credits. AVANZA IMPLEMENTS LLC makes no express or implied warranty or representation respecting the information presented and assumes no responsibility for errors or omissions.</p>
        </div></center>
 
   </div>
@@ -1953,7 +1953,7 @@ if( !validateNumeric(value))
 		</section>
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-041baf0 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="041baf0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_video_link&quot;:&quot;https:\/\/rttprod.wpengine.com\/wp-content\/uploads\/2019\/01\/RT.mp4&quot;,&quot;background_video_start&quot;:0,&quot;background_video_end&quot;:30}">
 								<div class="elementor-background-video-container elementor-hidden-phone">
-													<video class="elementor-background-video-hosted elementor-html5-video" autoplay muted playsinline loop></video>
+													<!-- <video class="elementor-background-video-hosted elementor-html5-video" autoplay muted playsinline loop></video> -->
 											</div>
 									<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -1984,13 +1984,13 @@ if( !validateNumeric(value))
 				<div class="elementor-element elementor-element-09682c8 elementor-widget elementor-widget-image" data-id="09682c8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="location asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />														</div>
+												<img width="150" height="150" src="" class="attachment-thumbnail size-thumbnail" alt="location asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-aa04987 elementor-align-center elementor-widget elementor-widget-button" data-id="aa04987" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/locations" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="locations.php" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">FIND A LOCATION</span>
 		</span>

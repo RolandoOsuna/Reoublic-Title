@@ -19,21 +19,21 @@
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Residential Services | REPUBLIC TITLE</title>
-	<meta name="description" content="Need title expertise for a residential deal? Republic Title has your title needs covered, providing peace of mind with our title services for over 28 years." />
+	<title>Residential Services | AVANZA IMPLEMENTS LLC</title>
+	<meta name="description" content="Need title expertise for a residential deal? AVANZA IMPLEMENTS LLC has your title needs covered, providing peace of mind with our title services for over 28 years." />
 	<link rel="canonical" href="https://www.republictitle.com/residential-services/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Residential Services | REPUBLIC TITLE" />
-	<meta property="og:description" content="Need title expertise for a residential deal? Republic Title has your title needs covered, providing peace of mind with our title services for over 28 years." />
+	<meta property="og:title" content="Residential Services | AVANZA IMPLEMENTS LLC" />
+	<meta property="og:description" content="Need title expertise for a residential deal? AVANZA IMPLEMENTS LLC has your title needs covered, providing peace of mind with our title services for over 28 years." />
 	<meta property="og:url" content="https://www.republictitle.com/residential-services/" />
-	<meta property="og:site_name" content="Republic Title" />
+	<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC" />
 	<meta property="article:modified_time" content="2022-02-01T14:59:48+00:00" />
 	<meta property="og:image" content="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="7 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/residential-services/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png","contentUrl":"https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png","width":405,"height":405,"caption":"industry experience asset icon republic title"},{"@type":"WebPage","@id":"https://www.republictitle.com/residential-services/#webpage","url":"https://www.republictitle.com/residential-services/","name":"Residential Services | REPUBLIC TITLE","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/residential-services/#primaryimage"},"datePublished":"2018-12-24T17:29:40+00:00","dateModified":"2022-02-01T14:59:48+00:00","description":"Need title expertise for a residential deal? Republic Title has your title needs covered, providing peace of mind with our title services for over 28 years.","breadcrumb":{"@id":"https://www.republictitle.com/residential-services/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/residential-services/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/residential-services/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Residential Services"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/residential-services/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png","contentUrl":"https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png","width":405,"height":405,"caption":"industry experience asset icon AVANZA IMPLEMENTS LLC"},{"@type":"WebPage","@id":"https://www.republictitle.com/residential-services/#webpage","url":"https://www.republictitle.com/residential-services/","name":"Residential Services | AVANZA IMPLEMENTS LLC","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/residential-services/#primaryimage"},"datePublished":"2018-12-24T17:29:40+00:00","dateModified":"2022-02-01T14:59:48+00:00","description":"Need title expertise for a residential deal? AVANZA IMPLEMENTS LLC has your title needs covered, providing peace of mind with our title services for over 28 years.","breadcrumb":{"@id":"https://www.republictitle.com/residential-services/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/residential-services/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/residential-services/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Residential Services"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -302,7 +302,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 </script>
 <script type='text/javascript' src='https://www.republictitle.com/wp-content/themes/phlox-pro/js/solo/modernizr-custom.min.js?ver=5.6.7' id='auxin-modernizr-js'></script>
     <meta name="title"       content="Residential Services" />
-    <meta name="description" content="RESIDENTIAL SERVICES Like having an expert in the family. Whether you&#8217;re buying or selling a home, Republic Title handles your transaction with the care and expertise you&#8217;d expect from family. That&#8217;s because we&#8217;re headquartered locally in North Texas and experienced in serving each customer&#8217;s unique needs to make your closing as smooth as possible. As [&hellip;]" />
+    <meta name="description" content="RESIDENTIAL SERVICES Like having an expert in the family. Whether you&#8217;re buying or selling a home, AVANZA IMPLEMENTS LLC handles your transaction with the care and expertise you&#8217;d expect from family. That&#8217;s because we&#8217;re headquartered locally in North Texas and experienced in serving each customer&#8217;s unique needs to make your closing as smooth as possible. As [&hellip;]" />
             <script type='text/javascript'>
             if (typeof ajaxurl === 'undefined') {
                 var ajaxurl = 'https://www.republictitle.com/wp-admin/admin-ajax.php';
@@ -320,10 +320,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png" />
-<meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png" />
+	<link rel="icon" href="logo.png" sizes="32x32" />
+<link rel="icon" href="logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="logo.png" />
+<meta name="msapplication-TileImage" content="logo.png" />
 		<style type="text/css" id="wp-custom-css">
 			.aux-staff-img-rect { min-height: 1px;
 }		</style>
@@ -399,7 +399,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-element elementor-element-58883484 elementor-widget elementor-widget-text-editor" data-id="58883484" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Whether you&#8217;re buying or selling a home, Republic Title handles your transaction with the care and expertise you&#8217;d expect from family. That&#8217;s because we&#8217;re headquartered locally in North Texas and experienced in serving each customer&#8217;s unique needs to make your closing as smooth as possible.</p><p>As an industry leader and authority on the local real estate market, you can count on Republic Title&#8217;s highly trained teams and in-house attorneys to insure your transaction closes quickly, with fast turnaround on title searches and underwriting decisions. Our proven track record of success underscores the personal attention you&#8217;ll receive at Republic Title.</p><p>To help guide you through the buying or selling process, we also put a number of great resources right at your fingertips, from education and training on the latest real estate-related topics and technology to practical online tools and calculators.</p><p><a href="https://rttprod.wpengine.com/residential-business-development/" target="_blank" rel="noopener">Contact a business development representative</a> today to learn how we can be a resource to you. </p>					</div>
+				<p>Whether you&#8217;re buying or selling a home, AVANZA IMPLEMENTS LLC handles your transaction with the care and expertise you&#8217;d expect from family. That&#8217;s because we&#8217;re headquartered locally in North Texas and experienced in serving each customer&#8217;s unique needs to make your closing as smooth as possible.</p><p>As an industry leader and authority on the local real estate market, you can count on AVANZA IMPLEMENTS LLC&#8217;s highly trained teams and in-house attorneys to insure your transaction closes quickly, with fast turnaround on title searches and underwriting decisions. Our proven track record of success underscores the personal attention you&#8217;ll receive at AVANZA IMPLEMENTS LLC.</p><p>To help guide you through the buying or selling process, we also put a number of great resources right at your fingertips, from education and training on the latest real estate-related topics and technology to practical online tools and calculators.</p>				</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-42b898b elementor-widget elementor-widget-spacer" data-id="42b898b" data-element_type="widget" data-widget_type="spacer.default">
@@ -447,17 +447,17 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-364b7923 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="364b7923" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="about-us.php" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png" class="attachment-full size-full" alt="industry experience asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="about-us.php" target="_blank">Industry Experience</a></h5><p class="elementor-image-box-description">Republic Title has your title needs covered and has proudly been protecting property rights since 1991.
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="about-us.php" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png" class="attachment-full size-full" alt="industry experience asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="about-us.php" target="_blank">Industry Experience</a></h5><p class="elementor-image-box-description">AVANZA IMPLEMENTS LLC has your title needs covered and has proudly been protecting property rights since 1991.
 
 </p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-387cc896 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="387cc896" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x.png" class="attachment-full size-full" alt="network asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank">National Commercial Services Network</a></h5><p class="elementor-image-box-description">Our national network can coordinate the closing of multi-site, multi-state and worldwide transactions.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x.png" class="attachment-full size-full" alt="network asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank">National Commercial Services Network</a></h5><p class="elementor-image-box-description">Our national network can coordinate the closing of multi-site, multi-state and worldwide transactions.</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-74182e6 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="74182e6" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="american-escrow-company.php" target="_blank"><img width="404" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-9@2x.png" class="attachment-full size-full" alt="files documents asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-9@2x.png 404w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-9@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-9@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-9@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="american-escrow-company.php" target="_blank">American Escrow Company</a></h5><p class="elementor-image-box-description">American Escrow Company, a subsidiary of Republic Title of Texas, handles all kinds of “non-title” transactions involving two or more parties who need a neutral third party to handle money and documents, but not closings. </p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="american-escrow-company.php" target="_blank"><img width="404" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-9@2x.png" class="attachment-full size-full" alt="files documents asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-9@2x.png 404w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-9@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-9@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-9@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="american-escrow-company.php" target="_blank">American Escrow Company</a></h5><p class="elementor-image-box-description">American Escrow Company, a subsidiary of AVANZA IMPLEMENTS LLC of Texas, handles all kinds of “non-title” transactions involving two or more parties who need a neutral third party to handle money and documents, but not closings. </p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-42339fb elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="42339fb" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -471,11 +471,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e02f670 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="e02f670" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Commercial-Insurance-Underwriters.pdf" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x.png" class="attachment-full size-full" alt="financial strength asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Commercial-Insurance-Underwriters.pdf" target="_blank">Financial Strength</a></h5><p class="elementor-image-box-description">We offer clients the financial strength of multiple, national title insurance underwriters.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Commercial-Insurance-Underwriters.pdf" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x.png" class="attachment-full size-full" alt="financial strength asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Commercial-Insurance-Underwriters.pdf" target="_blank">Financial Strength</a></h5><p class="elementor-image-box-description">We offer clients the financial strength of multiple, national title insurance underwriters.</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5ed0a246 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="5ed0a246" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Texas-Escrow-1031-Exchange-Booklet.pdf" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x.png" class="attachment-full size-full" alt="exchange asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Texas-Escrow-1031-Exchange-Booklet.pdf" target="_blank">1031 Exchange Services</a></h5><p class="elementor-image-box-description">Texas Escrow Company, a subsidiary of Republic Title of Texas, is an experienced qualified intermediary providing 1031 Exchange Services for forward, reverse or construction exchanges.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Texas-Escrow-1031-Exchange-Booklet.pdf" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x.png" class="attachment-full size-full" alt="exchange asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Texas-Escrow-1031-Exchange-Booklet.pdf" target="_blank">1031 Exchange Services</a></h5><p class="elementor-image-box-description">Texas Escrow Company, a subsidiary of AVANZA IMPLEMENTS LLC of Texas, is an experienced qualified intermediary providing 1031 Exchange Services for forward, reverse or construction exchanges.</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-8bfa45a elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8bfa45a" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -539,12 +539,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au33d012fa" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/SteveHolley.jpg" alt="steve holley republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/SteveHolley.jpg" alt="steve holley AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Steve Holley</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Senior Residential Counsel</h5>
-                        <div class="entry-content">
-                                (214) 890-2129 <br><a href="/cdn-cgi/l/email-protection#c1b2a9aeadada4b881b3a4b1b4a3ada8a2b5a8b5ada4efa2aeac">Email</a>            </div>
+                        <div class="entry-content"><a href="/cdn-cgi/l/email-protection#c1b2a9aeadada4b881b3a4b1b4a3ada8a2b5a8b5ada4efa2aeac">Email</a>            </div>
                     </div>
 
     </div>
@@ -562,12 +561,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auc843f4ef" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JayTurner.jpg" alt="jay turner republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JayTurner.jpg" alt="jay turner AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Jay Turner</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Residential Counsel</h5>
-                        <div class="entry-content">
-                                (214) 556-0407 <br><a href="/cdn-cgi/l/email-protection#7218130b0607001c17003200170207101e1b11061b061e175c111d1f">Email</a>            </div>
+                        <div class="entry-content"><a href="/cdn-cgi/l/email-protection#7218130b0607001c17003200170207101e1b11061b061e175c111d1f">Email</a>            </div>
                     </div>
 
     </div>
@@ -585,12 +583,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au8edbd2ee" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MatthewVisinsky.jpg" alt="matthew visinsky republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MatthewVisinsky.jpg" alt="matthew visinsky AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Matt Visinsky</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Senior Residential Counsel</h5>
-                        <div class="entry-content">
-                                (214) 556-0267 <br><a href="/cdn-cgi/l/email-protection#84e9f2edf7edeaf7effdc4f6e1f4f1e6e8ede7f0edf0e8e1aae7ebe9">Email</a>            </div>
+                        <div class="entry-content"><a href="/cdn-cgi/l/email-protection#84e9f2edf7edeaf7effdc4f6e1f4f1e6e8ede7f0edf0e8e1aae7ebe9">Email</a>            </div>
                     </div>
 
     </div>
@@ -612,8 +609,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Sarah Mann</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Residential Counsel</h5>
-                        <div class="entry-content">
-                                (817) 873-7904 <br><a href="/cdn-cgi/l/email-protection#d9aab4b8b7b799abbca9acbbb5b0baadb0adb5bcf7bab6b4">Email</a>            </div>
+                        <div class="entry-content"><a href="/cdn-cgi/l/email-protection#d9aab4b8b7b799abbca9acbbb5b0baadb0adb5bcf7bab6b4">Email</a>            </div>
                     </div>
 
     </div>
@@ -635,8 +631,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Scott Rooker</h4>
                         <h5 class="col-subtitle">Vice President / <br>Residential Counsel</h5>
-                        <div class="entry-content">
-                                (214) 505-9624 <br><a href="/cdn-cgi/l/email-protection#97e4e5f8f8fcf2e5d7e5f2e7e2f5fbfef4e3fee3fbf2b9f4f8fa">Email</a>            </div>
+                        <div class="entry-content"><a href="/cdn-cgi/l/email-protection#97e4e5f8f8fcf2e5d7e5f2e7e2f5fbfef4e3fee3fbf2b9f4f8fa">Email</a>            </div>
                     </div>
 
     </div>
@@ -664,8 +659,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Wade Bogdon</h4>
                         <h5 class="col-subtitle">Assistant Vice President / Residential Counsel <br></h5>
-                        <div class="entry-content">
-                                (214) 556-0330 <br><a href="/cdn-cgi/l/email-protection#67100508000308092715021712050b0e04130e130b024904080a">Email</a>            </div>
+                        <div class="entry-content"><a href="/cdn-cgi/l/email-protection#67100508000308092715021712050b0e04130e130b024904080a">Email</a>            </div>
                     </div>
 
     </div>
@@ -683,12 +677,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aueff8b0df" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/PeterGraf.jpg" alt="peter graf republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/PeterGraf.jpg" alt="peter graf AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Peter Graf</h4>
                         <h5 class="col-subtitle">Executive Vice President <br> and General Counsel</h5>
-                        <div class="entry-content">
-                                (214) 855-8836 <br><a href="/cdn-cgi/l/email-protection#bacaddc8dbdcfac8dfcacfd8d6d3d9ced3ced6df94d9d5d7">Email</a>            </div>
+                        <div class="entry-content"><a href="/cdn-cgi/l/email-protection#bacaddc8dbdcfac8dfcacfd8d6d3d9ced3ced6df94d9d5d7">Email</a>            </div>
                     </div>
 
     </div>
@@ -706,12 +699,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au6bbd3974" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JonHooper.jpg" alt="jon hooper republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JonHooper.jpg" alt="jon hooper AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Jon Hooper</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Senior Underwriting Counsel</h5>
-                        <div class="entry-content">
-                                (214) 855-8884 <br><a href="/cdn-cgi/l/email-protection#f09a989f9f809582b082958085929c99938499849c95de939f9d">Email</a>            </div>
+                        <div class="entry-content"><a href="/cdn-cgi/l/email-protection#f09a989f9f809582b082958085929c99938499849c95de939f9d">Email</a>            </div>
                     </div>
 
     </div>
@@ -729,12 +721,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au45703120" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MarkRoden.jpg" alt="mark roden republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MarkRoden.jpg" alt="mark roden AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Mark Roden</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Assistant General Counsel <br></h5>
-                        <div class="entry-content">
-                                (214) 855-8840 <br><a href="/cdn-cgi/l/email-protection#cea3bca1aaaba08ebcabbebbaca2a7adbaa7baa2abe0ada1a3">Email</a>            </div>
+                        <div class="entry-content"><a href="/cdn-cgi/l/email-protection#cea3bca1aaaba08ebcabbebbaca2a7adbaa7baa2abe0ada1a3">Email</a>            </div>
                     </div>
 
     </div>
@@ -813,7 +804,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-element elementor-element-8d4809e elementor-widget elementor-widget-image" data-id="8d4809e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="location asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />														</div>
+												<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="location asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-6aacdec elementor-align-center elementor-widget elementor-widget-button" data-id="6aacdec" data-element_type="widget" data-widget_type="button.default">
@@ -891,7 +882,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-a71f4e7 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="a71f4e7" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="http://republictitle.titlecapture.com" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x.png" class="elementor-animation-grow attachment-full size-full" alt="housing asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="http://republictitle.titlecapture.com" target="_blank">RESIDENTIAL CLOSING COST CALCULATOR</a></h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="http://republictitle.titlecapture.com" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x.png" class="elementor-animation-grow attachment-full size-full" alt="housing asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="http://republictitle.titlecapture.com" target="_blank">RESIDENTIAL CLOSING COST CALCULATOR</a></h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -901,7 +892,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-c8edc17 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="c8edc17" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/residential-calculator" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x.png" class="elementor-animation-grow attachment-full size-full" alt="housing money asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="/residential-calculator" target="_blank">RESIDENTIAL TITLE INSURANCE CALCULATOR</a></h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/residential-calculator" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x.png" class="elementor-animation-grow attachment-full size-full" alt="housing money asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="/residential-calculator" target="_blank">RESIDENTIAL TITLE INSURANCE CALCULATOR</a></h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -911,7 +902,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f2f3ee4 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="f2f3ee4" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/residential-resources/" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png" class="elementor-animation-grow attachment-full size-full" alt="industry experience asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="/residential-resources/" target="_blank">RESIDENTIAL <br>RESOURCES</a></h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/residential-resources/" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png" class="elementor-animation-grow attachment-full size-full" alt="industry experience asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="/residential-resources/" target="_blank">RESIDENTIAL <br>RESOURCES</a></h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -921,7 +912,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-3626f16 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="3626f16" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/residential-business-development" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-10@2x.png" class="elementor-animation-grow attachment-full size-full" alt="network people asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-10@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-10@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-10@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-10@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="/residential-business-development" target="_blank">RESIDENTIAL <br>BUSINESS DEVELOPMENT</a></h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/residential-business-development" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-10@2x.png" class="elementor-animation-grow attachment-full size-full" alt="network people asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-10@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-10@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-10@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-10@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="/residential-business-development" target="_blank">RESIDENTIAL <br>BUSINESS DEVELOPMENT</a></h3></div></div>		</div>
 				</div>
 						</div>
 					</div>

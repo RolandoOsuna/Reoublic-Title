@@ -19,21 +19,21 @@
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Commercial Resources | REPUBLIC TITLE</title>
-	<meta name="description" content="Check out our commercial resources and speak with a Republic Title expert for more information on how to make better title insurance decisions." />
+	<title>Commercial Resources | AVANZA IMPLEMENTS LLC</title>
+	<meta name="description" content="Check out our commercial resources and speak with a AVANZA IMPLEMENTS LLC expert for more information on how to make better title insurance decisions." />
 	<link rel="canonical" href="https://www.republictitle.com/commercial-resources/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Commercial Resources | REPUBLIC TITLE" />
-	<meta property="og:description" content="Check out our commercial resources and speak with a Republic Title expert for more information on how to make better title insurance decisions." />
+	<meta property="og:title" content="Commercial Resources | AVANZA IMPLEMENTS LLC" />
+	<meta property="og:description" content="Check out our commercial resources and speak with a AVANZA IMPLEMENTS LLC expert for more information on how to make better title insurance decisions." />
 	<meta property="og:url" content="https://www.republictitle.com/commercial-resources/" />
-	<meta property="og:site_name" content="Republic Title" />
+	<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC" />
 	<meta property="article:modified_time" content="2021-12-07T21:34:54+00:00" />
 	<meta property="og:image" content="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="1 minute" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/commercial-resources/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png","contentUrl":"https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png","width":405,"height":405,"caption":"location asset icon republic title"},{"@type":"WebPage","@id":"https://www.republictitle.com/commercial-resources/#webpage","url":"https://www.republictitle.com/commercial-resources/","name":"Commercial Resources | REPUBLIC TITLE","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/commercial-resources/#primaryimage"},"datePublished":"2018-12-24T18:47:21+00:00","dateModified":"2021-12-07T21:34:54+00:00","description":"Check out our commercial resources and speak with a Republic Title expert for more information on how to make better title insurance decisions.","breadcrumb":{"@id":"https://www.republictitle.com/commercial-resources/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/commercial-resources/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/commercial-resources/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Commercial Resources"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/commercial-resources/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png","contentUrl":"https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png","width":405,"height":405,"caption":"location asset icon AVANZA IMPLEMENTS LLC"},{"@type":"WebPage","@id":"https://www.republictitle.com/commercial-resources/#webpage","url":"https://www.republictitle.com/commercial-resources/","name":"Commercial Resources | AVANZA IMPLEMENTS LLC","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/commercial-resources/#primaryimage"},"datePublished":"2018-12-24T18:47:21+00:00","dateModified":"2021-12-07T21:34:54+00:00","description":"Check out our commercial resources and speak with a AVANZA IMPLEMENTS LLC expert for more information on how to make better title insurance decisions.","breadcrumb":{"@id":"https://www.republictitle.com/commercial-resources/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/commercial-resources/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/commercial-resources/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Commercial Resources"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -320,10 +320,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png" />
-<meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png" />
+	<link rel="icon" href="logo.png" sizes="32x32" />
+<link rel="icon" href="logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="logo.png" />
+<meta name="msapplication-TileImage" content="logo.png" />
 		<style type="text/css" id="wp-custom-css">
 			.aux-staff-img-rect { min-height: 1px;
 }		</style>
@@ -480,13 +480,13 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-element elementor-element-45211a7 elementor-widget elementor-widget-image" data-id="45211a7" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="location asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />														</div>
+												<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="location asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c97863d elementor-align-center elementor-widget elementor-widget-button" data-id="c97863d" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/commercial" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="locations.php" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">FIND A LOCATION</span>
 		</span>
@@ -567,7 +567,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="commercial-calculator.php">
-							<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="money asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />								</a>
+							<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="money asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />								</a>
 														</div>
 						</div>
 				</div>

@@ -19,21 +19,21 @@
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Commercial Title Insurance Calculator | REPUBLIC TITLE</title>
-	<meta name="description" content="Calculate your commercial policy using our title insurance calculator. Connect with a Republic Title expert to learn more about your calculation." />
+	<title>Commercial Title Insurance Calculator | AVANZA IMPLEMENTS LLC</title>
+	<meta name="description" content="Calculate your commercial policy using our title insurance calculator. Connect with a AVANZA IMPLEMENTS LLC expert to learn more about your calculation." />
 	<link rel="canonical" href="https://www.republictitle.com/commercial-calculator/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Commercial Title Insurance Calculator | REPUBLIC TITLE" />
-	<meta property="og:description" content="Calculate your commercial policy using our title insurance calculator. Connect with a Republic Title expert to learn more about your calculation." />
+	<meta property="og:title" content="Commercial Title Insurance Calculator | AVANZA IMPLEMENTS LLC" />
+	<meta property="og:description" content="Calculate your commercial policy using our title insurance calculator. Connect with a AVANZA IMPLEMENTS LLC expert to learn more about your calculation." />
 	<meta property="og:url" content="https://www.republictitle.com/commercial-calculator/" />
-	<meta property="og:site_name" content="Republic Title" />
+	<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC" />
 	<meta property="article:modified_time" content="2021-06-01T15:39:09+00:00" />
 	<meta property="og:image" content="https://rttprod.wpengine.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="6 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/commercial-calculator/#primaryimage","inLanguage":"en-US","url":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png","contentUrl":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png"},{"@type":"WebPage","@id":"https://www.republictitle.com/commercial-calculator/#webpage","url":"https://www.republictitle.com/commercial-calculator/","name":"Commercial Title Insurance Calculator | REPUBLIC TITLE","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/commercial-calculator/#primaryimage"},"datePublished":"2019-01-29T00:57:12+00:00","dateModified":"2021-06-01T15:39:09+00:00","description":"Calculate your commercial policy using our title insurance calculator. Connect with a Republic Title expert to learn more about your calculation.","breadcrumb":{"@id":"https://www.republictitle.com/commercial-calculator/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/commercial-calculator/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/commercial-calculator/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Commercial Calculator"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/commercial-calculator/#primaryimage","inLanguage":"en-US","url":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png","contentUrl":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png"},{"@type":"WebPage","@id":"https://www.republictitle.com/commercial-calculator/#webpage","url":"https://www.republictitle.com/commercial-calculator/","name":"Commercial Title Insurance Calculator | AVANZA IMPLEMENTS LLC","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/commercial-calculator/#primaryimage"},"datePublished":"2019-01-29T00:57:12+00:00","dateModified":"2021-06-01T15:39:09+00:00","description":"Calculate your commercial policy using our title insurance calculator. Connect with a AVANZA IMPLEMENTS LLC expert to learn more about your calculation.","breadcrumb":{"@id":"https://www.republictitle.com/commercial-calculator/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/commercial-calculator/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/commercial-calculator/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Commercial Calculator"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -320,10 +320,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png" />
-<meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png" />
+	<link rel="icon" href="logo.png" sizes="32x32" />
+<link rel="icon" href="logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="logo.png" />
+<meta name="msapplication-TileImage" content="logo.png" />
 		<style type="text/css" id="wp-custom-css">
 			.aux-staff-img-rect { min-height: 1px;
 }		</style>
@@ -726,8 +726,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 
 <div class="clear"></div>
 <div class="title-content" style="padding:25px 35px;">
-<!--<p>The Republic Title of Texas, Inc. (RTT) Amortization Calculator (RTAC) is an internet based platform which provides our customers with a user-friendly method of obtaining amortization information for loans. There may be variables that need to be considered in determining the amortization, including transaction specific items which are beyond the functionality provided by the RTAC. All estimates obtained through the use of this calculator are dependent upon the accuracy of the information you entered into the calculator. Please contact your local RTT office to confirm your amortization. --> 
-<p>This calculator is intended as an estimate only and may not show all available credits. Republic Title makes no express or implied warranty or representation respecting the information presented and assumes no responsibility for errors or omissions. </p>
+<!--<p>The AVANZA IMPLEMENTS LLC of Texas, Inc. (RTT) Amortization Calculator (RTAC) is an internet based platform which provides our customers with a user-friendly method of obtaining amortization information for loans. There may be variables that need to be considered in determining the amortization, including transaction specific items which are beyond the functionality provided by the RTAC. All estimates obtained through the use of this calculator are dependent upon the accuracy of the information you entered into the calculator. Please contact your local RTT office to confirm your amortization. --> 
+<p>This calculator is intended as an estimate only and may not show all available credits. AVANZA IMPLEMENTS LLC makes no express or implied warranty or representation respecting the information presented and assumes no responsibility for errors or omissions. </p>
 <!--<p>RTT makes no express or implied warranty respecting the information presented and assumes no responsibility for errors or omissions.</p>-->
 </div>	
 
@@ -834,13 +834,13 @@ var sprytextfield1 = new Spry.Widget.ValidationTextField("sprytextfield1", "curr
 				<div class="elementor-element elementor-element-883b787 elementor-widget elementor-widget-image" data-id="883b787" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="location asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />														</div>
+												<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="location asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-20d1f6e elementor-align-center elementor-widget elementor-widget-button" data-id="20d1f6e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/locations" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="locations.php" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">FIND A LOCATION</span>
 		</span>

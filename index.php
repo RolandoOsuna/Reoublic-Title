@@ -9,21 +9,21 @@
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
 <!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>Home | REPUBLIC TITLE</title>
-<meta name="description" content="Republic Title handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments.">
-<link rel="canonical" href="https://www.republictitle.com/">
+<title>Home | AVANZA IMPLEMENTS LLC</title>
+<meta name="description" content="AVANZA IMPLEMENTS LLC handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments.">
+<!-- <link rel="canonical" href="https://www.republictitle.com/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Home | REPUBLIC TITLE">
-<meta property="og:description" content="Republic Title handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments.">
+<meta property="og:title" content="Home | AVANZA IMPLEMENTS LLC">
+<meta property="og:description" content="AVANZA IMPLEMENTS LLC handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments.">
 <meta property="og:url" content="https://www.republictitle.com/">
-<meta property="og:site_name" content="Republic Title">
+<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC">
 <meta property="article:modified_time" content="2021-10-20T15:37:01+00:00">
 <meta property="og:image" content="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/White-Logo-pc3vyiqietiukpavoylyx4o6p423b9q4bu18qyl23g.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:label1" content="Est. reading time">
-<meta name="twitter:data1" content="5 minutes">
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/elementor/thumbs/White-Logo-pc3vyiqietiukpavoylyx4o6p423b9q4bu18qyl23g.png","contentUrl":"https://www.republictitle.com/wp-content/uploads/elementor/thumbs/White-Logo-pc3vyiqietiukpavoylyx4o6p423b9q4bu18qyl23g.png"},{"@type":"WebPage","@id":"https://www.republictitle.com/#webpage","url":"https://www.republictitle.com/","name":"Home | REPUBLIC TITLE","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/#primaryimage"},"datePublished":"2015-01-16T22:02:10+00:00","dateModified":"2021-10-20T15:37:01+00:00","description":"Republic Title handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments.","breadcrumb":{"@id":"https://www.republictitle.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+<meta name="twitter:data1" content="5 minutes"> -->
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/elementor/thumbs/White-Logo-pc3vyiqietiukpavoylyx4o6p423b9q4bu18qyl23g.png","contentUrl":"https://www.republictitle.com/wp-content/uploads/elementor/thumbs/White-Logo-pc3vyiqietiukpavoylyx4o6p423b9q4bu18qyl23g.png"},{"@type":"WebPage","@id":"https://www.republictitle.com/#webpage","url":"https://www.republictitle.com/","name":"Home | AVANZA IMPLEMENTS LLC","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/#primaryimage"},"datePublished":"2015-01-16T22:02:10+00:00","dateModified":"2021-10-20T15:37:01+00:00","description":"AVANZA IMPLEMENTS LLC handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments.","breadcrumb":{"@id":"https://www.republictitle.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
 <!-- / Yoast SEO plugin. -->
 
 
@@ -289,7 +289,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 </script>
 <script type="text/javascript" src="https://www.republictitle.com/wp-content/themes/phlox-pro/js/solo/modernizr-custom.min.js?ver=5.6.7" id="auxin-modernizr-js"></script>
 <meta name="title" content="Home">
-<meta name="description" content="Proven Experience. Dedicated Service. Lasting Relationships. Protecting Property Rights Since 1991. Republic Title of Texas, Inc., is a full-service title insurance company that handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments. With a mission to provide value to every customer that we serve […]">
+<meta name="description" content="Proven Experience. Dedicated Service. Lasting Relationships. Protecting Property Rights Since 1991. AVANZA IMPLEMENTS LLC of Texas, Inc., is a full-service title insurance company that handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments. With a mission to provide value to every customer that we serve […]">
         <script type="text/javascript">
         if (typeof ajaxurl === 'undefined') {
             var ajaxurl = 'https://www.republictitle.com/wp-admin/admin-ajax.php';
@@ -307,8 +307,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32">
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192">
+<link rel="icon" href="logo.png" sizes="32x32">
+<link rel="icon" href="logo.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png">
 <meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png">
     <style type="text/css" id="wp-custom-css">
@@ -340,7 +340,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                     <div class="elementor-element elementor-element-792a5b5 elementor-widget elementor-widget-image" data-id="792a5b5" data-element_type="widget" data-widget_type="image.default">
             <div class="elementor-widget-container">
                             <div class="elementor-image">
-                                            <img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/White-Logo-pc3vyiqietiukpavoylyx4o6p423b9q4bu18qyl23g.png" title="White Logo" alt="white republic title logo">														</div>
+                                            <img src="logo-white.png" title="White Logo" alt="white AVANZA IMPLEMENTS LLC logo">														</div>
                     </div>
             </div>
             <div class="elementor-element elementor-element-bdae681 elementor-widget elementor-widget-heading" data-id="bdae681" data-element_type="widget" data-widget_type="heading.default">
@@ -380,7 +380,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="elementor-element elementor-element-33e1e64 elementor-widget elementor-widget-text-editor" data-id="33e1e64" data-element_type="widget" data-widget_type="text-editor.default">
             <div class="elementor-widget-container">
                             <div class="elementor-text-editor elementor-clearfix">
-            <p><span style="font-size: 16px;">Republic Title of Texas, Inc., is a full-service title insurance company that handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments.</span></p><p>With a mission to provide value to every customer that we serve through proven experience, dedicated service and lasting relationships, Republic Title treats each real estate transaction for our home buyers, sellers, lenders and commercial customers with care, professionalism and integrity. We are committed to exceptional, responsive customer service, with a track record of success that is unsurpassed.</p><p style="font-size: 16px;">Headquartered in North Texas and locally operated, we are the authority in real estate transactions and a leader in all matters concerning title insurance. Our Residential Division consisting of 13 <a href="https://rttprod.wpengine.com/locations/" target="_blank" rel="noopener">residential</a> offices conveniently located throughout the Dallas-Fort Worth area make us the title partner of choice for thousands of our North Texas neighbors. Our Commercial Division with offices in both <a href="https://rttprod.wpengine.com/dallas-uptown-commercial/" target="_blank" rel="noopener">Uptown Dallas</a> and <a href="https://rttprod.wpengine.com/fort-worth-commercial/" target="_blank" rel="noopener">Downtown Fort Worth</a> is proud to operate as the <a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank" rel="noopener">First American Title National Commercial Services</a> office for the Dallas-Fort Worth region. With company origins dating to 1965, Republic Title, a wholly owned subsidiary of First American, was founded in 1991 and has grown into the largest title company in Texas and one of the top commercial escrow and title agencies in the nation, for projects across the U.S. and internationally.</p>					</div>
+            <p><span style="font-size: 16px;">AVANZA IMPLEMENTS LLC of Texas, Inc., is a full-service title insurance company that handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments.</span></p><p>With a mission to provide value to every customer that we serve through proven experience, dedicated service and lasting relationships, AVANZA IMPLEMENTS LLC treats each real estate transaction for our home buyers, sellers, lenders and commercial customers with care, professionalism and integrity. We are committed to exceptional, responsive customer service, with a track record of success that is unsurpassed.</p><p style="font-size: 16px;">Headquartered in North Texas and locally operated, we are the authority in real estate transactions and a leader in all matters concerning title insurance. Our Residential Division consisting of 13 <a href="https://rttprod.wpengine.com/locations/" target="_blank" rel="noopener">residential</a> offices conveniently located throughout the Dallas-Fort Worth area make us the title partner of choice for thousands of our North Texas neighbors. Our Commercial Division with offices in both <a href="https://rttprod.wpengine.com/dallas-uptown-commercial/" target="_blank" rel="noopener">Uptown Dallas</a> and <a href="https://rttprod.wpengine.com/fort-worth-commercial/" target="_blank" rel="noopener">Downtown Fort Worth</a> is proud to operate as the <a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank" rel="noopener">First American Title National Commercial Services</a> office for the Dallas-Fort Worth region. With company origins dating to 1965, AVANZA IMPLEMENTS LLC, a wholly owned subsidiary of First American, was founded in 1991 and has grown into the largest title company in Texas and one of the top commercial escrow and title agencies in the nation, for projects across the U.S. and internationally.</p>					</div>
                     </div>
             </div>
             <div class="elementor-element elementor-element-4382cf5 elementor-widget elementor-widget-spacer" data-id="4382cf5" data-element_type="widget" data-widget_type="spacer.default">
@@ -422,7 +422,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             </div>
             <div class="elementor-element elementor-element-281ee82 elementor-widget elementor-widget-heading" data-id="281ee82" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-        <h4 class="elementor-heading-title elementor-size-default">REPUBLIC TITLE OF TEXAS</h4>		</div>
+        <h4 class="elementor-heading-title elementor-size-default">AVANZA IMPLEMENTS LLC OF TEXAS</h4>		</div>
             </div>
             <div class="elementor-element elementor-element-e7b7f04 elementor-widget elementor-widget-heading" data-id="e7b7f04" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
@@ -468,7 +468,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-450c39d elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="450c39d" data-element_type="widget" data-widget_type="image-box.default">
             <div class="elementor-widget-container">
-        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="http://republictitle.titlecapture.com" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x.png" class="elementor-animation-grow attachment-full size-full" alt="housing asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="http://republictitle.titlecapture.com" target="_blank">RESIDENTIAL CLOSING COST CALCULATOR</a></h3></div></div>		</div>
+        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x.png" class="elementor-animation-grow attachment-full size-full" alt="housing asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-7@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="" target="_blank">RESIDENTIAL CLOSING COST CALCULATOR</a></h3></div></div>		</div>
             </div>
                     </div>
                 </div>
@@ -478,7 +478,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-89fac47 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="89fac47" data-element_type="widget" data-widget_type="image-box.default">
             <div class="elementor-widget-container">
-        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/residential-calculator" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x.png" class="elementor-animation-grow attachment-full size-full" alt="housing money asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="/residential-calculator" target="_blank">RESIDENTIAL TITLE INSURANCE CALCULATOR</a></h3></div></div>		</div>
+        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/residential-calculator" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x.png" class="elementor-animation-grow attachment-full size-full" alt="housing money asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-6@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="/residential-calculator" target="_blank">RESIDENTIAL TITLE INSURANCE CALCULATOR</a></h3></div></div>		</div>
             </div>
                     </div>
                 </div>
@@ -488,7 +488,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-ee66170 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ee66170" data-element_type="widget" data-widget_type="image-box.default">
             <div class="elementor-widget-container">
-        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/commercial-calculator" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png" class="elementor-animation-grow attachment-full size-full" alt="money asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="commercial-calculator.php" target="_blank">COMMERCIAL TITLE INSURANCE CALCULATOR</a></h3></div></div>		</div>
+        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/commercial-calculator" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png" class="elementor-animation-grow attachment-full size-full" alt="money asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-150x150.png 150w"></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="commercial-calculator.php" target="_blank">COMMERCIAL TITLE INSURANCE CALCULATOR</a></h3></div></div>		</div>
             </div>
                     </div>
                 </div>
@@ -540,14 +540,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
         <div class="elementor-post__card">
             <div class="elementor-post__text">
             <h3 class="elementor-post__title">
-        <a href="https://www.republictitle.com/what-to-expect-at-closing/">
-            What To Expect At Closing			</a>
+            What To Expect At Closing
     </h3>
             <div class="elementor-post__excerpt">
-        <p>https://youtu.be/XnVBLy9lhC4 There are many steps in the home buying process – saving, searching, shopping, inspecting, etc. Once you get through all of these steps, you</p>
+        <p>There are many steps in the home buying process – saving, searching, shopping, inspecting, etc. Once you get through all of these steps, you</p>
     </div>
-                <a class="elementor-post__read-more" href="https://www.republictitle.com/what-to-expect-at-closing/">
-            Read More »			</a>
+               
             </div>
             <div class="elementor-post__meta-data">
                 <span class="elementor-post-date">
@@ -559,14 +557,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
         <div class="elementor-post__card">
             <div class="elementor-post__text">
             <h3 class="elementor-post__title">
-        <a href="https://www.republictitle.com/march-landscape-gardening-tips-to-dos/">
-            March Landscape &amp; Gardening Tips &amp; to-Dos			</a>
+            March Landscape &amp; Gardening Tips &amp; to-Dos
     </h3>
             <div class="elementor-post__excerpt">
         <p>Need help planting a successful garden or landscape?&nbsp;Here are some March planting tips from the Dallas Arboretum horticulture staff and the Dallas County Master Gardeners</p>
     </div>
-                <a class="elementor-post__read-more" href="https://www.republictitle.com/march-landscape-gardening-tips-to-dos/">
-            Read More »			</a>
+                
             </div>
             <div class="elementor-post__meta-data">
                 <span class="elementor-post-date">
@@ -578,14 +574,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
         <div class="elementor-post__card">
             <div class="elementor-post__text">
             <h3 class="elementor-post__title">
-        <a href="https://www.republictitle.com/march-class-calendar/">
-            March Class Calendar			</a>
+            March Class Calendar
     </h3>
             <div class="elementor-post__excerpt">
-        <p>Republic Title is pleased to offer a variety of continuing education classes for our customers. Join us in March for classes including: Online Contracts via</p>
+        <p>AVANZA IMPLEMENTS LLC is pleased to offer a variety of continuing education classes for our customers. Join us in March for classes including: Online Contracts via</p>
     </div>
-                <a class="elementor-post__read-more" href="https://www.republictitle.com/march-class-calendar/">
-            Read More »			</a>
             </div>
             <div class="elementor-post__meta-data">
                 <span class="elementor-post-date">
@@ -597,14 +590,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
         <div class="elementor-post__card">
             <div class="elementor-post__text">
             <h3 class="elementor-post__title">
-        <a href="https://www.republictitle.com/texas-housing-insight-november-2021/">
-            Texas Housing Insight November 2021			</a>
+            Texas Housing Insight November 2021
     </h3>
             <div class="elementor-post__excerpt">
         <p>Texas’ housing market continued to rise in November, trending upward despite ongoing supply constraints. Months of inventory slid to 1.5 months, and single-family permits weakened.</p>
     </div>
-                <a class="elementor-post__read-more" href="https://www.republictitle.com/texas-housing-insight-november-2021/">
-            Read More »			</a>
             </div>
             <div class="elementor-post__meta-data">
                 <span class="elementor-post-date">
@@ -616,14 +606,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
         <div class="elementor-post__card">
             <div class="elementor-post__text">
             <h3 class="elementor-post__title">
-        <a href="https://www.republictitle.com/january-2022-dfw-area-real-estate-stats/">
-            January 2022 DFW Area Real Estate Stats			</a>
+            January 2022 DFW Area Real Estate Stats
     </h3>
             <div class="elementor-post__excerpt">
         <p>January stats are here and we have the numbers!&nbsp; Our&nbsp;stats infographics&nbsp;include a year over year comparison and area highlights for single family homes and condos</p>
     </div>
-                <a class="elementor-post__read-more" href="https://www.republictitle.com/january-2022-dfw-area-real-estate-stats/">
-            Read More »			</a>
+                
             </div>
             <div class="elementor-post__meta-data">
                 <span class="elementor-post-date">
@@ -635,14 +623,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
         <div class="elementor-post__card">
             <div class="elementor-post__text">
             <h3 class="elementor-post__title">
-        <a href="https://www.republictitle.com/samantha-lipton-named-southlake-branch-manager/">
-            Samantha Lipton Named Southlake Branch Manager			</a>
+            Samantha Lipton Named Southlake Branch Manager
     </h3>
             <div class="elementor-post__excerpt">
-        <p>Republic Title is pleased to announce the promotion of Samantha Lipton to Branch Manager of our Southlake office. “We are excited to announce that Samantha</p>
+        <p>AVANZA IMPLEMENTS LLC is pleased to announce the promotion of Samantha Lipton to Branch Manager of our Southlake office. “We are excited to announce that Samantha</p>
     </div>
-                <a class="elementor-post__read-more" href="https://www.republictitle.com/samantha-lipton-named-southlake-branch-manager/">
-            Read More »			</a>
             </div>
             <div class="elementor-post__meta-data">
                 <span class="elementor-post-date">
@@ -695,7 +680,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-ef8ffd2 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ef8ffd2" data-element_type="widget" data-widget_type="image-box.default">
             <div class="elementor-widget-container">
-        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/about-us/" target="_blank"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/best-practicesAsset-31@2x-pc3uz534qljla9214hp2em1wh0wvtnsr83vn854z5s.png" title="best practicesAsset 31@2x" alt="best practices icon republic title"></a></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title"><a href="/about-us/" target="_blank">30 Years in Business</a></h6><p class="elementor-image-box-description">Protecting property rights since 1991</p></div></div>		</div>
+        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="about-us.php" target="_blank"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/best-practicesAsset-31@2x-pc3uz534qljla9214hp2em1wh0wvtnsr83vn854z5s.png" title="best practicesAsset 31@2x" alt="best practices icon AVANZA IMPLEMENTS LLC"></a></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title"><a href="about-us.php" target="_blank">30 Years in Business</a></h6><p class="elementor-image-box-description">Protecting property rights since 1991</p></div></div>		</div>
             </div>
                     </div>
                 </div>
@@ -705,7 +690,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-0336fb7 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="0336fb7" data-element_type="widget" data-widget_type="image-box.default">
             <div class="elementor-widget-container">
-        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.tlta.com/" target="_blank"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/TLTA-Blue-pc3vgrk6vrnuqqsa1km0e41196tjierzclhh5fqrcw.png" title="TLTA Blue" alt="TLTA Texas Land Title Association Republic Title logo icon"></a></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title"><a href="https://www.tlta.com/" target="_blank">TLTA Membership</a></h6><p class="elementor-image-box-description">Active in the Texas Land Title Association</p></div></div>		</div>
+        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.tlta.com/" target="_blank"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/TLTA-Blue-pc3vgrk6vrnuqqsa1km0e41196tjierzclhh5fqrcw.png" title="TLTA Blue" alt="TLTA Texas Land Title Association AVANZA IMPLEMENTS LLC logo icon"></a></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title"><a href="https://www.tlta.com/" target="_blank">TLTA Membership</a></h6><p class="elementor-image-box-description">Active in the Texas Land Title Association</p></div></div>		</div>
             </div>
                     </div>
                 </div>
@@ -715,7 +700,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-b920984 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="b920984" data-element_type="widget" data-widget_type="image-box.default">
             <div class="elementor-widget-container">
-        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/Aprio-Best-Practices-Mark-pc3uwvb680fn86cte0civoossi3y7zs3wv4eh2i874.png" title="Aprio Best Practices Mark" alt="Aprio Best practices mark blue logo Republic title"></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title">ALTA Best Practices Certified</h6><p class="elementor-image-box-description">Follow ALTA's seven pillars of best practices for the title insurance industry </p></div></div>		</div>
+        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/Aprio-Best-Practices-Mark-pc3uwvb680fn86cte0civoossi3y7zs3wv4eh2i874.png" title="Aprio Best Practices Mark" alt="Aprio Best practices mark blue logo AVANZA IMPLEMENTS LLC"></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title">ALTA Best Practices Certified</h6><p class="elementor-image-box-description">Follow ALTA's seven pillars of best practices for the title insurance industry </p></div></div>		</div>
             </div>
                     </div>
                 </div>
@@ -731,7 +716,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-3cbe10c elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="3cbe10c" data-element_type="widget" data-widget_type="image-box.default">
             <div class="elementor-widget-container">
-        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.dallasnews.com/business/top-100/" target="_blank"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/DMN-Blue-pc3v6dgfbpg0m8jtw48q3acl0r9k1tiejwl55sexa8.png" title="DMN Blue" alt="Dallas Morning News blue logo Top 100 Republic Title"></a></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title"><a href="https://www.dallasnews.com/business/top-100/" target="_blank">Dallas Morning News Top Workplaces</a></h6><p class="elementor-image-box-description">Proudly named a Top Workplace by the Dallas Morning News for eight years in a row</p></div></div>		</div>
+        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.dallasnews.com/business/top-100/" target="_blank"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/DMN-Blue-pc3v6dgfbpg0m8jtw48q3acl0r9k1tiejwl55sexa8.png" title="DMN Blue" alt="Dallas Morning News blue logo Top 100 AVANZA IMPLEMENTS LLC"></a></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title"><a href="https://www.dallasnews.com/business/top-100/" target="_blank">Dallas Morning News Top Workplaces</a></h6><p class="elementor-image-box-description">Proudly named a Top Workplace by the Dallas Morning News for eight years in a row</p></div></div>		</div>
             </div>
                     </div>
                 </div>
@@ -741,7 +726,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-8ffa043 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8ffa043" data-element_type="widget" data-widget_type="image-box.default">
             <div class="elementor-widget-container">
-        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.alta.org/" target="_blank"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/Eagle-Blue-pc3vpp0zt3vx1dtbwfkf2uwoeyt2mw86kslja2i48w.png" title="Eagle Blue" alt="Amercian Land Title Association Republic Title Eagle Blue logo icon"></a></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title"><a href="https://www.alta.org/" target="_blank">ALTA Membership</a></h6><p class="elementor-image-box-description">Active in the American Land Title Association</p></div></div>		</div>
+        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.alta.org/" target="_blank"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/Eagle-Blue-pc3vpp0zt3vx1dtbwfkf2uwoeyt2mw86kslja2i48w.png" title="Eagle Blue" alt="Amercian Land Title Association AVANZA IMPLEMENTS LLC Eagle Blue logo icon"></a></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title"><a href="https://www.alta.org/" target="_blank">ALTA Membership</a></h6><p class="elementor-image-box-description">Active in the American Land Title Association</p></div></div>		</div>
             </div>
                     </div>
                 </div>
@@ -751,7 +736,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-4556554 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4556554" data-element_type="widget" data-widget_type="image-box.default">
             <div class="elementor-widget-container">
-        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.bizjournals.com/dallas/news/2019/10/24/best-places-to-work-large-2019.html" target="_blank"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/BPTW-Blue-pc3vfax891o2wvkvqz74s1886j936ayls3p7af6a68.png" title="BPTW Blue" alt="BPTW Blue Dallas business journal 2018 best places to work Republic Title"></a></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title"><a href="https://www.bizjournals.com/dallas/news/2019/10/24/best-places-to-work-large-2019.html" target="_blank">DBJ Best Places to Work</a></h6><p class="elementor-image-box-description">Named a Best Place to Work by Dallas Business Journal for eight years in a row</p></div></div>		</div>
+        <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.bizjournals.com/dallas/news/2019/10/24/best-places-to-work-large-2019.html" target="_blank"><img src="https://www.republictitle.com/wp-content/uploads/elementor/thumbs/BPTW-Blue-pc3vfax891o2wvkvqz74s1886j936ayls3p7af6a68.png" title="BPTW Blue" alt="BPTW Blue Dallas business journal 2018 best places to work AVANZA IMPLEMENTS LLC"></a></figure><div class="elementor-image-box-content"><h6 class="elementor-image-box-title"><a href="https://www.bizjournals.com/dallas/news/2019/10/24/best-places-to-work-large-2019.html" target="_blank">DBJ Best Places to Work</a></h6><p class="elementor-image-box-description">Named a Best Place to Work by Dallas Business Journal for eight years in a row</p></div></div>		</div>
             </div>
                     </div>
                 </div>

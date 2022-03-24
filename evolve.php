@@ -19,21 +19,21 @@
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>eVolve | eClosing | Republic Title</title>
-	<meta name="description" content="Republic Title is going digital with eVolve. Experience virtual real estate buying and selling through eclosing technology." />
+	<title>eVolve | eClosing | AVANZA IMPLEMENTS LLC</title>
+	<meta name="description" content="AVANZA IMPLEMENTS LLC is going digital with eVolve. Experience virtual real estate buying and selling through eclosing technology." />
 	<link rel="canonical" href="https://www.republictitle.com/evolve/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="eVolve | eClosing | Republic Title" />
-	<meta property="og:description" content="Republic Title is going digital with eVolve. Experience virtual real estate buying and selling through eclosing technology." />
+	<meta property="og:title" content="eVolve | eClosing | AVANZA IMPLEMENTS LLC" />
+	<meta property="og:description" content="AVANZA IMPLEMENTS LLC is going digital with eVolve. Experience virtual real estate buying and selling through eclosing technology." />
 	<meta property="og:url" content="https://www.republictitle.com/evolve/" />
-	<meta property="og:site_name" content="Republic Title" />
+	<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC" />
 	<meta property="article:modified_time" content="2021-09-29T20:23:35+00:00" />
 	<meta property="og:image" content="https://www.republictitle.com/wp-content/uploads/2020/06/eVolve-Logo_v7.0-small.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="7 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/evolve/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/2020/06/eVolve-Logo_v7.0-small.jpg","contentUrl":"https://www.republictitle.com/wp-content/uploads/2020/06/eVolve-Logo_v7.0-small.jpg","width":600,"height":185},{"@type":"WebPage","@id":"https://www.republictitle.com/evolve/#webpage","url":"https://www.republictitle.com/evolve/","name":"eVolve | eClosing | Republic Title","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/evolve/#primaryimage"},"datePublished":"2020-07-06T22:00:17+00:00","dateModified":"2021-09-29T20:23:35+00:00","description":"Republic Title is going digital with eVolve. Experience virtual real estate buying and selling through eclosing technology.","breadcrumb":{"@id":"https://www.republictitle.com/evolve/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/evolve/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/evolve/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"eVolve"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/evolve/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/2020/06/eVolve-Logo_v7.0-small.jpg","contentUrl":"https://www.republictitle.com/wp-content/uploads/2020/06/eVolve-Logo_v7.0-small.jpg","width":600,"height":185},{"@type":"WebPage","@id":"https://www.republictitle.com/evolve/#webpage","url":"https://www.republictitle.com/evolve/","name":"eVolve | eClosing | AVANZA IMPLEMENTS LLC","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/evolve/#primaryimage"},"datePublished":"2020-07-06T22:00:17+00:00","dateModified":"2021-09-29T20:23:35+00:00","description":"AVANZA IMPLEMENTS LLC is going digital with eVolve. Experience virtual real estate buying and selling through eclosing technology.","breadcrumb":{"@id":"https://www.republictitle.com/evolve/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/evolve/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/evolve/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"eVolve"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -303,7 +303,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 </script>
 <script type='text/javascript' src='https://www.republictitle.com/wp-content/themes/phlox-pro/js/solo/modernizr-custom.min.js?ver=5.6.7' id='auxin-modernizr-js'></script>
     <meta name="title"       content="eVolve" />
-    <meta name="description" content="Real estate is going digital. So is Republic Title. What is eVolve? eVolve is Republic Title’s Digital Settlement and Signing Services Division and provides a new, convenient and alternative experience in buying/selling real estate. Republic Title is leading this transformation and developing innovative and secure ways to evolve this process for our customers. Technology and [&hellip;]" />
+    <meta name="description" content="Real estate is going digital. So is AVANZA IMPLEMENTS LLC. What is eVolve? eVolve is AVANZA IMPLEMENTS LLC’s Digital Settlement and Signing Services Division and provides a new, convenient and alternative experience in buying/selling real estate. AVANZA IMPLEMENTS LLC is leading this transformation and developing innovative and secure ways to evolve this process for our customers. Technology and [&hellip;]" />
             <script type='text/javascript'>
             if (typeof ajaxurl === 'undefined') {
                 var ajaxurl = 'https://www.republictitle.com/wp-admin/admin-ajax.php';
@@ -321,8 +321,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192" />
+	<link rel="icon" href="logo.png" sizes="32x32" />
+<link rel="icon" href="logo.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png" />
 <meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png" />
 		<style type="text/css" id="wp-custom-css">
@@ -359,7 +359,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-element elementor-element-b71837e elementor-widget elementor-widget-image" data-id="b71837e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="600" height="185" src="https://www.republictitle.com/wp-content/uploads/2020/06/eVolve-Logo_v7.0-small.jpg" class="attachment-full size-full" alt="" loading="lazy" />														</div>
+												<img width="600" height="185" src="eVolve-Logo_v7.0-small.jpg" class="attachment-full size-full" alt="" loading="lazy" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-1df62f14 elementor-widget elementor-widget-spacer" data-id="1df62f14" data-element_type="widget" data-widget_type="spacer.default">
@@ -385,37 +385,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-8a762d4 elementor-nav-menu__align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-global elementor-global-12906 elementor-widget-nav-menu" data-id="8a762d4" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;fas fa-angle-down&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-fade"><!-- start master menu -->
-<ul id="menu-1-8a762d4" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9462 current_page_item menu-item-has-children menu-item-9522"><a href="https://www.republictitle.com/evolve/" aria-current="page" class="elementor-item elementor-item-active">eVOLVE HOME</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9526"><a href="https://www.republictitle.com/evolve-ron/" class="elementor-sub-item">Remote Online Notarization (RON)</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9528"><a href="https://www.republictitle.com/evolve-mobile-first/" class="elementor-sub-item">Mobile First</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9527"><a href="https://www.republictitle.com/evolve-open-title-order/" class="elementor-item">OPEN TITLE ORDER</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9524"><a href="https://www.republictitle.com/evolve-schedule-signing/" class="elementor-item">SCHEDULE A SIGNING</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9525"><a href="https://www.republictitle.com/evolve-ron-vetting-form/" class="elementor-item">ARE YOU RON READY</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18080"><a href="https://www.republictitle.com/evolve-upload-docs/" class="elementor-item">UPLOAD DOCS</a></li>
-</ul>
+
 <!-- end master menu -->
 </nav>
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="eicon-menu-bar"></i>			<span class="elementor-screen-only">Menu</span>
-		</div>
-			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><!-- start master menu -->
-<ul id="menu-2-8a762d4" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9462 current_page_item menu-item-has-children menu-item-9522"><a href="https://www.republictitle.com/evolve/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">eVOLVE HOME</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9526"><a href="https://www.republictitle.com/evolve-ron/" class="elementor-sub-item" tabindex="-1">Remote Online Notarization (RON)</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9528"><a href="https://www.republictitle.com/evolve-mobile-first/" class="elementor-sub-item" tabindex="-1">Mobile First</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9527"><a href="https://www.republictitle.com/evolve-open-title-order/" class="elementor-item" tabindex="-1">OPEN TITLE ORDER</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9524"><a href="https://www.republictitle.com/evolve-schedule-signing/" class="elementor-item" tabindex="-1">SCHEDULE A SIGNING</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9525"><a href="https://www.republictitle.com/evolve-ron-vetting-form/" class="elementor-item" tabindex="-1">ARE YOU RON READY</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18080"><a href="https://www.republictitle.com/evolve-upload-docs/" class="elementor-item" tabindex="-1">UPLOAD DOCS</a></li>
-</ul>
-<!-- end master menu -->
-</nav>
-				</div>
+					
+			
 				</div>
 						</div>
 					</div>
@@ -439,12 +413,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				</div>
 				<div class="elementor-element elementor-element-05019d3 elementor-widget elementor-widget-global elementor-global-12914 elementor-widget-heading" data-id="05019d3" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Real estate is going digital.  So is Republic Title.</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Real estate is going digital.  So is AVANZA IMPLEMENTS LLC.</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5aaa82fa elementor-widget elementor-widget-text-editor" data-id="5aaa82fa" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h2><span style="color: #003366;">What is eVolve?</span></h2><p>eVolve is Republic Title’s Digital Settlement and Signing Services Division and provides a new, convenient and alternative experience in buying/selling real estate.</p><p>Republic Title is leading this transformation and developing innovative and secure ways to evolve this process for our customers. Technology and added convenience is constantly changing the way people conduct business. When our customers have scheduling conflicts — whether it’s a busy day in the office or traveling on vacation — Republic Title is able to facilitate the transaction through one of our premium closing services, either at a place of business through our <a href="https://rttprod.wpengine.com/evolve-mobile-first/" target="_blank" rel="noopener">Mobile First</a> experience or through our <a href="https://rttprod.wpengine.com/evolve-ron/" target="_blank" rel="noopener">Remote Online Notary eClosing</a> experience. Our dedicated team of professionals will provide our customers with a clear understanding of what is being signed and why it’s needed, ensuring a worry-free closing from anywhere in the world.</p>					</div>
+				<h2><span style="color: #003366;">What is eVolve?</span></h2><p>eVolve is AVANZA IMPLEMENTS LLC’s Digital Settlement and Signing Services Division and provides a new, convenient and alternative experience in buying/selling real estate.</p><p>AVANZA IMPLEMENTS LLC is leading this transformation and developing innovative and secure ways to evolve this process for our customers. Technology and added convenience is constantly changing the way people conduct business. When our customers have scheduling conflicts — whether it’s a busy day in the office or traveling on vacation — AVANZA IMPLEMENTS LLC is able to facilitate the transaction through one of our premium closing services, either at a place of business through our Mobile First experience or through our Remote Online Notary eClosing experience. Our dedicated team of professionals will provide our customers with a clear understanding of what is being signed and why it’s needed, ensuring a worry-free closing from anywhere in the world.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-54e2522 elementor-widget elementor-widget-spacer" data-id="54e2522" data-element_type="widget" data-widget_type="spacer.default">
@@ -528,73 +502,30 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-29968a66 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29968a66" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+				<!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-29968a66 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29968a66" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6a3d7cf6" data-id="6a3d7cf6" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-789923af elementor-widget elementor-widget-heading" data-id="789923af" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">eCLOSING VIDEOS</h2>		</div>
+				
 				</div>
 						</div>
 					</div>
 		</div>
 								</div>
 					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-0100d3f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0100d3f" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="aux-parallax-section elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f76cbf5" data-id="f76cbf5" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-fda03a7 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="fda03a7" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/TW9mk7Jg5cI&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;modestbranding&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<div class="elementor-video"></div>		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="aux-parallax-section elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ddbe2c5" data-id="ddbe2c5" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-64ced62 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="64ced62" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/6FBpTuQX7x8&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;modestbranding&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<div class="elementor-video"></div>		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="aux-parallax-section elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-973c077" data-id="973c077" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-575ecb9 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="575ecb9" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/Y00FetFZSQY&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;modestbranding&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<div class="elementor-video"></div>		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-ef90069 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ef90069" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+		</section> -->
+				
+				<!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-ef90069 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ef90069" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a183aa9" data-id="a183aa9" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-594d2a2 elementor-widget elementor-widget-heading" data-id="594d2a2" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">eCLOSING RESOURCES</h2>		</div>
+						<div class="elementor-element elementor-element-594d2a2 elementor-widget elementor-widget-heading" data-id="594d2a2" data-element_type="widget" data-widget_type="heading.default"> -->
+
 				</div>
 						</div>
 					</div>
@@ -611,9 +542,9 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-2ab6670d elementor-tabs-view-vertical elementor-widget elementor-widget-tabs" data-id="2ab6670d" data-element_type="widget" data-widget_type="tabs.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-tabs">
-			<div class="elementor-tabs-wrapper" role="tablist" >
+			<!-- <div class="elementor-tabs-wrapper" role="tablist" >
 									<div id="elementor-tab-title-7161" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-7161" aria-expanded="false"><a href="">HELPFUL INFORMATION</a></div>
-							</div>
+							</div> -->
 			<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-7161" aria-expanded="false">HELPFUL INFORMATION</div>
 					<div id="elementor-tab-content-7161" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-7161" tabindex="0" hidden="false"><p><a href="https://rttprod.wpengine.com/wp-content/uploads/2020/07/5-Benefits-of-eClosing.pdf" target="_blank" rel="noopener"><span style="text-decoration: underline;">5 Benefits of eClosing</span></a></p><p>5 reasons why you should consider an eClosing.</p><p><a href="https://rttprod.wpengine.com/wp-content/uploads/2020/07/ABCs-of-eClosing.pdf" target="_blank" rel="noopener"><span style="text-decoration: underline;">ABC&#8217;s of eClosing</span></a></p><p>Get familiar with common eClosing terminology.</p><p><a href="https://rttprod.wpengine.com/wp-content/uploads/2020/07/Republic-Titles-Guide-to-eClosing.pdf" target="_blank" rel="noopener"><span style="text-decoration: underline;">Guide to eClosing</span></a></p><p>With more closing options than ever before, this guide will help you understand the primary differences between the eClosing options.</p><p><a href="https://rttprod.wpengine.com/wp-content/uploads/2020/07/How-Does-RON-Work.pdf" target="_blank" rel="noopener"><span style="text-decoration: underline;">How does Remote Online Notarization (RON) Work</span></a></p><p>Learn the 4 steps to this new, technology-driven notarial process.</p><p><a href="https://rttprod.wpengine.com/wp-content/uploads/2020/07/RON-System-Requirements.pdf" target="_blank" rel="noopener"><u>Remote Online Notarization (RON) System Requirements</u></a></p><p>Minimum system requirements for RON transactions.</p><p><a href="https://rttprod.wpengine.com/wp-content/uploads/2020/07/RON-Transaction-Requirements.pdf" target="_blank" rel="noopener"><span style="text-decoration: underline;">Remote Online Notarization (RON) Transaction Requirements</span></a></p><p>Underwriting requirements for RON transactions.</p><p><span style="text-decoration: underline;"><a href="https://rttprod.wpengine.com/wp-content/uploads/2020/07/Types-of-Closings.pdf" target="_blank" rel="noopener">Types of Closings</a></span></p><p>Local laws and underwriting requirements will determine what types of closings are possible.</p></div>
@@ -627,7 +558,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-b678fab elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b678fab" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-b678fab elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b678fab" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-39153cd" data-id="39153cd" data-element_type="column">
@@ -642,7 +573,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 		</div>
 								</div>
 					</div>
-		</section>
+		</section> -->
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-71699e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="71699e4" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
@@ -696,8 +627,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Dennis Pospisil</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Digital Settlement and Signing Services</h5>
-                        <div class="entry-content">
-                                (214) 556-0400 <br><a href="mailto:dpospisil@republictitle.com">Email</a>  <br><a href="mailto:team-evolve@republictitle.com">Team Email</a>            </div>
+                        <div class="entry-content"><a href="mailto:dpospisil@avanzaimplements.com">Email</a>  <br><a href="mailto:team-evolve@avanzaimplements.com">Team Email</a>            </div>
                     </div>
 
     </div>
@@ -719,9 +649,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Audriana J. Laws</h4>
                         <h5 class="col-subtitle">Vice President / <br>Escrow Officer <br><br></h5>
-                        <div class="entry-content">
-                                (214) 556-0400 <br><a href="mailto:alaws@republictitle.com">Email</a>
-<br><a href="mailto:team-evolve@republictitle.com">Team Email</a>
+                        <div class="entry-content"><a href="mailto:alaws@avanzaimplements.com">Email</a>
+<br><a href="mailto:team-evolve@avanzaimplements.com">Team Email</a>
             </div>
                     </div>
 
@@ -744,9 +673,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Diane Sanders</h4>
                         <h5 class="col-subtitle">Escrow Officer <br><br><br></h5>
-                        <div class="entry-content">
-                                (214) 556-0400 <br><a href="mailto:dsanders@republictitle.com">Email</a>
-<br><a href="mailto:team-evolve@republictitle.com">Team Email</a>
+                        <div class="entry-content"><a href="mailto:dsanders@avanzaimplements.com">Email</a>
+<br><a href="mailto:team-evolve@avanzaimplements.com">Team Email</a>
             </div>
                     </div>
 
@@ -769,9 +697,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Robin Riggs</h4>
                         <h5 class="col-subtitle">Vice President / <br>Escrow Officer <br><br></h5>
-                        <div class="entry-content">
-                                (214) 556-0400 <br><a href="mailto:rriggs@republictitle.com">Email</a>
-<br><a href="mailto:team-evolve@republictitle.com">Team Email</a>
+                        <div class="entry-content"><a href="mailto:rriggs@avanzaimplements.com">Email</a>
+<br><a href="mailto:team-evolve@avanzaimplements.com">Team Email</a>
             </div>
                     </div>
 
@@ -822,7 +749,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-4191fa3b elementor-widget elementor-widget-text-editor" data-id="4191fa3b" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h4>Recent changes to the law and new technology makes it possible for Republic Title to extend our reach into the Austin, Houston and San Antonio markets.</h4>					</div>
+				<h4>Recent changes to the law and new technology makes it possible for AVANZA IMPLEMENTS LLC to extend our reach into the Austin, Houston and San Antonio markets.</h4>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-776ccebf elementor-widget elementor-widget-image" data-id="776ccebf" data-element_type="widget" data-widget_type="image.default">
@@ -867,10 +794,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
 			<a href="https://www.republictitle.com/republic-titles-evolve-team-closes-1000th-ron-in-2021/" >
-				Republic Title&#8217;s eVolve Team Closes 1,000th RON in 2021			</a>
+				AVANZA IMPLEMENTS LLC&#8217;s eVolve Team Closes 1,000th RON in 2021			</a>
 		</h3>
 				<div class="elementor-post__excerpt">
-			<p>Congratulations to Republic Title’s eVolve team for completing their 1,000th RON in 2021! eVolve is Republic Title’s Digital Settlement and Signing Services Division and provides</p>
+			<p>Congratulations to AVANZA IMPLEMENTS LLC’s eVolve team for completing their 1,000th RON in 2021! eVolve is AVANZA IMPLEMENTS LLC’s Digital Settlement and Signing Services Division and provides</p>
 		</div>
 					<a class="elementor-post__read-more" href="https://www.republictitle.com/republic-titles-evolve-team-closes-1000th-ron-in-2021/" >
 				Read More »			</a>
@@ -1106,14 +1033,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 
             <div  class="aux-search-section aux-404-search">
                 <div  class="aux-search-form aux-iconic-search">
-            <form action="https://www.republictitle.com/" method="get" >
-            <div class="aux-search-input-form">
-                            <input type="text" class="aux-search-field"  placeholder="Search..." name="s" autocomplete="off" />
-                                    </div>
-                            <div class="aux-submit-icon-container auxicon-search-4 ">
-                    <input type="submit" class="aux-iconic-search-submit" value="Search" >
-                </div>
-                        </form>
+            <!--  -->
         </div><!-- end searchform -->
                 </div>
 

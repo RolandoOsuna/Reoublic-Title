@@ -19,18 +19,18 @@
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Join Our Email List | REPUBLIC TITLE</title>
-	<meta name="description" content="Join our email list for the latest title insurance news. Learn title information specific to your DFW community from our Republic Title experts." />
+	<title>Join Our Email List | AVANZA IMPLEMENTS LLC</title>
+	<meta name="description" content="Join our email list for the latest title insurance news. Learn title information specific to your DFW community from our AVANZA IMPLEMENTS LLC experts." />
 	<link rel="canonical" href="https://www.republictitle.com/join-our-email-list/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Join Our Email List | REPUBLIC TITLE" />
-	<meta property="og:description" content="Join our email list for the latest title insurance news. Learn title information specific to your DFW community from our Republic Title experts." />
+	<meta property="og:title" content="Join Our Email List | AVANZA IMPLEMENTS LLC" />
+	<meta property="og:description" content="Join our email list for the latest title insurance news. Learn title information specific to your DFW community from our AVANZA IMPLEMENTS LLC experts." />
 	<meta property="og:url" content="https://www.republictitle.com/join-our-email-list/" />
-	<meta property="og:site_name" content="Republic Title" />
+	<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC" />
 	<meta property="article:modified_time" content="2021-09-15T14:23:36+00:00" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.republictitle.com/join-our-email-list/#webpage","url":"https://www.republictitle.com/join-our-email-list/","name":"Join Our Email List | REPUBLIC TITLE","isPartOf":{"@id":"https://www.republictitle.com/#website"},"datePublished":"2019-01-02T19:25:01+00:00","dateModified":"2021-09-15T14:23:36+00:00","description":"Join our email list for the latest title insurance news. Learn title information specific to your DFW community from our Republic Title experts.","breadcrumb":{"@id":"https://www.republictitle.com/join-our-email-list/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/join-our-email-list/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/join-our-email-list/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Join Our Email List"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.republictitle.com/join-our-email-list/#webpage","url":"https://www.republictitle.com/join-our-email-list/","name":"Join Our Email List | AVANZA IMPLEMENTS LLC","isPartOf":{"@id":"https://www.republictitle.com/#website"},"datePublished":"2019-01-02T19:25:01+00:00","dateModified":"2021-09-15T14:23:36+00:00","description":"Join our email list for the latest title insurance news. Learn title information specific to your DFW community from our AVANZA IMPLEMENTS LLC experts.","breadcrumb":{"@id":"https://www.republictitle.com/join-our-email-list/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/join-our-email-list/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/join-our-email-list/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Join Our Email List"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -317,10 +317,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png" />
-<meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png" />
+	<link rel="icon" href="logo.png" sizes="32x32" />
+<link rel="icon" href="logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="logo.png" />
+<meta name="msapplication-TileImage" content="logo.png" />
 		<style type="text/css" id="wp-custom-css">
 			.aux-staff-img-rect { min-height: 1px;
 }		</style>
@@ -336,12 +336,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 
     <!-- end header -->
 
-    <main id="main" class="aux-main aux-territory  aux-single aux-page aux-boxed-container no-sidebar aux-sidebar-style-border aux-user-entry" >
+    <main id="main" class="aux-main aux-territory  aux-single aux-page aux-boxed-container no-sidebar aux-sidebar-style-border aux-user-entry">
         <div class="aux-wrapper">
             <div class="aux-container aux-fold">
 
-                <div id="primary" class="aux-primary" >
-                    <div class="content" role="main"  >
+                <div id="primary" class="aux-primary">
+                    <div class="content" role="main">
 
                         
                 
@@ -351,11 +351,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                             <div class="entry-main">
 
                                 <div class="entry-content">
-
                                     		<div data-elementor-type="wp-page" data-elementor-id="1448" class="elementor elementor-1448" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-d965398 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d965398" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-d965398 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d965398" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}" style="width: 1058px; left: -35px;">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-48b49850" data-id="48b49850" data-element_type="column">
@@ -376,7 +375,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-2089576 elementor-widget elementor-widget-text-editor" data-id="2089576" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<iframe style="width: 100%; height: 810px; overflow: hidden; border: 0;" src="https://1a255e-6774.icpage.net/Email-Sign-up"></iframe>					</div>
+				<iframe style="width: 100%; height: 810px; overflow: hidden; border: 0;" src="email-Sign-up.php"></iframe>					</div>
 						</div>
 				</div>
 						</div>
@@ -433,7 +432,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                 
             </div><!-- end container -->
         </div><!-- end wrapper -->
-    </main><!-- end main -->
+    </main>
 
     <?php include('footer.php') ?>  
 		

@@ -18,20 +18,20 @@
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>American Escrow Company - Republic Title</title>
+	<title>American Escrow Company - AVANZA IMPLEMENTS LLC</title>
 	<link rel="canonical" href="https://www.republictitle.com/american-escrow-company/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="American Escrow Company - Republic Title" />
-	<meta property="og:description" content="AMERICAN ESCROW COMPANY American Escrow Company is a subsidiary of Republic Title of Texas, Inc. American Escrow Company acts as an independent, neutral escrow agent for all kinds of &#8220;non-title&#8221; transactions involving two or more parties who need a neutral third party to handle money and documents, but not closings. American Escrow Company is currently [&hellip;]" />
+	<meta property="og:title" content="American Escrow Company - AVANZA IMPLEMENTS LLC" />
+	<meta property="og:description" content="AMERICAN ESCROW COMPANY American Escrow Company is a subsidiary of AVANZA IMPLEMENTS LLC of Texas, Inc. American Escrow Company acts as an independent, neutral escrow agent for all kinds of &#8220;non-title&#8221; transactions involving two or more parties who need a neutral third party to handle money and documents, but not closings. American Escrow Company is currently [&hellip;]" />
 	<meta property="og:url" content="https://www.republictitle.com/american-escrow-company/" />
-	<meta property="og:site_name" content="Republic Title" />
+	<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC" />
 	<meta property="article:modified_time" content="2021-06-01T15:26:44+00:00" />
 	<meta property="og:image" content="https://rttprod.wpengine.com/wp-content/uploads/2020/04/ShaunaMorris2017.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="2 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/american-escrow-company/#primaryimage","inLanguage":"en-US","url":"https://rttprod.wpengine.com/wp-content/uploads/2020/04/ShaunaMorris2017.jpg","contentUrl":"https://rttprod.wpengine.com/wp-content/uploads/2020/04/ShaunaMorris2017.jpg"},{"@type":"WebPage","@id":"https://www.republictitle.com/american-escrow-company/#webpage","url":"https://www.republictitle.com/american-escrow-company/","name":"American Escrow Company - Republic Title","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/american-escrow-company/#primaryimage"},"datePublished":"2020-04-10T16:15:36+00:00","dateModified":"2021-06-01T15:26:44+00:00","breadcrumb":{"@id":"https://www.republictitle.com/american-escrow-company/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/american-escrow-company/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/american-escrow-company/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"American Escrow Company"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/american-escrow-company/#primaryimage","inLanguage":"en-US","url":"https://rttprod.wpengine.com/wp-content/uploads/2020/04/ShaunaMorris2017.jpg","contentUrl":"https://rttprod.wpengine.com/wp-content/uploads/2020/04/ShaunaMorris2017.jpg"},{"@type":"WebPage","@id":"https://www.republictitle.com/american-escrow-company/#webpage","url":"https://www.republictitle.com/american-escrow-company/","name":"American Escrow Company - AVANZA IMPLEMENTS LLC","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/american-escrow-company/#primaryimage"},"datePublished":"2020-04-10T16:15:36+00:00","dateModified":"2021-06-01T15:26:44+00:00","breadcrumb":{"@id":"https://www.republictitle.com/american-escrow-company/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/american-escrow-company/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/american-escrow-company/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"American Escrow Company"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -301,7 +301,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 </script>
 <script type='text/javascript' src='https://www.republictitle.com/wp-content/themes/phlox-pro/js/solo/modernizr-custom.min.js?ver=5.6.7' id='auxin-modernizr-js'></script>
     <meta name="title"       content="American Escrow Company" />
-    <meta name="description" content="AMERICAN ESCROW COMPANY American Escrow Company is a subsidiary of Republic Title of Texas, Inc. American Escrow Company acts as an independent, neutral escrow agent for all kinds of &#8220;non-title&#8221; transactions involving two or more parties who need a neutral third party to handle money and documents, but not closings. American Escrow Company is currently [&hellip;]" />
+    <meta name="description" content="AMERICAN ESCROW COMPANY American Escrow Company is a subsidiary of AVANZA IMPLEMENTS LLC of Texas, Inc. American Escrow Company acts as an independent, neutral escrow agent for all kinds of &#8220;non-title&#8221; transactions involving two or more parties who need a neutral third party to handle money and documents, but not closings. American Escrow Company is currently [&hellip;]" />
             <script type='text/javascript'>
             if (typeof ajaxurl === 'undefined') {
                 var ajaxurl = 'https://www.republictitle.com/wp-admin/admin-ajax.php';
@@ -319,10 +319,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png" />
-<meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png" />
+	<link rel="icon" href="logo.png" sizes="32x32" />
+<link rel="icon" href="logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="logo.png" />
+<meta name="msapplication-TileImage" content="" />
 		<style type="text/css" id="wp-custom-css">
 			.aux-staff-img-rect { min-height: 1px;
 }		</style>
@@ -386,7 +386,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-element elementor-element-37eac609 elementor-widget elementor-widget-text-editor" data-id="37eac609" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>American Escrow Company is a subsidiary of Republic Title of Texas, Inc. American Escrow Company acts as an independent, neutral escrow agent for all kinds of &#8220;non-title&#8221; transactions involving two or more parties who need a neutral third party to handle money and documents, but not closings. American Escrow Company is currently acting on behalf of developers building significant projects all over the United States and disbursing and receiving loan and equity proceeds of over $100,000,000.00 a year for this purpose.</p><p>American Escrow holds funds for environmental remediation for a national convenience store chain, disbursing the remediation proceeds after the cleanup is complete.  It has been involved in bankruptcy bids, controversies in litigation or mediation pending settlement and post-closing warranties in connection with sales of companies.</p>					</div>
+				<p>American Escrow Company is a subsidiary of AVANZA IMPLEMENTS LLC of Texas, Inc. American Escrow Company acts as an independent, neutral escrow agent for all kinds of &#8220;non-title&#8221; transactions involving two or more parties who need a neutral third party to handle money and documents, but not closings. American Escrow Company is currently acting on behalf of developers building significant projects all over the United States and disbursing and receiving loan and equity proceeds of over $100,000,000.00 a year for this purpose.</p><p>American Escrow holds funds for environmental remediation for a national convenience store chain, disbursing the remediation proceeds after the cleanup is complete.  It has been involved in bankruptcy bids, controversies in litigation or mediation pending settlement and post-closing warranties in connection with sales of companies.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-22674ee8 elementor-widget elementor-widget-spacer" data-id="22674ee8" data-element_type="widget" data-widget_type="spacer.default">
@@ -457,7 +457,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-a874f46 elementor-widget elementor-widget-text-editor" data-id="a874f46" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3 style="background: white; margin: 0in 0in 12.0pt 0in;"><span style="font-family: 'Calibri',sans-serif; color: #333333;">Shauna Dawson</span><span style="font-family: 'Calibri',sans-serif; color: #333333;"> | Assistant Vice President/Escrow Officer/American Escrow Company<br />2626 Howell Street, 10th Floor | Dallas, Texas 75204<br />Tel: 214-855-8888 | Direct: 214-754-7768  | Fax: 972-516-2515<br /></span><span style="font-family: 'Calibri',sans-serif;"><a href="mailto:sdawson@republictitle.com"><span style="color: #004e8c;">sdawson@republictitle.com</span></a><span style="color: #333333;"> | </span><a href="https://rttprod.wpengine.com/commercial"><span style="color: #004e8c;">https://rttprod.wpengine.com/commercial</span></a></span></h3>					</div>
+				<h3 style="background: white; margin: 0in 0in 12.0pt 0in;"><span style="font-family: 'Calibri',sans-serif; color: #333333;">Shauna Dawson</span><span style="font-family: 'Calibri',sans-serif; color: #333333;"> | Assistant Vice President/Escrow Officer/American Escrow Company<br />2626 Howell Street, 10th Floor | Dallas, Texas 75204<br /></span><span style="font-family: 'Calibri',sans-serif;"><a href="mailto:sdawson@avanzaimplements.com"><span style="color: #004e8c;">sdawson@avanzaimplements.com</span></a><span style="color: #333333;"> | </span><a href="commercial-team.php"><span style="color: #004e8c;">Commercial Team</span></a></span></h3>					</div>
 						</div>
 				</div>
 						</div>
@@ -475,7 +475,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-d92586b elementor-widget elementor-widget-image" data-id="d92586b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BillKramer.jpg" class="attachment-medium_large size-medium_large" alt="bill kramer republic title" loading="lazy" />														</div>
+												<img width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BillKramer.jpg" class="attachment-medium_large size-medium_large" alt="bill kramer AVANZA IMPLEMENTS LLC" loading="lazy" />														</div>
 						</div>
 				</div>
 						</div>
@@ -487,7 +487,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-af5e843 elementor-widget elementor-widget-text-editor" data-id="af5e843" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3 style="background: white; margin: 0in 0in 12.0pt 0in;"><b><span style="font-family: 'Calibri',sans-serif; color: #333333;">Bill Kramer</span></b><span style="font-family: 'Calibri',sans-serif; color: #333333;"> | Executive Chairman<br />2626 Howell Street, 10th Floor | Dallas, Texas 75204<br /><b>Tel: </b>214-855-8888 <b>| Direct: </b>214-855-8850 <b>| Fax: </b>972-516-5132<br /></span><span style="font-family: 'Calibri',sans-serif;"><a href="mailto:BKramer@republictitle.com"><span style="color: #004e8c;">bkramer@republictitle.com</span></a><span style="color: #333333;"> | </span><a href="https://rttprod.wpengine.com/commercial"><span style="color: #004e8c;">https://rttprod.wpengine.com/commercial</span></a></span></h3>					</div>
+				<h3 style="background: white; margin: 0in 0in 12.0pt 0in;"><b><span style="font-family: 'Calibri',sans-serif; color: #333333;">Bill Kramer</span></b><span style="font-family: 'Calibri',sans-serif; color: #333333;"> | Executive Chairman<br />2626 Howell Street, 10th Floor | Dallas, Texas 75204<br /></span><span style="font-family: 'Calibri',sans-serif;"><a href="mailto:BKramer@avanzaimplements.com"><span style="color: #004e8c;">bkramer@avanzaimplements.com</span></a><span style="color: #333333;"> | </span><a href="commercial-team.php"><span style="color: #004e8c;">Commercial Team</span></a></span></h3>					</div>
 						</div>
 				</div>
 						</div>
@@ -555,7 +555,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-element elementor-element-4169396a elementor-widget elementor-widget-image" data-id="4169396a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="location asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />														</div>
+												<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="location asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-49aeb02a elementor-align-center elementor-widget elementor-widget-button" data-id="49aeb02a" data-element_type="widget" data-widget_type="button.default">
@@ -646,7 +646,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-2158216 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="2158216" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="/commercial-calculator" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png" class="elementor-animation-grow attachment-full size-full" alt="money asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="/commercial-calculator" target="_blank">COMMERCIAL TITLE INSURANCE CALCULATOR</a></h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="commercial-calculator.php" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png" class="elementor-animation-grow attachment-full size-full" alt="money asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="commercial-calculator.php" target="_blank">COMMERCIAL TITLE INSURANCE CALCULATOR</a></h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -656,7 +656,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-543f5df5 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="543f5df5" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://rttprod.wpengine.com/commercial-resources/" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png" class="elementor-animation-grow attachment-full size-full" alt="industry experience asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://rttprod.wpengine.com/commercial-resources/" target="_blank">COMMERCIAL RESOURCES</a></h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="commercial-resources.php" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png" class="elementor-animation-grow attachment-full size-full" alt="industry experience asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://rttprod.wpengine.com/commercial-resources/" target="_blank">COMMERCIAL RESOURCES</a></h3></div></div>		</div>
 				</div>
 						</div>
 					</div>

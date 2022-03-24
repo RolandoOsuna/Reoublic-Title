@@ -12,8 +12,8 @@
                     <div class="elementor-element elementor-element-6335c255 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="6335c255" data-element_type="widget" data-widget_type="theme-site-logo.default">
             <div class="elementor-widget-container">
                             <div class="elementor-image">
-                                                <a href="https://www.republictitle.com">
-                        <img width="100" height="68" src="https://www.republictitle.com/wp-content/uploads/2019/07/Logo-e1557915510318-1.png" class="attachment-full size-full" alt="" loading="lazy">								</a>
+                                                <a href="index.php">
+                        <img width="500" height="" src="logo.png" class="attachment-full size-full" alt="" loading="lazy">								</a>
                                                     </div>
                     </div>
             </div>
@@ -35,7 +35,7 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17259"><a href="commercial-resourses.php" class="elementor-sub-item">Commercial Resources</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4949"><a href="commercial-calculator.php" class="elementor-sub-item">Commercial Title Insurance Calculator</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4444"><a href="commercial-team.php" class="elementor-sub-item">Commercial Team</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19205"><a href="https://www.republictitle.com/wp-content/uploads/2021/03/1031-Exchange-Info.pdf" class="elementor-sub-item">1031 Exchange Services</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19205"><a href="https://drive.google.com/file/d/1CFDmiXCrJRN3E9iVyNgWNPgQ9Eads80S/view?usp=sharing" class="elementor-sub-item">1031 Exchange Services</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8519"><a href="american-escrow-company.php" class="elementor-sub-item">American Escrow Company</a></li>
 </ul>
 </li>
@@ -163,8 +163,8 @@
                     <div class="elementor-element elementor-element-24584677 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="24584677" data-element_type="widget" data-widget_type="theme-site-logo.default">
             <div class="elementor-widget-container">
                             <div class="elementor-image">
-                                                <a href="https://www.republictitle.com">
-                        <img width="100" height="68" src="https://www.republictitle.com/wp-content/uploads/2019/07/Logo-e1557915510318-1.png" class="attachment-full size-full" alt="" loading="lazy">								</a>
+                                                <a href="index.php">
+                        <img width="100" height="68" src="logo.png" class="attachment-full size-full" alt="" loading="lazy">								</a>
                                                     </div>
                     </div>
             </div>
@@ -178,7 +178,7 @@
             <div class="elementor-widget-container">
                     <nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><!-- start master menu -->
 <ul id="menu-1-4d23cd9b" class="elementor-nav-menu" data-smartmenus-id="1647308004457432"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-43 current_page_item menu-item-12223"><a href="index.php" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12224"><a href="https://www.republictitle.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12224"><a href="about-us.php" class="elementor-item">About Us</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12225"><a href="#" class="elementor-item elementor-item-anchor has-submenu" id="sm-1647308004457432-1" aria-haspopup="true" aria-controls="sm-1647308004457432-2" aria-expanded="false">Commercial<span class="sub-arrow"><i class="fas fa-chevron-down"></i></span></a>
 <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-1647308004457432-2" role="group" aria-hidden="true" aria-labelledby="sm-1647308004457432-1" aria-expanded="false">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12230"><a href="https://www.republictitle.com/commercial-services/" class="elementor-sub-item">Commercial Services</a></li>
@@ -222,11 +222,11 @@
     </div>
         <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true" style="top: 0px; width: 1349px; left: 0px;"><!-- start master menu -->
 <ul id="menu-2-4d23cd9b" class="elementor-nav-menu" data-smartmenus-id="16473080044592092"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-43 current_page_item menu-item-12223"><a href="index.php" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12224"><a href="https://www.republictitle.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12224"><a href="about-us.php" class="elementor-item" tabindex="-1">About Us</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12225"><a href="#" class="elementor-item elementor-item-anchor has-submenu" tabindex="-1" id="sm-16473080044592092-1" aria-haspopup="true" aria-controls="sm-16473080044592092-2" aria-expanded="false">Commercial<span class="sub-arrow"><i class="fas fa-chevron-down"></i></span></a>
 <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-16473080044592092-2" role="group" aria-hidden="true" aria-labelledby="sm-16473080044592092-1" aria-expanded="false">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12230"><a href="https://www.republictitle.com/commercial-services/" class="elementor-sub-item" tabindex="-1">Commercial Services</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12227"><a href="https://www.republictitle.com/commercial-education/" class="elementor-sub-item" tabindex="-1">Commercial Education</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12230"><a href="commercial-services.php" class="elementor-sub-item" tabindex="-1">Commercial Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12227"><a href="commercial-education.phpcommercial-services.php" class="elementor-sub-item" tabindex="-1">Commercial Education</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17261"><a href="commercial-resources.php" class="elementor-sub-item" tabindex="-1">Commercial Resources</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12226"><a href="commercial-calculator.php" class="elementor-sub-item" tabindex="-1">Commercial Title Insurance Calculator</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12231"><a href="commercial-team.php" class="elementor-sub-item" tabindex="-1">Commercial Team</a></li>
@@ -238,25 +238,25 @@
 <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-16473080044592092-4" role="group" aria-hidden="true" aria-labelledby="sm-16473080044592092-3" aria-expanded="false">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12239"><a href="residential-services.php" class="elementor-sub-item" tabindex="-1">Residential Services</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12237"><a href="residential-education.php" class="elementor-sub-item" tabindex="-1">Residential Education</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17262"><a href="https://www.republictitle.com/residential-resources/" class="elementor-sub-item" tabindex="-1">Residential Resources</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12236"><a href="https://www.republictitle.com/residential-calculator/" class="elementor-sub-item" tabindex="-1">Residential Title Insurance Calculator</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17262"><a href="residential-resources.php" class="elementor-sub-item" tabindex="-1">Residential Resources</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12236"><a href="residential-calculator.php" class="elementor-sub-item" tabindex="-1">Residential Title Insurance Calculator</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12235"><a href="residential-business-development.php" class="elementor-sub-item" tabindex="-1">Residential Business Development</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12240"><a href="evolve.php" class="elementor-item" tabindex="-1">Digital Settlement</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12241"><a href="#" class="elementor-item elementor-item-anchor has-submenu" tabindex="-1" id="sm-16473080044592092-5" aria-haspopup="true" aria-controls="sm-16473080044592092-6" aria-expanded="false">Education<span class="sub-arrow"><i class="fas fa-chevron-down"></i></span></a>
 <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-16473080044592092-6" role="group" aria-hidden="true" aria-labelledby="sm-16473080044592092-5" aria-expanded="false">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12242"><a href="https://www.republictitle.com/commercial-education/" class="elementor-sub-item" tabindex="-1">Commercial Education</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12242"><a href="commercial-education.php" class="elementor-sub-item" tabindex="-1">Commercial Education</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12243"><a href="residential-education.php" class="elementor-sub-item" tabindex="-1">Residential Education</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17258"><a href="#" class="elementor-item elementor-item-anchor has-submenu" tabindex="-1" id="sm-16473080044592092-7" aria-haspopup="true" aria-controls="sm-16473080044592092-8" aria-expanded="false">RESOURCES<span class="sub-arrow"><i class="fas fa-chevron-down"></i></span></a>
 <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-16473080044592092-8" role="group" aria-hidden="true" aria-labelledby="sm-16473080044592092-7" aria-expanded="false">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12229"><a href="commercial-resourses.php" class="elementor-sub-item" tabindex="-1">Commercial Resources</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15944"><a href="https://www.republictitle.com/residential-resources/" class="elementor-sub-item" tabindex="-1">Residential Resources</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15944"><a href="residential-resources.php" class="elementor-sub-item" tabindex="-1">Residential Resources</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12244"><a href="https://www.republictitle.com/blog-posts/" class="elementor-item" tabindex="-1">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12244"><a href="blog.php" class="elementor-item" tabindex="-1">Blog</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12245"><a href="locations.php" class="elementor-item" tabindex="-1">Locations</a></li>
 </ul>
 <!-- end master menu -->

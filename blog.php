@@ -19,21 +19,21 @@
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Blog | REPUBLIC TITLE</title>
-	<meta name="description" content="What is title insurance? What are exemptions? Check out the Republic Title blog to read helpful tips about title insurance for both homebuyers and realtors." />
+	<title>Blog | AVANZA IMPLEMENTS LLC</title>
+	<meta name="description" content="What is title insurance? What are exemptions? Check out the AVANZA IMPLEMENTS LLC blog to read helpful tips about title insurance for both homebuyers and realtors." />
 	<link rel="canonical" href="https://www.republictitle.com/blog/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Blog | REPUBLIC TITLE" />
-	<meta property="og:description" content="What is title insurance? What are exemptions? Check out the Republic Title blog to read helpful tips about title insurance for both homebuyers and realtors." />
+	<meta property="og:title" content="Blog | AVANZA IMPLEMENTS LLC" />
+	<meta property="og:description" content="What is title insurance? What are exemptions? Check out the AVANZA IMPLEMENTS LLC blog to read helpful tips about title insurance for both homebuyers and realtors." />
 	<meta property="og:url" content="https://www.republictitle.com/blog/" />
-	<meta property="og:site_name" content="Republic Title" />
+	<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC" />
 	<meta property="article:modified_time" content="2021-06-01T15:31:57+00:00" />
 	<meta property="og:image" content="https://rttprod.wpengine.com/wp-content/uploads/2018/12/White-Logo-300x213.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="2 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/blog/#primaryimage","inLanguage":"en-US","url":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/White-Logo-300x213.png","contentUrl":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/White-Logo-300x213.png"},{"@type":"WebPage","@id":"https://www.republictitle.com/blog/#webpage","url":"https://www.republictitle.com/blog/","name":"Blog | REPUBLIC TITLE","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/blog/#primaryimage"},"datePublished":"2018-12-24T19:00:14+00:00","dateModified":"2021-06-01T15:31:57+00:00","description":"What is title insurance? What are exemptions? Check out the Republic Title blog to read helpful tips about title insurance for both homebuyers and realtors.","breadcrumb":{"@id":"https://www.republictitle.com/blog/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/blog/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Home Surveillance Legal Issues Part 2: What Sellers Should Know"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/blog/#primaryimage","inLanguage":"en-US","url":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/White-Logo-300x213.png","contentUrl":"https://rttprod.wpengine.com/wp-content/uploads/2018/12/White-Logo-300x213.png"},{"@type":"WebPage","@id":"https://www.republictitle.com/blog/#webpage","url":"https://www.republictitle.com/blog/","name":"Blog | AVANZA IMPLEMENTS LLC","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/blog/#primaryimage"},"datePublished":"2018-12-24T19:00:14+00:00","dateModified":"2021-06-01T15:31:57+00:00","description":"What is title insurance? What are exemptions? Check out the AVANZA IMPLEMENTS LLC blog to read helpful tips about title insurance for both homebuyers and realtors.","breadcrumb":{"@id":"https://www.republictitle.com/blog/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/blog/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Home Surveillance Legal Issues Part 2: What Sellers Should Know"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -320,10 +320,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png" />
-<meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png" />
+	<link rel="icon" href=" logo.png" sizes="32x32" />
+<link rel="icon" href="logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href=" logo.png" />
+<meta name="msapplication-TileImage" content="" />
 		<style type="text/css" id="wp-custom-css">
 			.aux-staff-img-rect { min-height: 1px;
 }		</style>
@@ -357,14 +357,14 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-element elementor-element-ec37d1d elementor-widget elementor-widget-image" data-id="ec37d1d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="300" height="213" src="https://www.republictitle.com/wp-content/uploads/2018/12/White-Logo-300x213.png" class="attachment-medium size-medium" alt="white republic title logo" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/White-Logo-300x213.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/White-Logo-600x426.png 600w, https://www.republictitle.com/wp-content/uploads/2018/12/White-Logo-768x545.png 768w, https://www.republictitle.com/wp-content/uploads/2018/12/White-Logo-1024x726.png 1024w, https://www.republictitle.com/wp-content/uploads/2018/12/White-Logo.png 1520w" sizes="(max-width: 300px) 100vw, 300px" />														</div>
+												<img width="300" height="213" src="logo.png" class="attachment-medium size-medium" alt="white AVANZA IMPLEMENTS LLC logo" loading="lazy" srcset="logo-white.png" sizes="(max-width: 300px) 100vw, 300px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-d69223b elementor-icon-list--layout-inline elementor-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="d69223b" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
 							<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="https://www.facebook.com/RepublicTitle/">
+											<a href="https://www.facebook.com/">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fab fa-facebook-f"></i>						</span>
@@ -372,7 +372,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 											</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="https://www.instagram.com/republictitle/">
+											<a href="https://www.instagram.com/">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fab fa-instagram"></i>						</span>
@@ -380,7 +380,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 											</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="https://www.linkedin.com/company/republic-title/">
+											<a href="https://www.linkedin.com/">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fab fa-linkedin-in"></i>						</span>
@@ -388,7 +388,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 											</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="https://www.youtube.com/channel/UC_gDHPSCJlUCZ1jWvpoHFcw">
+											<a href="https://www.youtube.com/">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fab fa-youtube-square"></i>						</span>
@@ -424,14 +424,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 			<div class="elementor-post__card">
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.republictitle.com/what-to-expect-at-closing/" >
-				What To Expect At Closing			</a>
+				What To Expect At Closing
 		</h3>
 				<div class="elementor-post__excerpt">
-			<p>https://youtu.be/XnVBLy9lhC4 There are many steps in the home buying process – saving, searching, shopping, inspecting, etc. Once you get through all of these steps, you</p>
+			<p> There are many steps in the home buying process – saving, searching, shopping, inspecting, etc. Once you get through all of these steps, you</p>
 		</div>
-					<a class="elementor-post__read-more" href="https://www.republictitle.com/what-to-expect-at-closing/" >
-				Read More »			</a>
+					
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-date">
@@ -443,14 +441,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 			<div class="elementor-post__card">
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.republictitle.com/march-landscape-gardening-tips-to-dos/" >
-				March Landscape &#038; Gardening Tips &#038; to-Dos			</a>
+				March Landscape &#038; Gardening Tips &#038; to-Dos	
 		</h3>
 				<div class="elementor-post__excerpt">
 			<p>Need help planting a successful garden or landscape? Here are some March planting tips from the Dallas Arboretum horticulture staff and the Dallas County Master Gardeners</p>
 		</div>
-					<a class="elementor-post__read-more" href="https://www.republictitle.com/march-landscape-gardening-tips-to-dos/" >
-				Read More »			</a>
+					
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-date">
@@ -462,14 +458,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 			<div class="elementor-post__card">
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.republictitle.com/march-class-calendar/" >
-				March Class Calendar			</a>
+				March Class Calendar
 		</h3>
 				<div class="elementor-post__excerpt">
-			<p>Republic Title is pleased to offer a variety of continuing education classes for our customers. Join us in March for classes including: Online Contracts via</p>
+			<p>AVANZA IMPLEMENTS LLC is pleased to offer a variety of continuing education classes for our customers. Join us in March for classes including: Online Contracts via</p>
 		</div>
-					<a class="elementor-post__read-more" href="https://www.republictitle.com/march-class-calendar/" >
-				Read More »			</a>
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-date">
@@ -481,14 +474,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 			<div class="elementor-post__card">
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.republictitle.com/texas-housing-insight-november-2021/" >
-				Texas Housing Insight November 2021			</a>
+				Texas Housing Insight November 2021	
 		</h3>
 				<div class="elementor-post__excerpt">
 			<p>Texas&#8217; housing market continued to rise in November, trending upward despite ongoing supply constraints. Months of inventory slid to 1.5 months, and single-family permits weakened.</p>
 		</div>
-					<a class="elementor-post__read-more" href="https://www.republictitle.com/texas-housing-insight-november-2021/" >
-				Read More »			</a>
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-date">
@@ -500,14 +490,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 			<div class="elementor-post__card">
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.republictitle.com/january-2022-dfw-area-real-estate-stats/" >
-				January 2022 DFW Area Real Estate Stats			</a>
+				January 2022 DFW Area Real Estate Stats
 		</h3>
 				<div class="elementor-post__excerpt">
 			<p>January stats are here and we have the numbers!&nbsp; Our&nbsp;stats infographics&nbsp;include a year over year comparison and area highlights for single family homes and condos</p>
 		</div>
-					<a class="elementor-post__read-more" href="https://www.republictitle.com/january-2022-dfw-area-real-estate-stats/" >
-				Read More »			</a>
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-date">
@@ -519,14 +506,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 			<div class="elementor-post__card">
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.republictitle.com/samantha-lipton-named-southlake-branch-manager/" >
-				Samantha Lipton Named Southlake Branch Manager			</a>
+				Samantha Lipton Named Southlake Branch Manager
 		</h3>
 				<div class="elementor-post__excerpt">
-			<p>Republic Title is pleased to announce the promotion of Samantha Lipton to Branch Manager of our Southlake office. “We are excited to announce that Samantha</p>
+			<p>AVANZA IMPLEMENTS LLC is pleased to announce the promotion of Samantha Lipton to Branch Manager of our Southlake office. “We are excited to announce that Samantha</p>
 		</div>
-					<a class="elementor-post__read-more" href="https://www.republictitle.com/samantha-lipton-named-southlake-branch-manager/" >
-				Read More »			</a>
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-date">
@@ -538,14 +522,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 			<div class="elementor-post__card">
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.republictitle.com/february-landscape-gardening-tips-to-dos/" >
-				February Landscape &#038; Gardening Tips &#038; To-Dos			</a>
+				February Landscape &#038; Gardening Tips &#038; To-Dos
 		</h3>
 				<div class="elementor-post__excerpt">
 			<p>Need help planting a successful garden or landscape? Here are some February planting tips from the Dallas Arboretum horticulture staff and the Dallas County Master Gardeners</p>
 		</div>
-					<a class="elementor-post__read-more" href="https://www.republictitle.com/february-landscape-gardening-tips-to-dos/" >
-				Read More »			</a>
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-date">
@@ -557,14 +538,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 			<div class="elementor-post__card">
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="https://www.republictitle.com/february-class-calendar/" >
-				February Class Calendar			</a>
+				February Class Calendar
 		</h3>
 				<div class="elementor-post__excerpt">
-			<p>Republic Title is pleased to offer a variety of continuing education classes for our customers. Join us in February for classes including: Create Gorgeous Visual</p>
+			<p>AVANZA IMPLEMENTS LLC is pleased to offer a variety of continuing education classes for our customers. Join us in February for classes including: Create Gorgeous Visual</p>
 		</div>
-					<a class="elementor-post__read-more" href="https://www.republictitle.com/february-class-calendar/" >
-				Read More »			</a>
+
 				</div>
 				<div class="elementor-post__meta-data">
 					<span class="elementor-post-date">
@@ -577,34 +556,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 
 		
 				<div class="e-load-more-anchor" data-page="1" data-max-page="31"></div>
-				<nav class="elementor-pagination" role="navigation" aria-label="Pagination">
-			<span class="page-numbers prev">&laquo; Previous</span>
-<span aria-current="page" class="page-numbers current"><span class="elementor-screen-only">Page</span>1</span>
-<a class="page-numbers" href="https://www.republictitle.com/blog/2/"><span class="elementor-screen-only">Page</span>2</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/3/"><span class="elementor-screen-only">Page</span>3</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/4/"><span class="elementor-screen-only">Page</span>4</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/5/"><span class="elementor-screen-only">Page</span>5</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/6/"><span class="elementor-screen-only">Page</span>6</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/7/"><span class="elementor-screen-only">Page</span>7</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/8/"><span class="elementor-screen-only">Page</span>8</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/9/"><span class="elementor-screen-only">Page</span>9</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/10/"><span class="elementor-screen-only">Page</span>10</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/11/"><span class="elementor-screen-only">Page</span>11</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/12/"><span class="elementor-screen-only">Page</span>12</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/13/"><span class="elementor-screen-only">Page</span>13</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/14/"><span class="elementor-screen-only">Page</span>14</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/15/"><span class="elementor-screen-only">Page</span>15</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/16/"><span class="elementor-screen-only">Page</span>16</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/17/"><span class="elementor-screen-only">Page</span>17</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/18/"><span class="elementor-screen-only">Page</span>18</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/19/"><span class="elementor-screen-only">Page</span>19</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/20/"><span class="elementor-screen-only">Page</span>20</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/21/"><span class="elementor-screen-only">Page</span>21</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/22/"><span class="elementor-screen-only">Page</span>22</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/23/"><span class="elementor-screen-only">Page</span>23</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/24/"><span class="elementor-screen-only">Page</span>24</a>
-<a class="page-numbers" href="https://www.republictitle.com/blog/25/"><span class="elementor-screen-only">Page</span>25</a>
-<a class="page-numbers next" href="https://www.republictitle.com/blog/2/">Next &raquo;</a>		</nav>
+				
 				</div>
 				</div>
 						</div>

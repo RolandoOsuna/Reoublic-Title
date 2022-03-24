@@ -9,21 +9,21 @@
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>About Republic Title</title>
-	<meta name="description" content="Republic Title offers our commercial customers peace of mind knowing that their real estate transactions will be handled with professionalism and integrity.">
+	<title>About AVANZA IMPLEMENTS LLC</title>
+	<meta name="description" content="AVANZA IMPLEMENTS LLC offers our commercial customers peace of mind knowing that their real estate transactions will be handled with professionalism and integrity.">
 	<link rel="canonical" href="https://www.republictitle.com/about-us/">
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="article">
-	<meta property="og:title" content="About Republic Title">
-	<meta property="og:description" content="Republic Title offers our commercial customers peace of mind knowing that their real estate transactions will be handled with professionalism and integrity.">
+	<meta property="og:title" content="About AVANZA IMPLEMENTS LLC">
+	<meta property="og:description" content="AVANZA IMPLEMENTS LLC offers our commercial customers peace of mind knowing that their real estate transactions will be handled with professionalism and integrity.">
 	<meta property="og:url" content="https://www.republictitle.com/about-us/">
-	<meta property="og:site_name" content="Republic Title">
+	<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC">
 	<meta property="article:modified_time" content="2022-02-01T14:58:46+00:00">
 	<meta property="og:image" content="https://www.republictitle.com/wp-content/uploads/2018/12/BoFeagin.jpg">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:label1" content="Est. reading time">
 	<meta name="twitter:data1" content="10 minutes">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/about-us/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/2018/12/BoFeagin.jpg","contentUrl":"https://www.republictitle.com/wp-content/uploads/2018/12/BoFeagin.jpg","width":350,"height":500,"caption":"bo feagin republic title"},{"@type":"WebPage","@id":"https://www.republictitle.com/about-us/#webpage","url":"https://www.republictitle.com/about-us/","name":"About Republic Title","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/about-us/#primaryimage"},"datePublished":"2018-10-29T19:49:42+00:00","dateModified":"2022-02-01T14:58:46+00:00","description":"Republic Title offers our commercial customers peace of mind knowing that their real estate transactions will be handled with professionalism and integrity.","breadcrumb":{"@id":"https://www.republictitle.com/about-us/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/about-us/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/about-us/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"About Us"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/about-us/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/2018/12/BoFeagin.jpg","contentUrl":"https://www.republictitle.com/wp-content/uploads/2018/12/BoFeagin.jpg","width":350,"height":500,"caption":"bo feagin AVANZA IMPLEMENTS LLC"},{"@type":"WebPage","@id":"https://www.republictitle.com/about-us/#webpage","url":"https://www.republictitle.com/about-us/","name":"About AVANZA IMPLEMENTS LLC","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/about-us/#primaryimage"},"datePublished":"2018-10-29T19:49:42+00:00","dateModified":"2022-02-01T14:58:46+00:00","description":"AVANZA IMPLEMENTS LLC offers our commercial customers peace of mind knowing that their real estate transactions will be handled with professionalism and integrity.","breadcrumb":{"@id":"https://www.republictitle.com/about-us/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/about-us/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/about-us/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"About Us"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -292,7 +292,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 </script>
 <script type="text/javascript" src="https://www.republictitle.com/wp-content/themes/phlox-pro/js/solo/modernizr-custom.min.js?ver=5.6.7" id="auxin-modernizr-js"></script>
     <meta name="title" content="About Us">
-    <meta name="description" content="ABOUT REPUBLIC TITLE Being part of our community is everything to us. Republic Title of Texas, Inc., is a full-service title insurance company that handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments. With a mission to provide value to every customer that we […]">
+    <meta name="description" content="ABOUT AVANZA IMPLEMENTS LLC Being part of our community is everything to us. AVANZA IMPLEMENTS LLC of Texas, Inc., is a full-service title insurance company that handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments. With a mission to provide value to every customer that we […]">
             <script type="text/javascript">
             if (typeof ajaxurl === 'undefined') {
                 var ajaxurl = 'https://www.republictitle.com/wp-admin/admin-ajax.php';
@@ -310,10 +310,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32">
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png">
-<meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png">
+	<link rel="icon" href="logo.png" sizes="32x32">
+<link rel="icon" href="logo.png" sizes="192x192">
+<link rel="apple-touch-icon" href="logo.png">
+<meta name="msapplication-TileImage" content="">
 		<style type="text/css" id="wp-custom-css">
 			.aux-staff-img-rect { min-height: 1px;
 }		</style>
@@ -348,7 +348,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				</div>
 				<div class="elementor-element elementor-element-66ca281 elementor-widget elementor-widget-heading" data-id="66ca281" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">ABOUT REPUBLIC TITLE</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">ABOUT AVANZA IMPLEMENTS LLC</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-0faf1ae elementor-widget elementor-widget-spacer" data-id="0faf1ae" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -391,7 +391,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-element elementor-element-d25671c elementor-widget elementor-widget-text-editor" data-id="d25671c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Republic Title of Texas, Inc., is a full-service title insurance company that handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments.</p><p>With a mission to provide value to every customer that we serve through proven experience, dedicated service and lasting relationships, Republic Title treats each real estate transaction for our home buyers, sellers, lenders and commercial customers with care, professionalism and integrity. We are committed to exceptional, responsive customer service, with a track record of success that is unsurpassed.</p><p>Headquartered in North Texas and locally operated, we are the authority in real estate transactions and a leader in all matters concerning title insurance. Our 13 <a href="/locations">residential</a> and 2 <a href="/commercial">commercial</a> offices conveniently located throughout the Dallas-Fort Worth area make us the title partner of choice for thousands of our North Texas neighbors. With company origins dating to 1965, Republic Title was founded in 1991 and has grown into the largest title company in Texas and one of the top commercial escrow and title agencies in the nation, for projects across the U.S. and internationally.</p>					</div>
+				<p>AVANZA IMPLEMENTS LLC of Texas, Inc., is a full-service title insurance company that handles the transfer of title for our customers’ real estate transactions and protects the title to their largest financial investments.</p><p>With a mission to provide value to every customer that we serve through proven experience, dedicated service and lasting relationships, AVANZA IMPLEMENTS LLC treats each real estate transaction for our home buyers, sellers, lenders and commercial customers with care, professionalism and integrity. We are committed to exceptional, responsive customer service, with a track record of success that is unsurpassed.</p><p>Headquartered in North Texas and locally operated, we are the authority in real estate transactions and a leader in all matters concerning title insurance. Our 13 <a href="locations.php">residential</a> and 2 <a href="/commercial">commercial</a> offices conveniently located throughout the Dallas-Fort Worth area make us the title partner of choice for thousands of our North Texas neighbors. With company origins dating to 1965, AVANZA IMPLEMENTS LLC was founded in 1991 and has grown into the largest title company in Texas and one of the top commercial escrow and title agencies in the nation, for projects across the U.S. and internationally.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-9736d2e elementor-widget elementor-widget-spacer" data-id="9736d2e" data-element_type="widget" data-widget_type="spacer.default">
@@ -433,12 +433,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au44ba89a7" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BoFeagin.jpg" alt="bo feagin republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BoFeagin.jpg" alt="bo feagin AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Bo Feagin</h4>
                         <h5 class="col-subtitle">President <br> <br></h5>
-                        <div class="entry-content">
-                                (214) 754-7770 <br><a href="mailto:bfeagin@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:bfeagin@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -457,12 +456,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au6a5161c6" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/ChaseEvans.jpg" alt="chase evans republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/ChaseEvans.jpg" alt="chase evans AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Chase Evans</h4>
                         <h5 class="col-subtitle">Chief Operating Officer<br><br></h5>
-                        <div class="entry-content">
-                                (214) 754-7780 <br><a href="mailto:chase.evans@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:chase.evans@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -481,12 +479,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au36e16f51" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/DavidKramer.jpg" alt="david kramer republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/DavidKramer.jpg" alt="david kramer AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">David Kramer</h4>
                         <h5 class="col-subtitle">Executive Vice President <br> <br></h5>
-                        <div class="entry-content">
-                                (214) 556-0408 <br><a href="mailto:dkramer@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:dkramer@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -509,8 +506,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Felicia Farnsworth</h4>
                         <h5 class="col-subtitle">Executive Vice President/ <br>Human Resources</h5>
-                        <div class="entry-content">
-                                (972) 578-8611 <br><a href="mailto:ffarnsworth@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:ffarnsworth@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -529,12 +525,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auf318caac" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/LisaMurray.jpg" alt="lisa murray republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/LisaMurray.jpg" alt="lisa murray AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Lisa Murray</h4>
                         <h5 class="col-subtitle">Executive Vice President / <br>Chief Financial Officer</h5>
-                        <div class="entry-content">
-                                (214) 556-0429 <br><a href="mailto:lmurray@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:lmurray@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -563,8 +558,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Sheri Groom</h4>
                         <h5 class="col-subtitle">Executive Vice President/ <br>Residential Operations <br></h5>
-                        <div class="entry-content">
-                                (214) 556-0378 <br><a href="mailto:sgroom@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:sgroom@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -583,12 +577,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auc384b1b4" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/PeterGraf.jpg" alt="peter graf republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/PeterGraf.jpg" alt="peter graf AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Peter Graf</h4>
                         <h5 class="col-subtitle">Executive Vice President <br> and General Counsel</h5>
-                        <div class="entry-content">
-                                (214) 855-8836 <br><a href="mailto:pgraf@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:pgraf@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -607,12 +600,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au2dd6b099" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/AaronMiller.jpg" alt="aaron miller republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/AaronMiller.jpg" alt="aaron miller AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Aaron Miller</h4>
                         <h5 class="col-subtitle">Chief Information Officer <br><br></h5>
-                        <div class="entry-content">
-                                (972) 578-8611 <br><a href="mailto:aarmiller@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:aarmiller@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -635,8 +627,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Amy Jones</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Education and Licensing<br></h5>
-                        <div class="entry-content">
-                                (972) 578-8611 <br><a href="mailto:ajones@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:ajones@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -655,12 +646,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aufb7049a6" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/CoryAtchley.jpg" alt="cory atchley republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/CoryAtchley.jpg" alt="cory atchley AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Cory Atchley</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Business Technology</h5>
-                        <div class="entry-content">
-                                (214) 855-2830 <br><a href="mailto:catchley@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:catchley@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -689,8 +679,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Dennis Pospisil</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br>Digital Settlement and Signing Services</h5>
-                        <div class="entry-content">
-                                (214) 556-0372 <br><a href="mailto:dpospisil@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:dpospisil@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -713,8 +702,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Janet Allen</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Residential Business Development</h5>
-                        <div class="entry-content">
-                                (214) 793-5255 <br><a href="mailto:jallen@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:jallen@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -733,12 +721,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au9a2d2d24" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JeffMontgomery-e1548885688163.jpg" alt="jeff montgomery republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JeffMontgomery-e1548885688163.jpg" alt="jeff montgomery AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Jeff Montgomery</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Business Development <br></h5>
-                        <div class="entry-content">
-                                (214) 855-8830 <br><a href="mailto:jmontgomery@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:jmontgomery@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -757,12 +744,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aud4296750" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/KimBrummitt.jpg" alt="Kim Brummitt Republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/KimBrummitt.jpg" alt="Kim Brummitt AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Kim Brummitt</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Residential Operations <br></h5>
-                        <div class="entry-content">
-                                (214) 556-0248 <br><a href="mailto:kbrummitt@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:kbrummitt@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -781,12 +767,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aue7a57b0f" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/LindseyCarroll.jpg" alt="lindsey carroll republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/LindseyCarroll.jpg" alt="lindsey carroll AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Lindsey Carroll</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Marketing / Communications <br></h5>
-                        <div class="entry-content">
-                                (214) 754-7782 <br><a href="mailto:lcarroll@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:lcarroll@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -811,12 +796,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auca1ab997" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MatthewVisinsky.jpg" alt="matthew visinsky republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MatthewVisinsky.jpg" alt="matthew visinsky AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Matt Visinsky</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br>Senior Residential Counsel <br> </h5>
-                        <div class="entry-content">
-                                (972) 578-8611 <br><a href="mailto:mvisinsky@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:mvisinsky@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -835,12 +819,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au56f25562" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/SteveHolley.jpg" alt="steve holley republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/SteveHolley.jpg" alt="steve holley AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Steve Holley</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Senior Residential Counsel <br></h5>
-                        <div class="entry-content">
-                                (214) 890-2129 <br><a href="mailto:sholley@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:sholley@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -899,12 +882,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auc223f553" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BoFeagin.jpg" alt="bo feagin republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BoFeagin.jpg" alt="bo feagin AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Bo Feagin</h4>
                         <h5 class="col-subtitle">President <br><br></h5>
-                        <div class="entry-content">
-                                (214) 754-7770 <br><a href="mailto:bfeagin@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:bfeagin@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -923,12 +905,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au8db9c728" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/PeterGraf.jpg" alt="peter graf republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/PeterGraf.jpg" alt="peter graf AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Peter Graf</h4>
                         <h5 class="col-subtitle">Executive Vice President <br> and General Counsel</h5>
-                        <div class="entry-content">
-                                (214) 855-8836 <br><a href="mailto:pgraf@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:pgraf@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -947,12 +928,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au259e0701" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BillKramer.jpg" alt="bill kramer republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BillKramer.jpg" alt="bill kramer AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Bill Kramer</h4>
                         <h5 class="col-subtitle">Executive Chairman <br><br></h5>
-                        <div class="entry-content">
-                                (214) 855-8850 <br><a href="mailto:bkramer@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:bkramer@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -971,12 +951,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aua9c9a15b" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/ClayArnold.jpg" alt="clay arnold republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/ClayArnold.jpg" alt="clay arnold AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Clay Arnold</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Commercial Underwriting Counsel</h5>
-                        <div class="entry-content">
-                                (214) 754-7740 <br><a href="mailto:carnold@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:carnold@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -995,12 +974,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aufc523314" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/DavidShuttee.jpg" alt="david shuttee republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/DavidShuttee.jpg" alt="david shuttee AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">David Shuttee</h4>
                         <h5 class="col-subtitle">Executive Chairman <br><br></h5>
-                        <div class="entry-content">
-                                (214) 855-8825<br><a href="mailto:dshuttee@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:dshuttee@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -1025,12 +1003,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au87cbaa8c" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JayTurner.jpg" alt="jay turner republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JayTurner.jpg" alt="jay turner AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Jay Turner</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Residential Counsel</h5>
-                        <div class="entry-content">
-                                (214) 556-0407 <br><a href="mailto:jayturner@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:jayturner@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -1053,8 +1030,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Jeff Davis</h4>
                         <h5 class="col-subtitle">Chairman / <br>Fort Worth Division</h5>
-                        <div class="entry-content">
-                                (817) 806-1301<br><a href="mailto:jeffdavis@republictitle.com">Email</a>
+                        <div class="entry-content"><a href="mailto:jeffdavis@avanzaimplements.com">Email</a>
             </div>
                     </div>
 
@@ -1073,12 +1049,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aube235a9d" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JeffPorter.jpg" alt="jeff porter republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JeffPorter.jpg" alt="jeff porter AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Jeff Porter</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer / Attorney</h5>
-                        <div class="entry-content">
-                                (214) 855-8820<br><a href="mailto:jporter@republictitle.com">Email</a>            </div>
+                        <div class="entry-content"><a href="mailto:jporter@avanzaimplements.com">Email</a>            </div>
                     </div>
 
     </div>
@@ -1096,12 +1071,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auf2f8a72e" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JoeLeatherwood.jpg" alt="joe leatherwood republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JoeLeatherwood.jpg" alt="joe leatherwood AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Joe Leatherwood</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br>Underwriting</h5>
-                        <div class="entry-content">
-                                (817) 806-1307<br><a href="mailto:joeleatherwood@republictitle.com">Email</a>            </div>
+                        <div class="entry-content"><a href="mailto:joeleatherwood@avanzaimplements.com">Email</a>            </div>
                     </div>
 
     </div>
@@ -1119,12 +1093,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aufeba2a5e" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JonHooper.jpg" alt="jon hooper republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JonHooper.jpg" alt="jon hooper AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Jon Hooper</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Senior Underwriting Counsel</h5>
-                        <div class="entry-content">
-                                (214) 855-8884 <br><a href="mailto:jhooper@republictitle.com">Email</a>            </div>
+                        <div class="entry-content"><a href="mailto:jhooper@avanzaimplements.com">Email</a>            </div>
                     </div>
 
     </div>
@@ -1148,12 +1121,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aub03ba34a" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MarkRoden.jpg" alt="mark roden republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MarkRoden.jpg" alt="mark roden AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Mark Roden</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Assistant General Counsel <br></h5>
-                        <div class="entry-content">
-                                (214) 855-8840 <br><a href="mailto:mroden@republictitle.com">Email</a>            </div>
+                        <div class="entry-content"><a href="mailto:mroden@avanzaimplements.com">Email</a>            </div>
                     </div>
 
     </div>
@@ -1171,12 +1143,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aue47b714b" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MatthewVisinsky.jpg" alt="matthew visinsky republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MatthewVisinsky.jpg" alt="matthew visinsky AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Matt Visinsky</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Senior Residential Counsel</h5>
-                        <div class="entry-content">
-                                (214) 556-0267 <br><a href="mailto:mvisinsky@republictitle.com">Email</a>            </div>
+                        <div class="entry-content"><a href="mailto:mvisinsky@avanzaimplements.com">Email</a>            </div>
                     </div>
 
     </div>
@@ -1198,8 +1169,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Sarah Mann</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br>Residential Counsel</h5>
-                        <div class="entry-content">
-                                (817) 873-7904 <br><a href="mailto:smann@republictitle.com">Email</a>            </div>
+                        <div class="entry-content"><a href="mailto:smann@avanzaimplements.com">Email</a>            </div>
                     </div>
 
     </div>
@@ -1221,8 +1191,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Scott Rooker</h4>
                         <h5 class="col-subtitle">Vice President / <br>Residential Counsel</h5>
-                        <div class="entry-content">
-                                (214) 505-9624 <br><a href="mailto:srooker@republictitle.com">Email</a>            </div>
+                        <div class="entry-content"><a href="mailto:srooker@avanzaimplements.com">Email</a>            </div>
                     </div>
 
     </div>
@@ -1240,12 +1209,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au3313ad7b" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/SteveHolley.jpg" alt="steve holley republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/SteveHolley.jpg" alt="steve holley AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Steve Holley</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Senior Residential Counsel</h5>
-                        <div class="entry-content">
-                                (214) 890-2129 <br><a href="mailto:sholley@republictitle.com">Email</a>            </div>
+                        <div class="entry-content"><a href="mailto:sholley@avanzaimplements.com">Email</a>            </div>
                     </div>
 
     </div>
@@ -1273,8 +1241,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Wade Bogdon</h4>
                         <h5 class="col-subtitle">Assistant Vice President / Residential Counsel <br></h5>
-                        <div class="entry-content">
-                                (214) 556-0330 <br><a href="mailto:wbogdon@republictitle.com">Email</a>            </div>
+                        <div class="entry-content"><a href="mailto:wbogdon@avanzaimplements.com">Email</a>            </div>
                     </div>
 
     </div>
@@ -1292,12 +1259,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au14532782" style="">    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark ">
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/WardWilliford.jpg" alt="ward williford republic title" data-ratio="0.7" data-original-w="350"></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/WardWilliford.jpg" alt="ward williford AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350"></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Ward Williford</h4>
                         <h5 class="col-subtitle">Vice Chairman <br><br></h5>
-                        <div class="entry-content">
-                                (214) 754-7778 <br><a href="mailto:wwilliford@republictitle.com">Email</a>            </div>
+                        <div class="entry-content"><a href="mailto:wwilliford@avanzaimplements.com">Email</a>            </div>
                     </div>
 
     </div>
@@ -1388,13 +1354,13 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-element elementor-element-be3ff8e elementor-widget elementor-widget-image" data-id="be3ff8e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="location asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px">														</div>
+												<img width="150" height="150" src="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png" class="attachment-thumbnail size-thumbnail" alt="location asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/locationsAsset-33@2x.png 405w" sizes="(max-width: 150px) 100vw, 150px">														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-94f0ecf elementor-align-center elementor-widget elementor-widget-button" data-id="94f0ecf" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/locations" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="locations.php" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">FIND A LOCATION</span>
 		</span>

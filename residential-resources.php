@@ -19,21 +19,21 @@
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>DFW Area Resources | Republic Title of Texas</title>
+	<title>DFW Area Resources | AVANZA IMPLEMENTS LLC of Texas</title>
 	<meta name="description" content="Great information for the DFW area, home buyers and sellers information, DFW area school ratings, tax rates and real estate statistics." />
 	<link rel="canonical" href="https://www.republictitle.com/residential-resources/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="DFW Area Resources | Republic Title of Texas" />
+	<meta property="og:title" content="DFW Area Resources | AVANZA IMPLEMENTS LLC of Texas" />
 	<meta property="og:description" content="Great information for the DFW area, home buyers and sellers information, DFW area school ratings, tax rates and real estate statistics." />
 	<meta property="og:url" content="https://www.republictitle.com/residential-resources/" />
-	<meta property="og:site_name" content="Republic Title" />
+	<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC" />
 	<meta property="article:modified_time" content="2021-06-01T16:57:55+00:00" />
 	<meta property="og:image" content="https://rttprod.wpengine.com/wp-content/uploads/2021/04/DFW-Area.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="2 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/residential-resources/#primaryimage","inLanguage":"en-US","url":"https://rttprod.wpengine.com/wp-content/uploads/2021/04/DFW-Area.png","contentUrl":"https://rttprod.wpengine.com/wp-content/uploads/2021/04/DFW-Area.png"},{"@type":"WebPage","@id":"https://www.republictitle.com/residential-resources/#webpage","url":"https://www.republictitle.com/residential-resources/","name":"DFW Area Resources | Republic Title of Texas","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/residential-resources/#primaryimage"},"datePublished":"2021-04-02T17:56:45+00:00","dateModified":"2021-06-01T16:57:55+00:00","description":"Great information for the DFW area, home buyers and sellers information, DFW area school ratings, tax rates and real estate statistics.","breadcrumb":{"@id":"https://www.republictitle.com/residential-resources/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/residential-resources/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/residential-resources/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Residential Resources"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/residential-resources/#primaryimage","inLanguage":"en-US","url":"https://rttprod.wpengine.com/wp-content/uploads/2021/04/DFW-Area.png","contentUrl":"https://rttprod.wpengine.com/wp-content/uploads/2021/04/DFW-Area.png"},{"@type":"WebPage","@id":"https://www.republictitle.com/residential-resources/#webpage","url":"https://www.republictitle.com/residential-resources/","name":"DFW Area Resources | AVANZA IMPLEMENTS LLC of Texas","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/residential-resources/#primaryimage"},"datePublished":"2021-04-02T17:56:45+00:00","dateModified":"2021-06-01T16:57:55+00:00","description":"Great information for the DFW area, home buyers and sellers information, DFW area school ratings, tax rates and real estate statistics.","breadcrumb":{"@id":"https://www.republictitle.com/residential-resources/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/residential-resources/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/residential-resources/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Residential Resources"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -320,10 +320,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png" />
-<meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png" />
+	<link rel="icon" href="logo.png" sizes="32x32" />
+<link rel="icon" href="logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="logo.png" />
+<meta name="msapplication-TileImage" content="logo.png" />
 		<style type="text/css" id="wp-custom-css">
 			.aux-staff-img-rect { min-height: 1px;
 }		</style>
@@ -386,14 +386,14 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-7d8fa63 elementor-widget elementor-widget-image" data-id="7d8fa63" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-													<a href="/dfw-area-resources/" target="_blank">
+													<a href="" target="_blank">
 							<img width="256" height="256" src="https://www.republictitle.com/wp-content/uploads/2021/04/DFW-Area.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2021/04/DFW-Area.png 256w, https://www.republictitle.com/wp-content/uploads/2021/04/DFW-Area-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2021/04/DFW-Area-100x100.png 100w" sizes="(max-width: 256px) 100vw, 256px" />								</a>
 														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-967299b elementor-widget elementor-widget-heading" data-id="967299b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="/dfw-area-resources/">DFW Area Resources</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="">DFW Area Resources</a></h2>		</div>
 				</div>
 						</div>
 					</div>
@@ -404,14 +404,14 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-712584d elementor-widget elementor-widget-image" data-id="712584d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-													<a href="/agent-resources/" target="_blank">
+													<a href="" target="_blank">
 							<img width="256" height="256" src="https://www.republictitle.com/wp-content/uploads/2021/04/Agent.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2021/04/Agent.png 256w, https://www.republictitle.com/wp-content/uploads/2021/04/Agent-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2021/04/Agent-100x100.png 100w" sizes="(max-width: 256px) 100vw, 256px" />								</a>
 														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-ab43ceb elementor-widget elementor-widget-heading" data-id="ab43ceb" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="/agent-resources/">Agent Resources</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="">Agent Resources</a></h2>		</div>
 				</div>
 						</div>
 					</div>
@@ -422,14 +422,14 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-e4e7316 elementor-widget elementor-widget-image" data-id="e4e7316" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-													<a href="/buyer-resources/" target="_blank">
+													<a href="" target="_blank">
 							<img width="256" height="256" src="https://www.republictitle.com/wp-content/uploads/2021/04/Buyer.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2021/04/Buyer.png 256w, https://www.republictitle.com/wp-content/uploads/2021/04/Buyer-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2021/04/Buyer-100x100.png 100w" sizes="(max-width: 256px) 100vw, 256px" />								</a>
 														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-e214e5b elementor-widget elementor-widget-heading" data-id="e214e5b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="/buyer-resources/">Buyer Resources</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="">Buyer Resources</a></h2>		</div>
 				</div>
 						</div>
 					</div>
@@ -446,14 +446,14 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-beee6f0 elementor-widget elementor-widget-image" data-id="beee6f0" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-													<a href="/seller-resources/" target="_blank">
+													<a href="" target="_blank">
 							<img width="256" height="257" src="https://www.republictitle.com/wp-content/uploads/2021/04/Seller.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2021/04/Seller.png 256w, https://www.republictitle.com/wp-content/uploads/2021/04/Seller-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2021/04/Seller-100x100.png 100w" sizes="(max-width: 256px) 100vw, 256px" />								</a>
 														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-8f08879 elementor-widget elementor-widget-heading" data-id="8f08879" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="/seller-resources/">Seller Resources</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="">Seller Resources</a></h2>		</div>
 				</div>
 						</div>
 					</div>
@@ -464,14 +464,14 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-b753b69 elementor-widget elementor-widget-image" data-id="b753b69" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-													<a href="/school-ratings/" target="_blank">
+													<a href="" target="_blank">
 							<img width="256" height="256" src="https://www.republictitle.com/wp-content/uploads/2021/04/School-Rating.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2021/04/School-Rating.png 256w, https://www.republictitle.com/wp-content/uploads/2021/04/School-Rating-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2021/04/School-Rating-100x100.png 100w" sizes="(max-width: 256px) 100vw, 256px" />								</a>
 														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-292d11d elementor-widget elementor-widget-heading" data-id="292d11d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="/school-ratings/">School Ratings</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="">School Ratings</a></h2>		</div>
 				</div>
 						</div>
 					</div>
@@ -482,14 +482,14 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-037a752 elementor-widget elementor-widget-image" data-id="037a752" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-													<a href="/dfw-area-real-estate-statistics/" target="_blank">
+													<a href="" target="_blank">
 							<img width="256" height="256" src="https://www.republictitle.com/wp-content/uploads/2021/04/DFW-Stats.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2021/04/DFW-Stats.png 256w, https://www.republictitle.com/wp-content/uploads/2021/04/DFW-Stats-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2021/04/DFW-Stats-100x100.png 100w" sizes="(max-width: 256px) 100vw, 256px" />								</a>
 														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-f8b0228 elementor-widget elementor-widget-heading" data-id="f8b0228" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="/dfw-area-real-estate-statistics/">DFW Area Real Estate Statistics</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="">DFW Area Real Estate Statistics</a></h2>		</div>
 				</div>
 						</div>
 					</div>
@@ -512,14 +512,14 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-923a688 elementor-widget elementor-widget-image" data-id="923a688" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-													<a href="/tax-information/" target="_blank">
+													<a href="" target="_blank">
 							<img width="256" height="256" src="https://www.republictitle.com/wp-content/uploads/2021/04/Tax-Info.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2021/04/Tax-Info.png 256w, https://www.republictitle.com/wp-content/uploads/2021/04/Tax-Info-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2021/04/Tax-Info-100x100.png 100w" sizes="(max-width: 256px) 100vw, 256px" />								</a>
 														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-3f33d4c elementor-widget elementor-widget-heading" data-id="3f33d4c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="/tax-information/">Tax Information</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="">Tax Information</a></h2>		</div>
 				</div>
 						</div>
 					</div>
@@ -542,14 +542,14 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-af4a7a0 elementor-widget elementor-widget-image" data-id="af4a7a0" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-													<a href="/tax-information/">
+													<a href="">
 							<img width="256" height="256" src="https://www.republictitle.com/wp-content/uploads/2021/04/Tax-Info.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2021/04/Tax-Info.png 256w, https://www.republictitle.com/wp-content/uploads/2021/04/Tax-Info-150x150.png 150w, https://www.republictitle.com/wp-content/uploads/2021/04/Tax-Info-100x100.png 100w" sizes="(max-width: 256px) 100vw, 256px" />								</a>
 														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-fb257a7 elementor-widget elementor-widget-heading" data-id="fb257a7" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="/tax-information/">Tax Information</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="">Tax Information</a></h2>		</div>
 				</div>
 						</div>
 					</div>

@@ -19,14 +19,14 @@
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Commercial Team - Republic Title</title>
+	<title>Commercial Team - AVANZA IMPLEMENTS LLC</title>
 	<link rel="canonical" href="https://www.republictitle.com/commercial/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Commercial Team - Republic Title" />
-	<meta property="og:description" content="WELCOME TO OUR COMMERCIAL DIVISION Republic Title Dallas Uptown Commercial 2626 Howell Street, 10th FloorDallas, TX 75204 (214) 855-8888 Republic Title Fort Worth Commercial 201 Main Street, Suite 1400Fort Worth, TX 76102 (817) 877-1481 See On Map Join Our Email List Facebook If it&#8217;s your deal, it&#8217;s a big deal to us. Simple commercial deal [&hellip;]" />
+	<meta property="og:title" content="Commercial Team - AVANZA IMPLEMENTS LLC" />
+	<meta property="og:description" content="WELCOME TO OUR COMMERCIAL DIVISION AVANZA IMPLEMENTS LLC Dallas Uptown Commercial 2626 Howell Street, 10th FloorDallas, TX 75204 (214) 855-8888 AVANZA IMPLEMENTS LLC Fort Worth Commercial 201 Main Street, Suite 1400Fort Worth, TX 76102 (817) 877-1481 See On Map Join Our Email List Facebook If it&#8217;s your deal, it&#8217;s a big deal to us. Simple commercial deal [&hellip;]" />
 	<meta property="og:url" content="https://www.republictitle.com/commercial/" />
-	<meta property="og:site_name" content="Republic Title" />
+	<meta property="og:site_name" content="AVANZA IMPLEMENTS LLC" />
 	<meta property="article:modified_time" content="2022-03-04T16:19:28+00:00" />
 	<meta property="og:image" content="https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled.jpg" />
 	<meta property="og:image:width" content="2560" />
@@ -35,7 +35,7 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="18 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"Republic Title","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/commercial/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled.jpg","contentUrl":"https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled.jpg","width":2560,"height":1548,"caption":"Republic Title, Commercial Real Estate, Title Insurance, Title Company"},{"@type":"WebPage","@id":"https://www.republictitle.com/commercial/#webpage","url":"https://www.republictitle.com/commercial/","name":"Commercial Team - Republic Title","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/commercial/#primaryimage"},"datePublished":"2019-03-04T16:52:31+00:00","dateModified":"2022-03-04T16:19:28+00:00","breadcrumb":{"@id":"https://www.republictitle.com/commercial/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/commercial/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/commercial/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Commercial Team"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.republictitle.com/#website","url":"https://www.republictitle.com/","name":"AVANZA IMPLEMENTS LLC","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.republictitle.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.republictitle.com/commercial/#primaryimage","inLanguage":"en-US","url":"https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled.jpg","contentUrl":"https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled.jpg","width":2560,"height":1548,"caption":"AVANZA IMPLEMENTS LLC, Commercial Real Estate, Title Insurance, Title Company"},{"@type":"WebPage","@id":"https://www.republictitle.com/commercial/#webpage","url":"https://www.republictitle.com/commercial/","name":"Commercial Team - AVANZA IMPLEMENTS LLC","isPartOf":{"@id":"https://www.republictitle.com/#website"},"primaryImageOfPage":{"@id":"https://www.republictitle.com/commercial/#primaryimage"},"datePublished":"2019-03-04T16:52:31+00:00","dateModified":"2022-03-04T16:19:28+00:00","breadcrumb":{"@id":"https://www.republictitle.com/commercial/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.republictitle.com/commercial/"]}]},{"@type":"BreadcrumbList","@id":"https://www.republictitle.com/commercial/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.republictitle.com/"},{"@type":"ListItem","position":2,"name":"Commercial Team"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -304,7 +304,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 </script>
 <script type='text/javascript' src='https://www.republictitle.com/wp-content/themes/phlox-pro/js/solo/modernizr-custom.min.js?ver=5.6.7' id='auxin-modernizr-js'></script>
     <meta name="title"       content="Commercial Team" />
-    <meta name="description" content="WELCOME TO OUR COMMERCIAL DIVISION Republic Title Dallas Uptown Commercial 2626 Howell Street, 10th FloorDallas, TX 75204 (214) 855-8888 Republic Title Fort Worth Commercial 201 Main Street, Suite 1400Fort Worth, TX 76102 (817) 877-1481 See On Map Join Our Email List Facebook If it&#8217;s your deal, it&#8217;s a big deal to us. Simple commercial deal [&hellip;]" />
+    <meta name="description" content="WELCOME TO OUR COMMERCIAL DIVISION AVANZA IMPLEMENTS LLC Dallas Uptown Commercial 2626 Howell Street, 10th FloorDallas, TX 75204 (214) 855-8888 AVANZA IMPLEMENTS LLC Fort Worth Commercial 201 Main Street, Suite 1400Fort Worth, TX 76102 (817) 877-1481 See On Map Join Our Email List Facebook If it&#8217;s your deal, it&#8217;s a big deal to us. Simple commercial deal [&hellip;]" />
         <link rel="image_src"    href="https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled-90x90.jpg" />
             <script type='text/javascript'>
             if (typeof ajaxurl === 'undefined') {
@@ -323,10 +323,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-180x180.png" />
-<meta name="msapplication-TileImage" content="https://www.republictitle.com/wp-content/uploads/2019/01/cropped-Icon-270x270.png" />
+	<link rel="icon" href="logo.png" sizes="32x32" />
+<link rel="icon" href="logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="logo.png" />
+<meta name="msapplication-TileImage" content="logo.png" />
 		<style type="text/css" id="wp-custom-css">
 			.aux-staff-img-rect { min-height: 1px;
 }		</style>
@@ -390,7 +390,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 						<div class="elementor-element elementor-element-d276408 elementor-widget elementor-widget-image" data-id="d276408" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="619" src="https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled.jpg" class="attachment-large size-large" alt="Republic Title, Commercial Real Estate, Title Insurance, Title Company" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled.jpg 2560w, https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled-600x363.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+												<img width="1024" height="619" src="https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled.jpg" class="attachment-large size-large" alt="AVANZA IMPLEMENTS LLC, Commercial Real Estate, Title Insurance, Title Company" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled.jpg 2560w, https://www.republictitle.com/wp-content/uploads/2018/11/Commercial-scaled-600x363.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -401,7 +401,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e66525e elementor-widget elementor-widget-heading" data-id="e66525e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Republic Title Dallas Uptown Commercial</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">AVANZA IMPLEMENTS LLC Dallas Uptown Commercial</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ab3f654 elementor-widget elementor-widget-text-editor" data-id="ab3f654" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -411,11 +411,10 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				</div>
 				<div class="elementor-element elementor-element-99d537c elementor-widget elementor-widget-heading" data-id="99d537c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h5 class="elementor-heading-title elementor-size-default">(214) 855-8888</h5>		</div>
 				</div>
 				<div class="elementor-element elementor-element-e8b45f2 elementor-widget elementor-widget-heading" data-id="e8b45f2" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Republic Title Fort Worth Commercial</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">AVANZA IMPLEMENTS LLC Fort Worth Commercial</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-3a4a451 elementor-widget elementor-widget-text-editor" data-id="3a4a451" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -425,7 +424,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				</div>
 				<div class="elementor-element elementor-element-62b105d elementor-widget elementor-widget-heading" data-id="62b105d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h5 class="elementor-heading-title elementor-size-default">(817) 877-1481</h5>		</div>
+		</div>
 				</div>
 				<div class="elementor-element elementor-element-8b4bb96 elementor-widget elementor-widget-aux_button" data-id="8b4bb96" data-element_type="widget" data-widget_type="aux_button.default">
 				<div class="elementor-widget-container">
@@ -433,13 +432,13 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				</div>
 				<div class="elementor-element elementor-element-7b2063f elementor-widget elementor-widget-aux_button" data-id="7b2063f" data-element_type="widget" data-widget_type="aux_button.default">
 				<div class="elementor-widget-container">
-			<a  href="/commercial-email-list/" target="_self"   class="aux-button aux-medium aux-east-bay aux-none aux-outline aux-uppercase" ><span class="aux-overlay"></span><span class="aux-text">Join Our Email List</span></a>		</div>
+			<a  href="email.php" target="_self"   class="aux-button aux-medium aux-east-bay aux-none aux-outline aux-uppercase" ><span class="aux-overlay"></span><span class="aux-text">Join Our Email List</span></a>		</div>
 				</div>
 				<div class="elementor-element elementor-element-eab8b63 elementor-shape-square e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="eab8b63" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-social-icons-wrapper elementor-grid">
 							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-4b8360e" href="https://www.facebook.com/RepublicTitle/" target="_blank">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-4b8360e" href="https://www.facebook.com/" target="_blank">
 						<span class="elementor-screen-only">Facebook</span>
 													<i class="fa fa-facebook"></i>
 											</a>
@@ -487,7 +486,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-element elementor-element-5d00c1e7 elementor-widget elementor-widget-text-editor" data-id="5d00c1e7" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Simple commercial deal or complex, billion-dollar, multi-site transaction &#8211; Republic Title is the preferred title partner for a wide range of commercial customers. Why? Because of our comprehensive expertise in transactions: acquisitions, dispositions, refinancing, construction-to-permanent financing conversions and note sales. And our experience with virtually every type of commercial property: undeveloped land, office, multi-family, multi-site, retail, hospitality and industrial.</p><p>Large or small, your deal is always a big deal at Republic Title. With commercial offices in both <a href="/dallas-uptown-commercial" target="_blank" rel="noopener">Uptown Dallas</a> and <a href="/fort-worth-commercial/" target="_blank" rel="noopener">Downtown Fort Worth</a>, our team of <strong>eleven in-house attorneys and underwriters</strong> are determined to provide customers with quick underwriting decisions, and our <strong>twenty eight commercial closing teams</strong> and full support staff take advantage of the latest technology to handle any commercial closing quickly and efficiently. Republic Title is able to offer our clients the financial strength of <a href="/wp-content/uploads/2018/11/Commercial-Insurance-Underwriters.pdf" target="_blank" rel="noopener">multiple national title insurance underwriters</a> and has the ability to issue policies with a single risk limit of up to <b>$3.8 billion.</b> </p><p>Republic Title is proud to operate as the <a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank" rel="noopener">First American Title National Commercial Services</a> office for the Dallas-Fort Worth region. To augment our strong presence in the thriving Dallas-Fort Worth metropolitan market, our National Division has a longstanding, proven track record of transactions outside of Texas and the U.S., with successful closings of multi-site, multi-state and worldwide projects in the company&#8217;s impressive portfolio.</p>					</div>
+				<p>Simple commercial deal or complex, billion-dollar, multi-site transaction &#8211; AVANZA IMPLEMENTS LLC is the preferred title partner for a wide range of commercial customers. Why? Because of our comprehensive expertise in transactions: acquisitions, dispositions, refinancing, construction-to-permanent financing conversions and note sales. And our experience with virtually every type of commercial property: undeveloped land, office, multi-family, multi-site, retail, hospitality and industrial.</p><p>Large or small, your deal is always a big deal at AVANZA IMPLEMENTS LLC. With commercial offices in both <a href="/dallas-uptown-commercial" target="_blank" rel="noopener">Uptown Dallas</a> and <a href="/fort-worth-commercial/" target="_blank" rel="noopener">Downtown Fort Worth</a>, our team of <strong>eleven in-house attorneys and underwriters</strong> are determined to provide customers with quick underwriting decisions, and our <strong>twenty eight commercial closing teams</strong> and full support staff take advantage of the latest technology to handle any commercial closing quickly and efficiently. AVANZA IMPLEMENTS LLC is able to offer our clients the financial strength of <a href="/wp-content/uploads/2018/11/Commercial-Insurance-Underwriters.pdf" target="_blank" rel="noopener">multiple national title insurance underwriters</a> and has the ability to issue policies with a single risk limit of up to <b>$3.8 billion.</b> </p><p>AVANZA IMPLEMENTS LLC is proud to operate as the <a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank" rel="noopener">First American Title National Commercial Services</a> office for the Dallas-Fort Worth region. To augment our strong presence in the thriving Dallas-Fort Worth metropolitan market, our National Division has a longstanding, proven track record of transactions outside of Texas and the U.S., with successful closings of multi-site, multi-state and worldwide projects in the company&#8217;s impressive portfolio.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-695b695a elementor-widget elementor-widget-spacer" data-id="695b695a" data-element_type="widget" data-widget_type="spacer.default">
@@ -499,7 +498,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				</div>
 				<div class="elementor-element elementor-element-3f51adec elementor-widget elementor-widget-heading" data-id="3f51adec" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Need title expertise for a commercial deal? Republic Title is your partner.</h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default">Need title expertise for a commercial deal? AVANZA IMPLEMENTS LLC is your partner.</h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-1686028f elementor-widget elementor-widget-spacer" data-id="1686028f" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -535,13 +534,13 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-18213c00 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="18213c00" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="about-us.php" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png" class="attachment-full size-full" alt="industry experience asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="about-us.php" target="_blank">Industry Experience</a></h5><p class="elementor-image-box-description">Republic Title has your title needs covered and has proudly been protecting property rights since 1991.
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="about-us.php" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png" class="attachment-full size-full" alt="industry experience asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="about-us.php" target="_blank">Industry Experience</a></h5><p class="elementor-image-box-description">AVANZA IMPLEMENTS LLC has your title needs covered and has proudly been protecting property rights since 1991.
 
 </p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-6787567c elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="6787567c" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x.png" class="attachment-full size-full" alt="network asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank">National Commercial Services Network</a></h5><p class="elementor-image-box-description">Our national network can coordinate the closing of multi-site, multi-state and worldwide transactions.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x.png" class="attachment-full size-full" alt="network asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/NetworkAsset-25@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://www.firstam.com/title/commercial/tx-dallas-fort-worth/" target="_blank">National Commercial Services Network</a></h5><p class="elementor-image-box-description">Our national network can coordinate the closing of multi-site, multi-state and worldwide transactions.</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -551,11 +550,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-59a34de4 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="59a34de4" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Commercial-Insurance-Underwriters.pdf" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x.png" class="attachment-full size-full" alt="financial strength asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Commercial-Insurance-Underwriters.pdf" target="_blank">Financial Strength</a></h5><p class="elementor-image-box-description">We offer clients the financial strength of multiple, national title insurance underwriters.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Commercial-Insurance-Underwriters.pdf" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x.png" class="attachment-full size-full" alt="financial strength asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Financial-StrengthAsset-24@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Commercial-Insurance-Underwriters.pdf" target="_blank">Financial Strength</a></h5><p class="elementor-image-box-description">We offer clients the financial strength of multiple, national title insurance underwriters.</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-2802ebd6 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="2802ebd6" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Texas-Escrow-1031-Exchange-Booklet.pdf" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x.png" class="attachment-full size-full" alt="exchange asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Texas-Escrow-1031-Exchange-Booklet.pdf" target="_blank">1031 Exchange Services</a></h5><p class="elementor-image-box-description">Texas Escrow Company, a subsidiary of Republic Title of Texas, is an experienced qualified intermediary providing 1031 Exchange Services for forward, reverse or construction exchanges.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Texas-Escrow-1031-Exchange-Booklet.pdf" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x.png" class="attachment-full size-full" alt="exchange asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/exchange-svcsAsset-26@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h5 class="elementor-image-box-title"><a href="https://rttprod.wpengine.com/wp-content/uploads/2018/11/Texas-Escrow-1031-Exchange-Booklet.pdf" target="_blank">1031 Exchange Services</a></h5><p class="elementor-image-box-description">Texas Escrow Company, a subsidiary of AVANZA IMPLEMENTS LLC of Texas, is an experienced qualified intermediary providing 1031 Exchange Services for forward, reverse or construction exchanges.</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -616,16 +615,14 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auc8582d45" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BoFeagin.jpg" alt="bo feagin republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BoFeagin.jpg" alt="bo feagin AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Bo Feagin</h4>
                         <h5 class="col-subtitle">President <br><br></h5>
                         <div class="entry-content">
-                                (214) 754-7770 <br>
-<a href="/cdn-cgi/l/email-protection#5735313236303e391725322722353b3e34233e233b327934383a">Email</a>
+<a href="">Email</a>
 <br>
-<a href="/cdn-cgi/l/email-protection#1a6a7c687b747973695a687f6a6f787673796e736e767f34797577">Assistant: Patience Francis</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Bo_Feagin.vcf">Download vCard</a>            </div>
+            </div>
                     </div>
 
     </div>
@@ -648,11 +645,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
                         <h4 class="col-title">Amy Castro</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer</h5>
                         <div class="entry-content">
-                                (214) 855-8897 <br>
-<a href="/cdn-cgi/l/email-protection#f59496948681879ab58790858097999c96819c819990db969a98">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#a3c6cec2d1d7cacdc6d9e3d1c6d3d6c1cfcac0d7cad7cfc68dc0ccce">Assistant: Eunice Martinez</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Amy_Castro.vcf">Download vCard</a>            </div>
+<a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -670,16 +664,13 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aud1252f47" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BillKramer.jpg" alt="bill kramer republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/BillKramer.jpg" alt="bill kramer AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Bill Kramer</h4>
                         <h5 class="col-subtitle">Executive Chairman <br><br></h5>
                         <div class="entry-content">
-                                (214) 855-8850 <br>
-<a href="/cdn-cgi/l/email-protection#ed8f869f8c80889fad9f889d988f81848e9984998188c38e8280">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#a4d4c9c7c7c8d1d6c1e4d6c1d4d1c6c8cdc7d0cdd0c8c18ac7cbc9">Assistant: Pam McClure</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/William_Kramer.vcf">Download vCard</a>            </div>
+<a href="">Email</a>
+<br>         </div>
                     </div>
 
     </div>
@@ -697,13 +688,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au6e29e699" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/11/BrandonBrewer.jpg" alt="Brandon Brewer, Republic Title, Fort Worth, Commercial" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/11/BrandonBrewer.jpg" alt="Brandon Brewer, AVANZA IMPLEMENTS LLC, Fort Worth, Commercial" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Brandon Brewer</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Business Development</h5>
-                        <div class="entry-content">
-                                (817) 810-1012<br><a href="/cdn-cgi/l/email-protection#f99b9b8b9c8e9c8bb98b9c898c9b95909a8d908d959cd79a9694">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Brandon_Brewer.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+       </div>
                     </div>
 
     </div>
@@ -725,11 +715,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Carla Janousek</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Certified Exchange Specialist</h5>
-                        <div class="entry-content">
-                                (214) 855-8879<br><a href="/cdn-cgi/l/email-protection#21424b404f4e5452444a6153445154434d48425548554d440f424e4c">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#f49c839b9b80919ab48691848196989d97809d809891da979b99">Assistant: Helen Wooten</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Carla_Janousek.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -753,15 +740,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au59d56085" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/CathyMoeller.jpg" alt="cathy moeller republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/CathyMoeller.jpg" alt="cathy moeller AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Cathy Moeller</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 855-8871<br><a href="/cdn-cgi/l/email-protection#1c7f7173797070796e5c6e796c697e70757f6875687079327f7371">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#8ffce7fce7eef8cffdeafffaede3e6ecfbe6fbe3eaa1ece0e2">Assistant: Shannon Shaw</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Cathy_Moeller.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>     </div>
                     </div>
 
     </div>
@@ -779,13 +763,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au917c1a21" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/ChaseEvans.jpg" alt="chase evans republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/ChaseEvans.jpg" alt="chase evans AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Chase Evans</h4>
                         <h5 class="col-subtitle">Chief Operating Officer<br><br></h5>
-                        <div class="entry-content">
-                                (214) 754-7780<br><a href="/cdn-cgi/l/email-protection#0d6e656c7e6823687b6c637e4d7f687d786f61646e7964796168236e6260">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Chase_Evans.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+           </div>
                     </div>
 
     </div>
@@ -803,15 +786,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au62693c8a" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/ClayArnold.jpg" alt="clay arnold republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/ClayArnold.jpg" alt="clay arnold AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Clay Arnold</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Commercial Underwriting Counsel</h5>
-                        <div class="entry-content">
-                                (214) 754-7740 <br><a href="/cdn-cgi/l/email-protection#3f5c5e4d5150535b7f4d5a4f4a5d53565c4b564b535a115c5052">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#99f8fbecebedf6f7d9ebfce9ecfbf5f0faedf0edf5fcb7faf6f4">Assistant: Amber Burton</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Clay_Arnold.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -829,15 +809,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au2719136c" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/DavidShuttee.jpg" alt="david shuttee republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/DavidShuttee.jpg" alt="david shuttee AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">David Shuttee</h4>
                         <h5 class="col-subtitle">Executive Chairman <br><br></h5>
-                        <div class="entry-content">
-                                (214) 855-8825<br><a href="/cdn-cgi/l/email-protection#294d5a415c5d5d4c4c695b4c595c4b45404a5d405d454c074a4644">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#750518161619000710350710050017191c16011c0119105b161a18">Assistant: Pam McClure</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/David_Shuttee.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>            </div>
                     </div>
 
     </div>
@@ -855,15 +832,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aua62efe6d" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/EarlyDavis.jpg" alt="early davis republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/EarlyDavis.jpg" alt="early davis AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Early Davis</h4>
                         <h5 class="col-subtitle">President / <br>Fort Worth Division <br></h5>
-                        <div class="entry-content">
-                                (817) 806-1304 <br><a href="/cdn-cgi/l/email-protection#1f7a7e6d73667b7e69766c5f6d7a6f6a7d73767c6b766b737a317c7072">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#77161016150e3705120702151b1e14031e031b125914181a">Assistant: Alicia Gaby</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Early_Davis.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -887,15 +861,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au65dba9c8" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/EvangelaFurnace.jpg" alt="evangela furnace republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/EvangelaFurnace.jpg" alt="evangela furnace AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Evangela Furnace</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 855-8869<br><a href="/cdn-cgi/l/email-protection#71141704031f1012143103140104131d18120518051d145f121e1c">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#d0b1bdb9b5bcbbb590a2b5a0a5b2bcb9b3a4b9a4bcb5feb3bfbd">Assistant: Alexandra Hester</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Evangela_Furnace.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -917,10 +888,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Heather Hines McKay</h4>
                         <h5 class="col-subtitle">Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 855-8874<br><a href="/cdn-cgi/l/email-protection#d9b1b4bab2b8a099abbca9acbbb5b0baadb0adb5bcf7bab6b4">Email</a>
-<br>
-<a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Heather_Hines_McKay.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+        </div>
                     </div>
 
     </div>
@@ -938,13 +907,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aub686db8d" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/HeidiMcBee.jpg" alt="heidi mcbee republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/HeidiMcBee.jpg" alt="heidi mcbee AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Heidi McBee</h4>
                         <h5 class="col-subtitle">Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 855-8821<br><a href="/cdn-cgi/l/email-protection#bfd7d2dcdddadaffcddacfcaddd3d6dccbd6cbd3da91dcd0d2">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Heidi_McBee.vcf">Download vCard</a>
+                        <div class="entry-content"><a href="">Email</a>
             </div>
                     </div>
 
@@ -963,15 +930,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au6169b76f" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/11/JanetCeron.jpg" alt="Janet Ceron, Republic Title, Commercial, Fort Worth" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/11/JanetCeron.jpg" alt="Janet Ceron, AVANZA IMPLEMENTS LLC, Commercial, Fort Worth" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Janet Ceron</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br>Escrow Officer</h5>
-                        <div class="entry-content">
-                                (817) 810-1001<br><a href="/cdn-cgi/l/email-protection#fb91989e899495bb899e8b8e999792988f928f979ed5989496">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#4a0b243e2f202b2e2b0a382f3a3f282623293e233e262f64292527">Assistant: Angie Tejada</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Janet_Ceron.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>           </div>
                     </div>
 
     </div>
@@ -989,13 +953,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aub5057d17" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JanineBarber.jpg" alt="janine barber republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JanineBarber.jpg" alt="janine barber AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Janine Barber</h4>
                         <h5 class="col-subtitle">Senior Vice President  /<br> Commercial Title and Escrow Trainer</h5>
-                        <div class="entry-content">
-                                (214) 855-8863<br><a href="/cdn-cgi/l/email-protection#92f8f0f3e0f0f7e0d2e0f7e2e7f0fefbf1e6fbe6fef7bcf1fdff">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Janine_Barber.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+            </div>
                     </div>
 
     </div>
@@ -1023,11 +986,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Jeff Davis</h4>
                         <h5 class="col-subtitle">Chairman / <br>Fort Worth Division</h5>
-                        <div class="entry-content">
-                                (817) 806-1301<br><a href="/cdn-cgi/l/email-protection#02686764646663746b714270677277606e6b61766b766e672c616d6f">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#0e697b7a7d6b774e7c6b7e7b6c62676d7a677a626b206d6163">Assistant: Gerre Utsey</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Jeff_Davis.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -1045,13 +1005,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au77669887" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JeffMontgomery-e1548885688163.jpg" alt="jeff montgomery republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JeffMontgomery-e1548885688163.jpg" alt="jeff montgomery AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Jeff Montgomery</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Business Development</h5>
-                        <div class="entry-content">
-                                (214) 855-8830<br><a href="/cdn-cgi/l/email-protection#53393e3c3d27343c3e36212a1321362326313f3a30273a273f367d303c3e">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Jeff_Montgomery.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>           </div>
                     </div>
 
     </div>
@@ -1069,15 +1027,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au0c8b5584" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JeffPorter.jpg" alt="jeff porter republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JeffPorter.jpg" alt="jeff porter AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Jeff Porter</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer / Attorney</h5>
-                        <div class="entry-content">
-                                (214) 855-8820<br><a href="/cdn-cgi/l/email-protection#147e647b66607166546671646176787d77607d6078713a777b79">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#f09c928291879c9589b082958085929c99938499849c95de939f9d">Assistant: Lori Brawley</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Jeff_Porter.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>         </div>
                     </div>
 
     </div>
@@ -1099,11 +1054,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Jennifer Webb</h4>
                         <h5 class="col-subtitle">Vice President <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 855-2820<br><a href="/cdn-cgi/l/email-protection#573d203235351725322722353b3e34233e233b327934383a">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#2e45444b404547405d6e5c4b5e5b4c42474d5a475a424b004d4143">Assistant: Kendall Jenkins</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Jennifer_Webb.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -1121,13 +1073,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auc8b771fe" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JoeLeatherwood.jpg" alt="joe leatherwood republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JoeLeatherwood.jpg" alt="joe leatherwood AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Joe Leatherwood</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br>Underwriting</h5>
-                        <div class="entry-content">
-                                (817) 806-1307<br><a href="/cdn-cgi/l/email-protection#e58f8a80898084918d8097928a8a81a59780959087898c86918c918980cb868a88">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Joe_Leatherwood.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="	">Email</a>
+           </div>
                     </div>
 
     </div>
@@ -1155,9 +1106,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">John Wilson</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Business Development <br></h5>
-                        <div class="entry-content">
-                                (214) 855-8838<br><a href="/cdn-cgi/l/email-protection#fa908d9396899594ba889f8a8f989693998e938e969fd4999597">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/John_Wilson.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+           </div>
                     </div>
 
     </div>
@@ -1175,15 +1125,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au448bbb04" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JonHooper.jpg" alt="jon hooper republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/JonHooper.jpg" alt="jon hooper AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Jon Hooper</h4>
                         <h5 class="col-subtitle">Senior Vice President  /<br> Senior Underwriting Counsel</h5>
-                        <div class="entry-content">
-                                (214) 855-8884<br><a href="/cdn-cgi/l/email-protection#1c767473736c796e5c6e796c697e70757f6875687079327f7371">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#8ae7e3e9e2e8f8e5fde4caf8effaffe8e6e3e9fee3fee6efa4e9e5e7">Assistant: Mickey Brown</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Jonathan_Hooper.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>           </div>
                     </div>
 
     </div>
@@ -1205,9 +1152,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Joy Green</h4>
                         <h5 class="col-subtitle">Vice President / <br> Escrow Officer <br></h5>
-                        <div class="entry-content">
-                                (214) 855-8864<br><a href="/cdn-cgi/l/email-protection#f3999c948196969db381968386919f9a90879a879f96dd909c9e">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Joy_Green.vcf">Download vCard</a>
+                        <div class="entry-content"><a href="">Email</a>
 
             </div>
                     </div>
@@ -1227,13 +1172,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au5493f948" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/LibbyAllred.jpg" alt="libby allred republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/LibbyAllred.jpg" alt="libby allred AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Libby Allred</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Business Development <br></h5>
-                        <div class="entry-content">
-                                (214) 855-8829<br><a href="/cdn-cgi/l/email-protection#3d515c51514f58597d4f584d485f51545e4954495158135e5250">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Libby_Allred.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+          </div>
                     </div>
 
     </div>
@@ -1251,15 +1195,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au94b7e274" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/LindaWilliams.jpg" alt="linda williams republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/LindaWilliams.jpg" alt="linda williams AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Linda Williams</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer <br></h5>
-                        <div class="entry-content">
-                                (214) 754-7708<br><a href="/cdn-cgi/l/email-protection#7e1209171212171f130d3e0c1b0e0b1c12171d0a170a121b501d1113">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#0f7d7c7b6a667d6a7d4f7d6a7f7a6d63666c7b667b636a216c6062">Assistant: Richelle Steirer</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Linda_Williams.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>         </div>
                     </div>
 
     </div>
@@ -1283,13 +1224,13 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au12a49f4c" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/LindseyCarroll.jpg" alt="lindsey carroll republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/LindseyCarroll.jpg" alt="lindsey carroll AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Lindsey Carroll</h4>
                         <h5 class="col-subtitle">Senior Vice President /<br> Marketing / Communications</h5>
-                        <div class="entry-content">
-                                (214) 754-7782<br><a href="/cdn-cgi/l/email-protection#cda1aeacbfbfa2a1a18dbfa8bdb8afa1a4aeb9a4b9a1a8e3aea2a0">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Lindsey_Carroll.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="
+						">Email</a>
+           </div>
                     </div>
 
     </div>
@@ -1307,15 +1248,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aue57e084e" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/LizHigdem.jpg" alt="liz higdem republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/LizHigdem.jpg" alt="liz higdem AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Liz Stutts Higdem</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 855-2826<br><a href="/cdn-cgi/l/email-protection#8be7e3e2ecefeee6cbf9eefbfee9e7e2e8ffe2ffe7eea5e8e4e6">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#4f2e222d3a3d3b20210f3d2a3f3a2d23262c3b263b232a612c2022">Assistant: Amber Burton</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Liz_Stutts_Higdem.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>            </div>
                     </div>
 
     </div>
@@ -1333,15 +1271,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au010f8477" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/LorriHenson.jpg" alt="lorri henson republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/LorriHenson.jpg" alt="lorri henson AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Lorri Henson</h4>
                         <h5 class="col-subtitle">Senior Vice President  /<br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 855-8891<br><a href="/cdn-cgi/l/email-protection#660a0e03081509082614031613040a0f05120f120a034805090b">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#b4d5d0c1d3d5daf4c6d1c4c1d6d8ddd7c0ddc0d8d19ad7dbd9">Assistant: A.J. Dugan</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Lorri_Henson.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>            </div>
                     </div>
 
     </div>
@@ -1359,15 +1294,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auddf1a736" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MarkRoden.jpg" alt="mark roden republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MarkRoden.jpg" alt="mark roden AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Mark Roden</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Assistant General Counsel</h5>
-                        <div class="entry-content">
-                                (214) 855-8840<br><a href="/cdn-cgi/l/email-protection#c4a9b6aba0a1aa84b6a1b4b1a6a8ada7b0adb0a8a1eaa7aba9">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#85e8ece6ede7f7eaf2ebc5f7e0f5f0e7e9ece6f1ecf1e9e0abe6eae8">Assistant: Mickey Brown</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Mark_Roden.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>         </div>
                     </div>
 
     </div>
@@ -1385,16 +1317,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au6dccd954" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MelissaSchuelke.jpg" alt="melissa schuelke republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MelissaSchuelke.jpg" alt="melissa schuelke AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Melissa Schuelke</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 855-8835</a> <br><a href="/cdn-cgi/l/email-protection#2b465848435e4e47404e6b594e5b5e494742485f425f474e05484446">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#354656544641475a754750454057595c56415c4159501b565a58">Assistant: San Castro</a>
-<a href="/cdn-cgi/l/email-protection#553026213d3027363a2d152730252037393c36213c2139307b363a38">Assistant: Esther Cox</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Melissa_Schuelke.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><br><a href="">Email</a>
+<br>            </div>
                     </div>
 
     </div>
@@ -1418,15 +1346,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au14b3253a" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MeredithWilliams.jpg" alt="meredith williams republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/MeredithWilliams.jpg" alt="meredith williams AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Meredith Williams</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 754-7796<br><a href="/cdn-cgi/l/email-protection#046961736d68686d656977447661747166686d67706d7068612a676b69">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#f4999091959a9391989d87b48691848196989d97809d809891da979b99">Assistant: Michelle De Angelis</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Meredith_Williams.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>           </div>
                     </div>
 
     </div>
@@ -1448,9 +1373,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Michele Addison</h4>
                         <h5 class="col-subtitle">Assistant Vice President / <br>Escrow Officer</h5>
-                        <div class="entry-content">
-                                (817) 810-1023<br><a href="/cdn-cgi/l/email-protection#503d31343439233f3e1022352025323c39332439243c357e333f3d">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Michele_Addison.vcf">Download vCard</a>
+                        <div class="entry-content"><a href="">Email</a>
             </div>
                     </div>
 
@@ -1469,13 +1392,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aubf0727ce" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/11/MichelleBedard.jpg" alt="Michelle Bedard, Republic Title, Commercial, Fort Worth" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/11/MichelleBedard.jpg" alt="Michelle Bedard, AVANZA IMPLEMENTS LLC, Commercial, Fort Worth" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Michelle Bedard</h4>
                         <h5 class="col-subtitle">Vice President / <br>Escrow Officer</h5>
-                        <div class="entry-content">
-                                (817) 810-1007<br><a href="/cdn-cgi/l/email-protection#4f222d2a2b2e3d2b0f3d2a3f3a2d23262c3b263b232a612c2022">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Michelle_Bedard.vcf">Download vCard</a>
+                        <div class="entry-content"><a href="">Email</a>
             </div>
                     </div>
 
@@ -1498,10 +1419,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Misti-Michelle Ellis</h4>
                         <h5 class="col-subtitle">Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 754-7713<br><a href="/cdn-cgi/l/email-protection#87eae2ebebeef4c7f5e2f7f2e5ebeee4f3eef3ebe2a9e4e8ea">Email</a>
-<br>
-<a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Misti_Michelle_Ellis.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -1523,9 +1442,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Monica Hooks</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br>Escrow Officer</h5>
-                        <div class="entry-content">
-                                (817) 806-1306<br><a href="/cdn-cgi/l/email-protection#533e3c3d3a30323b3c3c38201321362326313f3a30273a273f367d303c3e">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Monica_Hooks.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+           </div>
                     </div>
 
     </div>
@@ -1549,15 +1467,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au35ea0ad9" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/NancyColaluca.jpg" alt="nancy colaluca republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/NancyColaluca.jpg" alt="nancy colaluca AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Nancy Colaluca</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 855-8855<br><a href="/cdn-cgi/l/email-protection#5d333e32313c31283e3c1d2f382d283f31343e2934293138733e3230">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#dabfa9aeb2bfa8b9b5a29aa8bfaaafb8b6b3b9aeb3aeb6bff4b9b5b7">Assistant: Esther Cox</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Nancy_Colaluca.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>           </div>
                     </div>
 
     </div>
@@ -1575,13 +1490,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au6a210be0" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/PamMcClure2.jpg" alt="pam mcclure republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/PamMcClure2.jpg" alt="pam mcclure AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Pam McClure</h4>
                         <h5 class="col-subtitle">Vice President  /<br> Operations</h5>
-                        <div class="entry-content">
-                                (214) 754-7777<br><a href="/cdn-cgi/l/email-protection#53233e30303f2621361321362326313f3a30273a273f367d303c3e">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Pam_McClure.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+           </div>
                     </div>
 
     </div>
@@ -1599,13 +1513,11 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au411e6ba9" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/PatienceFrances.jpg" alt="patience frances republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/PatienceFrances.jpg" alt="patience frances AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Patience Francis</h4>
                         <h5 class="col-subtitle">Vice President / <br> Operations</h5>
-                        <div class="entry-content">
-                                (214) 754-7761<br><a href="/cdn-cgi/l/email-protection#71011703101f1218023103140104131d18120518051d145f121e1c">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Patience_Francis.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>           </div>
                     </div>
 
     </div>
@@ -1623,15 +1535,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auee8c797e" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/PattiWindle.jpg" alt="patti windle republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/PattiWindle.jpg" alt="patti windle AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Patti Windle</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 754-7772<br><a href="/cdn-cgi/l/email-protection#cbbbbca2a5afa7ae8bb9aebbbea9a7a2a8bfa2bfa7aee5a8a4a6">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#aac7c8dfdec6cfd8ead8cfdadfc8c6c3c9dec3dec6cf84c9c5c7">Assistant: Marybeth Butler</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Patti_Windle.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>            </div>
                     </div>
 
     </div>
@@ -1649,15 +1558,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auc043cd3a" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/PeterGraf.jpg" alt="peter graf republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/PeterGraf.jpg" alt="peter graf AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Peter Graf</h4>
                         <h5 class="col-subtitle">Executive Vice President <br> and General Counsel <br><br></h5>
-                        <div class="entry-content">
-                                (214) 855-8836<br><a href="/cdn-cgi/l/email-protection#a0d0c7d2c1c6e0d2c5d0d5c2ccc9c3d4c9d4ccc58ec3cfcd">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#b0ddd9d3d8d2c2dfc7def0c2d5c0c5d2dcd9d3c4d9c4dcd59ed3dfdd">Assistant: Mickey Brown</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Peter_Graf.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>         </div>
                     </div>
 
     </div>
@@ -1681,13 +1587,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auceeded08" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/RandyHopkins.jpg" alt="randy hopkins republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/RandyHopkins.jpg" alt="randy hopkins AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Randy Hopkins</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Business Development <br><br></h5>
-                        <div class="entry-content">
-                                (214) 754-7705<br><a href="/cdn-cgi/l/email-protection#a5d7c4cdcad5cecccbd6e5d7c0d5d0c7c9ccc6d1ccd1c9c08bc6cac8">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Randy_Hopkins.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+           </div>
                     </div>
 
     </div>
@@ -1705,15 +1610,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au149a6801" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/RoseBoise.jpg" alt="rose boise republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/RoseBoise.jpg" alt="rose boise AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Rose Boisse</h4>
                         <h5 class="col-subtitle">Senior Vice President  /<br> Manager <br>Texas NCS Import Team</h5>
-                        <div class="entry-content">
-                                (214) 855-8875<br><a href="/cdn-cgi/l/email-protection#bcceded3d5cfcfd9fcced9ccc9ded0d5dfc8d5c8d0d992dfd3d1">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#3a4e5f425b4954594953574a55484e497a485f4a4f585653594e534e565f14595557">Team Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Rose_M_Boisse.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -1731,15 +1633,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au8c647026" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/RussellDickson.jpg" alt="russell dickson republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/RussellDickson.jpg" alt="russell dickson AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Russell Dickson</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer <br><br></h5>
-                        <div class="entry-content">
-                                (214) 855-2808</a> <br><a href="/cdn-cgi/l/email-protection#98eafcf1fbf3ebf7f6d8eafde8edfaf4f1fbecf1ecf4fdb6fbf7f5">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#f98d898b909a9cb98b9c898c9b95909a8d908d959cd79a9694">Assistant: Toni Price</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Russell_Dickson.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -1757,15 +1656,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aua49d71fe" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/SarahJaneBowdin.jpg" alt="sarah jane bowdin republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/SarahJaneBowdin.jpg" alt="sarah jane bowdin AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Sarah Jane Worrell-Bowdoin</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 855-8857<br><a href="/cdn-cgi/l/email-protection#b9cad3ced6cbcbdcd5d5f9cbdcc9ccdbd5d0dacdd0cdd5dc97dad6d4">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#a8c5dbdcc7ddd8e8dacdd8ddcac4c1cbdcc1dcc4cd86cbc7c5">Assistant: Megan Stoup</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Sarah_Jane_Bowdoin.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>         </div>
                     </div>
 
     </div>
@@ -1783,13 +1679,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au199cdb59" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/11/SheilaEhresman.jpg" alt="Sheila Ehresman, Republic Title, Fort Worth, Commercial" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/11/SheilaEhresman.jpg" alt="Sheila Ehresman, AVANZA IMPLEMENTS LLC, Fort Worth, Commercial" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Sheila Ehresman</h4>
                         <h5 class="col-subtitle">Vice President / <br>Escrow Officer <br><br></h5>
-                        <div class="entry-content">
-                                (817) 810-1015<br><a href="/cdn-cgi/l/email-protection#c6b5a3aeb4a3b5aba7a886b4a3b6b3a4aaafa5b2afb2aaa3e8a5a9ab">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Sheila_Ehresman.vcf">Download vCard</a>
+                        <div class="entry-content"><a href="">Email</a>
+
             </div>
                     </div>
 
@@ -1818,11 +1713,8 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
             <div class="aux-staff-content">
                         <h4 class="col-title">Stefanie Mathews</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer </h5>
-                        <div class="entry-content">
-                                (214) 754-7756<br><a href="/cdn-cgi/l/email-protection#4437302925302c213337043621343126282d27302d3028216a272b29">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#f79b95968599928383b785928782959b9e94839e839b92d994989a">Assistant: Lisa Barnett</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Stefanie_Mathews.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -1840,15 +1732,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-auaa4f9cb6" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/TammieCooper.jpg" alt="tammie cooper republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/TammieCooper.jpg" alt="tammie cooper AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Tammie Cooper</h4>
                         <h5 class="col-subtitle">Vice President / <br> Escrow Officer </h5>
-                        <div class="entry-content">
-                                (214) 855-8886<br><a href="/cdn-cgi/l/email-protection#2c584f43435c495e6c5e495c594e40454f5845584049024f4341">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#f98b9d95968e9cb98b9c898c9b95909a8d908d959cd79a9694">Assistant: RaeDawn Lowe</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Tammie_Cooper.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>            </div>
                     </div>
 
     </div>
@@ -1866,15 +1755,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au03930d56" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/TracyShanks.jpg" alt="tracy shanks republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/TracyShanks.jpg" alt="tracy shanks AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Tracy Shanks</h4>
                         <h5 class="col-subtitle">Senior Vice President  /<br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 754-7771<br><a href="/cdn-cgi/l/email-protection#bbcfc8d3dad5d0c8fbc9decbced9d7d2d8cfd2cfd7de95d8d4d6">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#b1c3dec6d4c2c5f1c3d4c1c4d3ddd8d2c5d8c5ddd49fd2dedc">Assistant: Robert West</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Tracy_Shanks.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>          </div>
                     </div>
 
     </div>
@@ -1892,15 +1778,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au4e1c2c51" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/TrishaWeaver.jpg" alt="trisha weaver republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/TrishaWeaver.jpg" alt="trisha weaver AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Trisha Weaver</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Escrow Officer</h5>
-                        <div class="entry-content">
-                                (214) 855-2806<br><a href="/cdn-cgi/l/email-protection#2450534145524156645641545146484d47504d5048410a474b49">Email</a>
-<br>
-<a href="/cdn-cgi/l/email-protection#f084829f9494959eb082958085929c99938499849c95de939f9d">Assistant: Teresa Rodden</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Trisha_Weaver.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+<br>         </div>
                     </div>
 
     </div>
@@ -1918,13 +1801,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au339ee2cf" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/VickiSummerall.jpg" alt="vicki summerall republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2018/12/VickiSummerall.jpg" alt="vicki summerall AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Vicki Summerall</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br> Business Development</h5>
-                        <div class="entry-content">
-                                (214) 855-8828<br><a href="/cdn-cgi/l/email-protection#067075736b6b6374676a6a4674637673646a6f65726f726a632865696b">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Vicki_Summerall.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+          </div>
                     </div>
 
     </div>
@@ -1948,13 +1830,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-aubb287a80" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/WardWilliford.jpg" alt="ward williford republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/WardWilliford.jpg" alt="ward williford AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Ward Williford</h4>
                         <h5 class="col-subtitle">Vice Chairman <br><br></h5>
-                        <div class="entry-content">
-                                (214) 754-7778<br><a href="/cdn-cgi/l/email-protection#295e5e404545404f465b4d695b4c595c4b45404a5d405d454c074a4644">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Ward_Williford.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+          </div>
                     </div>
 
     </div>
@@ -1972,13 +1853,12 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 				<div class="elementor-widget-container">
 			<section class="aux-wrap-style-simple widget-container aux-widget-staff aux-parent-au79600fcd" style="" >    <div class="aux-staff-container aux-staff-pos-top aux-staff-text-center aux-staff-text-dark " >
             <div class="aux-staff-header aux-staff-img-rect">
-            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/WilsonMartin.jpg" alt="wilson martin republic title" data-ratio="0.7" data-original-w="350" /></div>        </div>
+            <div class="aux-media-image"><img loading="lazy" width="350" height="500" src="https://www.republictitle.com/wp-content/uploads/2019/01/WilsonMartin.jpg" alt="wilson martin AVANZA IMPLEMENTS LLC" data-ratio="0.7" data-original-w="350" /></div>        </div>
             <div class="aux-staff-content">
                         <h4 class="col-title">Wilson Martin</h4>
                         <h5 class="col-subtitle">Senior Vice President / <br>Business Development</h5>
-                        <div class="entry-content">
-                                (817) 810-1002<br><a href="/cdn-cgi/l/email-protection#e4938d88978b8a898596908d8aa49681949186888d87908d908881ca878b89">Email</a>
-<br><a href="https://rttprod.wpengine.com/wp-content/uploads/VCF/Wilson_Martin.vcf">Download vCard</a>            </div>
+                        <div class="entry-content"><a href="">Email</a>
+           </div>
                     </div>
 
     </div>
@@ -2235,7 +2115,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-5fa79c59 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="5fa79c59" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="commercial-calculator.php" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png" class="elementor-animation-grow attachment-full size-full" alt="money asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="commercial-calculator.php" target="_blank">COMMERCIAL TITLE INSURANCE CALCULATOR</a></h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="commercial-calculator.php" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png" class="elementor-animation-grow attachment-full size-full" alt="money asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/Asset-11@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="commercial-calculator.php" target="_blank">COMMERCIAL TITLE INSURANCE CALCULATOR</a></h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -2245,7 +2125,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-4eda2792 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4eda2792" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="commercial-resourses.php" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png" class="elementor-animation-grow attachment-full size-full" alt="industry experience asset icon republic title" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="commercial-resourses.php" target="_blank">COMMERCIAL RESOURCES</a></h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="commercial-resourses.php" target="_blank"><img width="405" height="405" src="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png" class="elementor-animation-grow attachment-full size-full" alt="industry experience asset icon AVANZA IMPLEMENTS LLC" loading="lazy" srcset="https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x.png 405w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-300x300.png 300w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-100x100.png 100w, https://www.republictitle.com/wp-content/uploads/2018/12/industry-experienceAsset-23@2x-150x150.png 150w" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="commercial-resourses.php" target="_blank">COMMERCIAL RESOURCES</a></h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -2443,7 +2323,7 @@ var wpgmza_category_data = {"1":{"id":"1","active":"0","category_name":"Resident
 <script type='text/javascript' src='https://www.republictitle.com/wp-content/plugins/wp-google-maps/lib/pako_deflate.min.js?ver=5.8.3' id='pako-js'></script>
 <script type='text/javascript' id='wpgmza-js-extra'>
 /* <![CDATA[ */
-var WPGMZA_localized_data = {"adminurl":"https:\/\/www.republictitle.com\/wp-admin\/","siteHash":"6db50ab361d484707f898885eaf84a76","ajaxurl":"https:\/\/www.republictitle.com\/wp-admin\/admin-ajax.php","pluginDirURL":"https:\/\/www.republictitle.com\/wp-content\/plugins\/wp-google-maps\/","ajaxnonce":"1330185584","legacyajaxnonce":"a22a0626b9","html":{"googleMapsAPIErrorDialog":"<div>\n\n\t<h2>Maps API Error<\/h2>\n\t\n\t<div>\n\t\n\t\t<p>\n\t\t\tOne or more error(s) have occured attempting to initialize the Maps API:\t\t<\/p>\n\t\n\t\t<ul class=\"wpgmza-google-api-error-list\"><li class=\"template notice notice-error\">\n\t\t\t\t<span class=\"wpgmza-message\"><\/span>\n\t\t\t\t<span class=\"wpgmza-documentation-buttons\">\n\t\t\t\t\t<a target=\"_blank\">\n\t\t\t\t\t\t<i class=\"fa\" aria-hidden=\"true\"><\/i>\n\t\t\t\t\t<\/a>\n\t\t\t\t<\/span>\n\t\t\t<\/li>\n\t\t<\/ul><\/div>\n\t\t\t<p class=\"wpgmza-front-end-only\">\n\t\t<i class=\"fa fa-eye\" aria-hidden=\"true\"><\/i>\n\t\tThis dialog is only visible to administrators\t<\/p>\n\t\n\t<!--<button data-remodal-action=\"confirm\" class=\"remodal-confirm\">\n\t\tDismiss\t<\/button>-->\n\n<\/div>"},"imageFolderURL":"https:\/\/www.republictitle.com\/wp-content\/plugins\/wp-google-maps\/images\/","resturl":"https:\/\/www.republictitle.com\/wp-json\/wpgmza\/v1","restnonce":"9b6262f2f3","restnoncetable":{"\/(polygons|polylines|circles|rectangles)(\\\/\\d+)?\/":"ed311d4f95","\/markers(\\\/\\d+)?\/":"bdec9e59c3","\/datatables":"73d4ec98f2","\/marker-listing\/":"4419b9dc3f","\/maps\/":"be6cadcd9c","\/heatmaps(\\\/\\d+)?\/":"d726c50766"},"settings":{"wpgmza_settings_map_streetview":"yes","wpgmza_settings_map_type":"yes","wpgmza_settings_marker_pull":"0","wpgmza_maps_engine":"google-maps","wpgmza_maps_engine_dialog_done":true,"wpgmza_settings_image_resizing":"yes","wpgmza_settings_use_timthumb":"yes","wpgmza_settings_image_width":"300","wpgmza_gdpr_company_name":"Republic Title","wpgmza_gdpr_retention_purpose":"displaying map tiles, geocoding addresses and calculating and display directions.","wpgmza_gdpr_notice_override_text":"","wpgmza_settings_image_height":"","wpgmza_settings_infowindow_width":"","wpgmza_settings_infowindow_link_text":"View Branch Page","wpgmza_settings_map_striptags":"0","wpgmza_settings_ugm_autoapprove":"0","wpgmza_settings_ugm_email_new_marker":"0","tile_server_url":"https:\/\/{a-c}.tile.openstreetmap.org\/{z}\/{x}\/{y}.png","wpgmza_load_engine_api_condition":"where-required","use_fontawesome":"4.*","wpgmza_custom_css":"","wpgmza_custom_js":"","wpgmza_settings_carousel_markerlist_theme":"sky","wpgmza_default_items":"10","carousel_items":"5","carousel_items_tablet":"3","carousel_items_mobile":"1","carousel_autoplay":"5000","wpgmza_settings_filterbycat_type":"1","wpgmza_settings_map_open_marker_by":"2","wpgmza_settings_cat_logic":"0","wpgmza_settings_access_level":"manage_options","wpgmza_settings_retina_width":"31","wpgmza_settings_retina_height":"45","wpgmza_store_locator_radii":"1,5,10,25,50,75,100,150,200,300","wpgmza_iw_type":"-1","wpgmza_settings_infowindow_links":"yes","wpgmza_settings_markerlist_description":"yes","wpgmza_settings_markerlist_link":"yes","wpgmza_google_maps_api_key":"AIzaSyB9c1eOzCODtQXchlLee-L0-1Uto3qAXcw","engine":"google-maps","privacy_policy_notice_dismissed":true,"wpgmza_settings_disable_infowindows":false,"user_interface_style":"legacy","wpgmza_marker_xml_location":"mnt\/target05\/923382\/www.republictitle.com\/web\/content\/wp-content\/uploads\/wp-google-maps\/","wpgmza_marker_xml_url":"https:\/\/rttprod.wpengine.com\/wp-content\/uploads\/wp-google-maps\/","accessLevel":"manage_options","carouselAutoplay":"5000","carouselItems":"5","carouselItemsMobile":"1","carouselItemsTablet":"3","carouselTheme":"sky","categoryFilterDisplay":"dropdown","categoryFilteringLogic":"or","customCss":"","customJs":"","disableInfoWindows":false,"disableStreetViewControl":true,"disableTypeControl":true,"gdprCompanyName":"Republic Title","gdprNoticeOverrideText":"","gdprRetentionPurpose":"displaying map tiles, geocoding addresses and calculating and display directions.","googleMapsApiKey":"AIzaSyB9c1eOzCODtQXchlLee-L0-1Uto3qAXcw","hideMarkerListingDescription":true,"hideMarkerListingLink":true,"infoWindowImageHeight":"","infoWindowImageResizing":"yes","infoWindowImageWidth":"300","infoWindowLinkText":"View Branch Page","infoWindowLinks":true,"infoWindowMaxWidth":"","infoWindowType":"inherit","loadEngineApiCondition":"where-required","mapsEngineDialogDone":true,"markerListingPageSize":"10","markerPull":"database","markerXmlLocation":"mnt\/target05\/923382\/www.republictitle.com\/web\/content\/wp-content\/uploads\/wp-google-maps\/","markerXmlUrl":"https:\/\/rttprod.wpengine.com\/wp-content\/uploads\/wp-google-maps\/","openInfoWindowEvent":"hover","privacyPolicyNoticeDismissed":true,"retinaHeight":"45","retinaWidth":"31","storeLocatorRadii":"1,5,10,25,50,75,100,150,200,300","tileServerUrl":"https:\/\/{a-c}.tile.openstreetmap.org\/{z}\/{x}\/{y}.png","ugmAutoApprove":false,"ugmEmailNewMarker":false,"ugmStripTags":false,"useFontAwesome":"4.*","userInterfaceStyle":"legacy"},"currentPage":null,"userCanAdministrator":"0","serverCanInflate":"1","localized_strings":{"unsecure_geolocation":"Many browsers are no longer allowing geolocation from unsecured origins. You will need to secure your site with an SSL certificate (HTTPS) or this feature may not work for your visitors","use_my_location":"Use my location","google_api_not_loaded":"The map cannot be initialized because the Maps API has not been loaded. Please check your settings.","no_google_maps_api_key":"You have not entered a <b>Google Maps API Key<\/b>.<br \/><br \/>Please go to the your admin area, then Maps, then Settings, then the Advanced tab to <a href=\"https:\/\/www.republictitle.com\/wp-admin\/admin.php?page=wp-google-maps-menu-settings&highlight=wpgmza_google_maps_api_key#advanced-settings\">enter your Google Maps API key<\/a>.<br \/><br \/>Alternatively, <a href=\"https:\/\/www.republictitle.com\/wp-admin\/admin.php?page=wp-google-maps-menu-settings&highlight=wpgmza_maps_engine\">choose the Open Layers engine<\/a> to avoid getting an API key.","documentation":"Documentation","api_dashboard":"API Dashboard","verify_project":"Verify Project","no_shape_circle":"Please create the circle first.","no_shape_rectangle":"Please create the rectangle first.","no_shape_polygon":"Please create the polygon first.","no_shape_polyline":"Please create the polyline first.","failed_to_get_address":"Failed to get address","failed_to_create_marker":"Failed to create marker %d - this marker cannot be placed on the map.","my_location":"My Location","kilometers_away":"km away","miles_away":"miles away","import_completed":"Import completed.","importing_please_wait":"Importing, this may take a moment...","no_address_specified":"No address specified","add_marker":"Add Marker","save_marker":"Save Marker","please_wait":"Please Wait...","zero_results":"No results found in this location. Please try again.","address_not_found":"This address could not be found. WP Google Maps uses a 3rd party service (eg Google) to convert addresses to geographic coordinates. Unfortunately, the service has no records for this address at present. Please try an alternative format, or manually position the marker using right click.","geocode_fail":"Geocode failed due to technical reasons","you_must_check_gdpr_consent":"You must check the GDPR consent box to continue","no_gps_coordinates":"No GPS coordinates found","fetching_directions":"Fetching directions...","unknown_directions_service_status":"Unknown directions service status","please_fill_out_both_from_and_to_fields":"Please fill out both the \"from\" and \"to\" fields","no_picture_found":"No picture found","overwrite_theme_data":"Are you sure you want to overwrite the existing theme data?","upload_complete":"Upload Complete","uploading_file":"Uploading file","bulk_jpeg_media_title":"WP Google Maps - Bulk JPEG Upload","from_your_location":"from your location","from_searched_location":"from searched location","yes":"Yes","no":"No","requires_gold_v5":"Requires WP Google Maps - Gold add-on 5.0.0 or above","confirm_remove_duplicates":"This operation is not reversable. We recommend you take a backup before proceeding. Would you like to continue?","invalid_theme_data":"Invalid theme data","duplicate_custom_field_name":"Duplicate custom field names, please ensure you only add unique custom field names.","disabled_interactions_notice":"Some interactions are disabled.","interactions_enabled_notice":"Interactions Enabled","disabled_interactions_button":"Re-Enable Interactions","use_two_fingers":"Use two fingers to move the map","use_ctrl_scroll_to_zoom":"Use ctrl + scroll to zoom the map","geocode_was_not_successful":"Geocode was not successful for the following reason: ","geocoding_library_notice":"Geocoding this address failed. Please check you have enabled the Geocoding API for your Google Maps API project.","map_delete_prompt_text":"Are you sure you want to delete this map?","map_bulk_delete_prompt_text":"Are you sure you want to delete these maps?","new_map":"New Map","cloud_api_key_error_1":"Autocomplete disabled. <a href=\"https:\/\/wpgmaps.com\/documentation\/autocomplete-disabled\/\" target=\"_BLANK\">Find out more<\/a>.","please_select_a_file_to_upload":"Please select a file to upload.","import_reservedwordsfix":"Import","delete_reservedwordsfix":"Delete","back_to_import_data":"Back to Import Data","are_you_sure_you_wish_to_delete_this_file":"Are you sure you wish to delete this file?","file_deleted":"File deleted.","please_enter_a_url_to_import_from":"Please enter a URL to import from.","loading_import_options":"Loading import options...","are_you_sure_you_wish_to_delete_this_scheduled_import":"Are you sure you wish to delete this scheduled import?","scheduled_import_deleted":"Scheduled import deleted.","please_select_at_least_one_map_to_export":"Please select at least one map to export.","directions":"Directions","get_directions":"Get Directions","more_info":"View Branch Page"},"api_consent_html":"<div class=\"wpgmza-gdpr-compliance\"><p>\n\tI agree for my personal data to be processed by <span name=\"wpgmza_gdpr_company_name\">Republic Title<\/span>, for the purpose(s) of <span name=\"wpgmza_gdpr_retention_purpose\">displaying map tiles, geocoding addresses and calculating and display directions.<\/span>.\n<\/p>\n\n<p>\t\n\tI agree for my personal data, provided via map API calls, to be processed by the API provider, for the purposes of geocoding (converting addresses to coordinates), reverse geocoding and\tgenerating directions.\n<\/p>\n<p>\n\tSome visual components of WP Google Maps use 3rd party libraries which are loaded over the network. At present the libraries are Google Maps, Open Street Map, jQuery DataTables and FontAwesome. When loading resources over a network, the 3rd party server will receive your IP address and User Agent string amongst other details. Please refer to the Privacy Policy of the respective libraries for details on how they use data and the process to exercise your rights under the GDPR regulations.\n<\/p>\n<p>\n\tWP Google Maps uses jQuery DataTables to display sortable, searchable tables, such as that seen in the Advanced Marker Listing and on the Map Edit Page. jQuery DataTables in certain circumstances uses a cookie to save and later recall the \"state\" of a given table - that is, the search term, sort column and order and current page. This data is held in local storage and retained until this is cleared manually. No libraries used by WP Google Maps transmit this information.\n<\/p>\n<p>\n\tPlease <a href=\"https:\/\/developers.google.com\/maps\/terms\">see here<\/a> and <a href=\"https:\/\/maps.google.com\/help\/terms_maps.html\">here<\/a> for Google's terms. Please also see <a href=\"https:\/\/policies.google.com\/privacy?hl=en-GB&gl=uk\">Google's Privacy Policy<\/a>. We do not send the API provider any personally identifying information, or information that could uniquely identify your device.\n<\/p>\n<p>\n\tWhere this notice is displayed in place of a map, agreeing to this notice will store a cookie recording your agreement so you are not prompted again.\n<\/p><p class='wpgmza-centered'><button class='wpgmza-api-consent'>I agree<\/button><\/div><\/p>","basic_version":"8.1.21","_isProVersion":"1","defaultMarkerIcon":"https:\/\/www.republictitle.com\/wp-content\/plugins\/wp-google-maps\/images\/spotlight-poi2.png","markerXMLPathURL":"\/\/rttprod.wpengine.com\/wp-content\/uploads\/wp-google-maps\/","is_admin":"0","locale":"en_US","isServerIIS":"","import_security_nonce":"f1ad04d40f","export_security_nonce":"387fb211b3","gutenbergData":{"maps":[{"id":"1","map_title":"Republic Title Locations"},{"id":"4","map_title":"Blank"},{"id":"5","map_title":"Republic Title Locations"},{"id":"6","map_title":"Commercial Map"},{"id":"7","map_title":"New Map"}]},"postID":"4179","mediaRestUrl":"https:\/\/www.republictitle.com\/wp-json\/wp\/v2\/media\/","categoryTreeData":{"id":0,"name":"All","icon":{"url":"","retina":false},"priority":0,"children":[{"id":2,"name":"Commercial Locations","icon":{"url":"https:\/\/rttprod.wpengine.com\/wp-content\/uploads\/2018\/12\/5c2a43c364ba49.76063557-1.png","retina":false},"priority":0,"children":[],"marker_count":0},{"id":1,"name":"Residential Locations","icon":{"url":"https:\/\/rttprod.wpengine.com\/wp-content\/uploads\/2018\/12\/5c2a438906ac35.16410029-1.png","retina":false},"priority":0,"children":[],"marker_count":0}],"marker_count":0},"defaultPreloaderImage":"https:\/\/www.republictitle.com\/wp-content\/plugins\/wp-google-maps-pro\/images\/AjaxLoader.gif","pro_version":"8.1.19","heatmapIcon":"https:\/\/www.republictitle.com\/wp-content\/plugins\/wp-google-maps-pro\/images\/heatmap-point.png"};
+var WPGMZA_localized_data = {"adminurl":"https:\/\/www.republictitle.com\/wp-admin\/","siteHash":"6db50ab361d484707f898885eaf84a76","ajaxurl":"https:\/\/www.republictitle.com\/wp-admin\/admin-ajax.php","pluginDirURL":"https:\/\/www.republictitle.com\/wp-content\/plugins\/wp-google-maps\/","ajaxnonce":"1330185584","legacyajaxnonce":"a22a0626b9","html":{"googleMapsAPIErrorDialog":"<div>\n\n\t<h2>Maps API Error<\/h2>\n\t\n\t<div>\n\t\n\t\t<p>\n\t\t\tOne or more error(s) have occured attempting to initialize the Maps API:\t\t<\/p>\n\t\n\t\t<ul class=\"wpgmza-google-api-error-list\"><li class=\"template notice notice-error\">\n\t\t\t\t<span class=\"wpgmza-message\"><\/span>\n\t\t\t\t<span class=\"wpgmza-documentation-buttons\">\n\t\t\t\t\t<a target=\"_blank\">\n\t\t\t\t\t\t<i class=\"fa\" aria-hidden=\"true\"><\/i>\n\t\t\t\t\t<\/a>\n\t\t\t\t<\/span>\n\t\t\t<\/li>\n\t\t<\/ul><\/div>\n\t\t\t<p class=\"wpgmza-front-end-only\">\n\t\t<i class=\"fa fa-eye\" aria-hidden=\"true\"><\/i>\n\t\tThis dialog is only visible to administrators\t<\/p>\n\t\n\t<!--<button data-remodal-action=\"confirm\" class=\"remodal-confirm\">\n\t\tDismiss\t<\/button>-->\n\n<\/div>"},"imageFolderURL":"https:\/\/www.republictitle.com\/wp-content\/plugins\/wp-google-maps\/images\/","resturl":"https:\/\/www.republictitle.com\/wp-json\/wpgmza\/v1","restnonce":"9b6262f2f3","restnoncetable":{"\/(polygons|polylines|circles|rectangles)(\\\/\\d+)?\/":"ed311d4f95","\/markers(\\\/\\d+)?\/":"bdec9e59c3","\/datatables":"73d4ec98f2","\/marker-listing\/":"4419b9dc3f","\/maps\/":"be6cadcd9c","\/heatmaps(\\\/\\d+)?\/":"d726c50766"},"settings":{"wpgmza_settings_map_streetview":"yes","wpgmza_settings_map_type":"yes","wpgmza_settings_marker_pull":"0","wpgmza_maps_engine":"google-maps","wpgmza_maps_engine_dialog_done":true,"wpgmza_settings_image_resizing":"yes","wpgmza_settings_use_timthumb":"yes","wpgmza_settings_image_width":"300","wpgmza_gdpr_company_name":"AVANZA IMPLEMENTS LLC","wpgmza_gdpr_retention_purpose":"displaying map tiles, geocoding addresses and calculating and display directions.","wpgmza_gdpr_notice_override_text":"","wpgmza_settings_image_height":"","wpgmza_settings_infowindow_width":"","wpgmza_settings_infowindow_link_text":"View Branch Page","wpgmza_settings_map_striptags":"0","wpgmza_settings_ugm_autoapprove":"0","wpgmza_settings_ugm_email_new_marker":"0","tile_server_url":"https:\/\/{a-c}.tile.openstreetmap.org\/{z}\/{x}\/{y}.png","wpgmza_load_engine_api_condition":"where-required","use_fontawesome":"4.*","wpgmza_custom_css":"","wpgmza_custom_js":"","wpgmza_settings_carousel_markerlist_theme":"sky","wpgmza_default_items":"10","carousel_items":"5","carousel_items_tablet":"3","carousel_items_mobile":"1","carousel_autoplay":"5000","wpgmza_settings_filterbycat_type":"1","wpgmza_settings_map_open_marker_by":"2","wpgmza_settings_cat_logic":"0","wpgmza_settings_access_level":"manage_options","wpgmza_settings_retina_width":"31","wpgmza_settings_retina_height":"45","wpgmza_store_locator_radii":"1,5,10,25,50,75,100,150,200,300","wpgmza_iw_type":"-1","wpgmza_settings_infowindow_links":"yes","wpgmza_settings_markerlist_description":"yes","wpgmza_settings_markerlist_link":"yes","wpgmza_google_maps_api_key":"AIzaSyB9c1eOzCODtQXchlLee-L0-1Uto3qAXcw","engine":"google-maps","privacy_policy_notice_dismissed":true,"wpgmza_settings_disable_infowindows":false,"user_interface_style":"legacy","wpgmza_marker_xml_location":"mnt\/target05\/923382\/www.republictitle.com\/web\/content\/wp-content\/uploads\/wp-google-maps\/","wpgmza_marker_xml_url":"https:\/\/rttprod.wpengine.com\/wp-content\/uploads\/wp-google-maps\/","accessLevel":"manage_options","carouselAutoplay":"5000","carouselItems":"5","carouselItemsMobile":"1","carouselItemsTablet":"3","carouselTheme":"sky","categoryFilterDisplay":"dropdown","categoryFilteringLogic":"or","customCss":"","customJs":"","disableInfoWindows":false,"disableStreetViewControl":true,"disableTypeControl":true,"gdprCompanyName":"AVANZA IMPLEMENTS LLC","gdprNoticeOverrideText":"","gdprRetentionPurpose":"displaying map tiles, geocoding addresses and calculating and display directions.","googleMapsApiKey":"AIzaSyB9c1eOzCODtQXchlLee-L0-1Uto3qAXcw","hideMarkerListingDescription":true,"hideMarkerListingLink":true,"infoWindowImageHeight":"","infoWindowImageResizing":"yes","infoWindowImageWidth":"300","infoWindowLinkText":"View Branch Page","infoWindowLinks":true,"infoWindowMaxWidth":"","infoWindowType":"inherit","loadEngineApiCondition":"where-required","mapsEngineDialogDone":true,"markerListingPageSize":"10","markerPull":"database","markerXmlLocation":"mnt\/target05\/923382\/www.republictitle.com\/web\/content\/wp-content\/uploads\/wp-google-maps\/","markerXmlUrl":"https:\/\/rttprod.wpengine.com\/wp-content\/uploads\/wp-google-maps\/","openInfoWindowEvent":"hover","privacyPolicyNoticeDismissed":true,"retinaHeight":"45","retinaWidth":"31","storeLocatorRadii":"1,5,10,25,50,75,100,150,200,300","tileServerUrl":"https:\/\/{a-c}.tile.openstreetmap.org\/{z}\/{x}\/{y}.png","ugmAutoApprove":false,"ugmEmailNewMarker":false,"ugmStripTags":false,"useFontAwesome":"4.*","userInterfaceStyle":"legacy"},"currentPage":null,"userCanAdministrator":"0","serverCanInflate":"1","localized_strings":{"unsecure_geolocation":"Many browsers are no longer allowing geolocation from unsecured origins. You will need to secure your site with an SSL certificate (HTTPS) or this feature may not work for your visitors","use_my_location":"Use my location","google_api_not_loaded":"The map cannot be initialized because the Maps API has not been loaded. Please check your settings.","no_google_maps_api_key":"You have not entered a <b>Google Maps API Key<\/b>.<br \/><br \/>Please go to the your admin area, then Maps, then Settings, then the Advanced tab to <a href=\"https:\/\/www.republictitle.com\/wp-admin\/admin.php?page=wp-google-maps-menu-settings&highlight=wpgmza_google_maps_api_key#advanced-settings\">enter your Google Maps API key<\/a>.<br \/><br \/>Alternatively, <a href=\"https:\/\/www.republictitle.com\/wp-admin\/admin.php?page=wp-google-maps-menu-settings&highlight=wpgmza_maps_engine\">choose the Open Layers engine<\/a> to avoid getting an API key.","documentation":"Documentation","api_dashboard":"API Dashboard","verify_project":"Verify Project","no_shape_circle":"Please create the circle first.","no_shape_rectangle":"Please create the rectangle first.","no_shape_polygon":"Please create the polygon first.","no_shape_polyline":"Please create the polyline first.","failed_to_get_address":"Failed to get address","failed_to_create_marker":"Failed to create marker %d - this marker cannot be placed on the map.","my_location":"My Location","kilometers_away":"km away","miles_away":"miles away","import_completed":"Import completed.","importing_please_wait":"Importing, this may take a moment...","no_address_specified":"No address specified","add_marker":"Add Marker","save_marker":"Save Marker","please_wait":"Please Wait...","zero_results":"No results found in this location. Please try again.","address_not_found":"This address could not be found. WP Google Maps uses a 3rd party service (eg Google) to convert addresses to geographic coordinates. Unfortunately, the service has no records for this address at present. Please try an alternative format, or manually position the marker using right click.","geocode_fail":"Geocode failed due to technical reasons","you_must_check_gdpr_consent":"You must check the GDPR consent box to continue","no_gps_coordinates":"No GPS coordinates found","fetching_directions":"Fetching directions...","unknown_directions_service_status":"Unknown directions service status","please_fill_out_both_from_and_to_fields":"Please fill out both the \"from\" and \"to\" fields","no_picture_found":"No picture found","overwrite_theme_data":"Are you sure you want to overwrite the existing theme data?","upload_complete":"Upload Complete","uploading_file":"Uploading file","bulk_jpeg_media_title":"WP Google Maps - Bulk JPEG Upload","from_your_location":"from your location","from_searched_location":"from searched location","yes":"Yes","no":"No","requires_gold_v5":"Requires WP Google Maps - Gold add-on 5.0.0 or above","confirm_remove_duplicates":"This operation is not reversable. We recommend you take a backup before proceeding. Would you like to continue?","invalid_theme_data":"Invalid theme data","duplicate_custom_field_name":"Duplicate custom field names, please ensure you only add unique custom field names.","disabled_interactions_notice":"Some interactions are disabled.","interactions_enabled_notice":"Interactions Enabled","disabled_interactions_button":"Re-Enable Interactions","use_two_fingers":"Use two fingers to move the map","use_ctrl_scroll_to_zoom":"Use ctrl + scroll to zoom the map","geocode_was_not_successful":"Geocode was not successful for the following reason: ","geocoding_library_notice":"Geocoding this address failed. Please check you have enabled the Geocoding API for your Google Maps API project.","map_delete_prompt_text":"Are you sure you want to delete this map?","map_bulk_delete_prompt_text":"Are you sure you want to delete these maps?","new_map":"New Map","cloud_api_key_error_1":"Autocomplete disabled. <a href=\"https:\/\/wpgmaps.com\/documentation\/autocomplete-disabled\/\" target=\"_BLANK\">Find out more<\/a>.","please_select_a_file_to_upload":"Please select a file to upload.","import_reservedwordsfix":"Import","delete_reservedwordsfix":"Delete","back_to_import_data":"Back to Import Data","are_you_sure_you_wish_to_delete_this_file":"Are you sure you wish to delete this file?","file_deleted":"File deleted.","please_enter_a_url_to_import_from":"Please enter a URL to import from.","loading_import_options":"Loading import options...","are_you_sure_you_wish_to_delete_this_scheduled_import":"Are you sure you wish to delete this scheduled import?","scheduled_import_deleted":"Scheduled import deleted.","please_select_at_least_one_map_to_export":"Please select at least one map to export.","directions":"Directions","get_directions":"Get Directions","more_info":"View Branch Page"},"api_consent_html":"<div class=\"wpgmza-gdpr-compliance\"><p>\n\tI agree for my personal data to be processed by <span name=\"wpgmza_gdpr_company_name\">AVANZA IMPLEMENTS LLC<\/span>, for the purpose(s) of <span name=\"wpgmza_gdpr_retention_purpose\">displaying map tiles, geocoding addresses and calculating and display directions.<\/span>.\n<\/p>\n\n<p>\t\n\tI agree for my personal data, provided via map API calls, to be processed by the API provider, for the purposes of geocoding (converting addresses to coordinates), reverse geocoding and\tgenerating directions.\n<\/p>\n<p>\n\tSome visual components of WP Google Maps use 3rd party libraries which are loaded over the network. At present the libraries are Google Maps, Open Street Map, jQuery DataTables and FontAwesome. When loading resources over a network, the 3rd party server will receive your IP address and User Agent string amongst other details. Please refer to the Privacy Policy of the respective libraries for details on how they use data and the process to exercise your rights under the GDPR regulations.\n<\/p>\n<p>\n\tWP Google Maps uses jQuery DataTables to display sortable, searchable tables, such as that seen in the Advanced Marker Listing and on the Map Edit Page. jQuery DataTables in certain circumstances uses a cookie to save and later recall the \"state\" of a given table - that is, the search term, sort column and order and current page. This data is held in local storage and retained until this is cleared manually. No libraries used by WP Google Maps transmit this information.\n<\/p>\n<p>\n\tPlease <a href=\"https:\/\/developers.google.com\/maps\/terms\">see here<\/a> and <a href=\"https:\/\/maps.google.com\/help\/terms_maps.html\">here<\/a> for Google's terms. Please also see <a href=\"https:\/\/policies.google.com\/privacy?hl=en-GB&gl=uk\">Google's Privacy Policy<\/a>. We do not send the API provider any personally identifying information, or information that could uniquely identify your device.\n<\/p>\n<p>\n\tWhere this notice is displayed in place of a map, agreeing to this notice will store a cookie recording your agreement so you are not prompted again.\n<\/p><p class='wpgmza-centered'><button class='wpgmza-api-consent'>I agree<\/button><\/div><\/p>","basic_version":"8.1.21","_isProVersion":"1","defaultMarkerIcon":"https:\/\/www.republictitle.com\/wp-content\/plugins\/wp-google-maps\/images\/spotlight-poi2.png","markerXMLPathURL":"\/\/rttprod.wpengine.com\/wp-content\/uploads\/wp-google-maps\/","is_admin":"0","locale":"en_US","isServerIIS":"","import_security_nonce":"f1ad04d40f","export_security_nonce":"387fb211b3","gutenbergData":{"maps":[{"id":"1","map_title":"AVANZA IMPLEMENTS LLC Locations"},{"id":"4","map_title":"Blank"},{"id":"5","map_title":"AVANZA IMPLEMENTS LLC Locations"},{"id":"6","map_title":"Commercial Map"},{"id":"7","map_title":"New Map"}]},"postID":"4179","mediaRestUrl":"https:\/\/www.republictitle.com\/wp-json\/wp\/v2\/media\/","categoryTreeData":{"id":0,"name":"All","icon":{"url":"","retina":false},"priority":0,"children":[{"id":2,"name":"Commercial Locations","icon":{"url":"https:\/\/rttprod.wpengine.com\/wp-content\/uploads\/2018\/12\/5c2a43c364ba49.76063557-1.png","retina":false},"priority":0,"children":[],"marker_count":0},{"id":1,"name":"Residential Locations","icon":{"url":"https:\/\/rttprod.wpengine.com\/wp-content\/uploads\/2018\/12\/5c2a438906ac35.16410029-1.png","retina":false},"priority":0,"children":[],"marker_count":0}],"marker_count":0},"defaultPreloaderImage":"https:\/\/www.republictitle.com\/wp-content\/plugins\/wp-google-maps-pro\/images\/AjaxLoader.gif","pro_version":"8.1.19","heatmapIcon":"https:\/\/www.republictitle.com\/wp-content\/plugins\/wp-google-maps-pro\/images\/heatmap-point.png"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://www.republictitle.com/wp-content/plugins/wp-google-maps-pro/js/v8/wp-google-maps-pro.min.js?ver=8.1.21+pro-8.1.19' id='wpgmza-js'></script>
